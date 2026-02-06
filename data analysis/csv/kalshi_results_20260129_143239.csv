@@ -1,0 +1,590 @@
+RANK,EFFICIENCY,PRICE,VOL,TIME_H,TICKER,TITLE
+1,2.113,0.84,2219,8,KXNBAMENTION-26JAN29MILWAS-RETI,"What will the announcers say during Milwaukee at Washington professional basketball game originally scheduled for Jan 29, 2026?"
+2,1.96,0.85,259,8,KXSPOTIFYD-26JAN29-END,"Top USA Song on Spotify on Jan 29, 2026?"
+3,1.894,0.84,15697,9,KXHIGHCHI-26JAN29-B18.5,"Will the high temp in Chicago be 18-19° on Jan 29, 2026?"
+4,1.68,0.83,2751,11,KXHIGHTLV-26JAN29-B63.5,"Will the maximum temperature be  63-64° on Jan 29, 2026?"
+5,1.563,0.84,31616,11,KXHIGHLAX-26JAN29-B81.5,"Will the **high temp in LA** be 81-82° on Jan 29, 2026?"
+6,1.277,0.80,991,18,KXTRUMPMENTIONB-26JAN30-PAID,What will Donald Trump say during Announcement on January 29th?
+7,1.119,0.82,152,18,KXTRUMPMENTIONB-26JAN30-COCA,What will Donald Trump say during Announcement on January 29th?
+8,0.92,0.84,4879,19,KXAPRPOTUS-26JAN30-43.0,Will the President's approval rating be between 42.9 and 43.1 according to RealClearPolitics?
+9,0.904,0.81,5362,24,KXINX-26JAN30H1600-B6962,"Will the S&P 500 be between 6950 and 6974.9999 on Jan 30, 2026 at 4pm EST?"
+10,0.868,0.81,4227,25,KXBTCD-26JAN3017-T97249.99,"Bitcoin price  on Jan 30, 2026?"
+11,0.858,0.92,2610,9,KXLOWTCHI-26JAN29-B-3.5,"Will the minimum temperature be  -4--3° on Jan 29, 2026?"
+12,0.812,0.82,39032,25,KXBTCD-26JAN3017-T85749.99,"Bitcoin price  on Jan 30, 2026?"
+13,0.788,0.83,4326,24,KXINX-26JAN30H1600-B6987,"Will the S&P 500 be between 6975 and 6999.9999 on Jan 30, 2026 at 4pm EST?"
+14,0.785,0.86,3651,19,KXAPRPOTUS-26JAN30-42.4,Will the President's approval rating be between 42.3 and 42.5 according to RealClearPolitics?
+15,0.757,0.83,635,25,KXETH-26JAN3017-B2800,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+16,0.742,0.93,1237,9,KXHIGHTNOLA-26JAN29-B61.5,"Will the maximum temperature be  61-62° on Jan 29, 2026?"
+17,0.732,0.84,2257,24,KXINX-26JAN30H1600-B6937,"Will the S&P 500 be between 6925 and 6949.9999 on Jan 30, 2026 at 4pm EST?"
+18,0.727,0.80,768,32,KXHIGHMIA-26JAN30-B67.5,"Will the **high temp in Miami** be 67-68° on Jan 30, 2026?"
+19,0.708,0.92,3564,11,KXHIGHTSFO-26JAN29-B59.5,"Will the maximum temperature be  59-60° on Jan 29, 2026?"
+20,0.705,0.80,423,33,KXLOWTCHI-26JAN30-B5.5,"Will the minimum temperature be  5-6° on Jan 30, 2026?"
+21,0.704,0.94,618,8,KXSPOTSTREAMSUSA-26JAN29-1.5,"How many streams will the top song on Spotify's Daily Top Songs USA for Jan 29, 2026 have?"
+22,0.704,0.94,532,8,KXALBUMSALES-HOW-40000,"Will How Did I Get Here? have At least 40000 album sales on the Hits Daily Double Top 50 Chart for January 30, 2026?"
+23,0.692,0.88,187,18,KXTRUMPMENTIONB-26JAN30-WOKE,What will Donald Trump say during Announcement on January 29th?
+24,0.685,0.80,1007,34,KXHIGHDEN-26JAN30-B49.5,"Will the **high temp in Denver** be 49-50° on Jan 30, 2026?"
+25,0.681,0.81,350,32,KXLOWTPHIL-26JAN30-B2.5,"Will the minimum temperature be  2-3° on Jan 30, 2026?"
+26,0.661,0.81,254,33,KXLOWTCHI-26JAN30-B1.5,"Will the minimum temperature be  1-2° on Jan 30, 2026?"
+27,0.661,0.81,231,33,KXHIGHAUS-26JAN30-B59.5,"Will the **high temp in Austin** be 59-60° on Jan 30, 2026?"
+28,0.651,0.85,6817,25,KXETH-26JAN3017-B2760,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+29,0.651,0.85,240,25,KXXRP-26JAN3017-B1.8899500,"Ripple price at Jan 30, 2026 at 5pm EST?"
+30,0.651,0.85,289,25,KXXRP-26JAN3017-B1.9099500,"Ripple price at Jan 30, 2026 at 5pm EST?"
+31,0.651,0.85,59,25,KXSOLE-26JAN3017-B125,"SOL price  on Jan 30, 2026?"
+32,0.642,0.81,65,34,KXLOWTDEN-26JAN30-B24.5,"Will the minimum temperature be  24-25° on Jan 30, 2026?"
+33,0.64,0.86,5035,23,KXTNOTEW-26JAN30-B4.27,"Will the yield of 10-year U.S. treasury notes be between 4.26 and 4.28 on Jan 30, 2026?"
+34,0.64,0.86,2838,23,KXTNOTEW-26JAN30-B4.21,"Will the yield of 10-year U.S. treasury notes be between 4.20 and 4.22 on Jan 30, 2026?"
+35,0.614,0.93,66517,11,KXHIGHLAX-26JAN29-B77.5,"Will the **high temp in LA** be 77-78° on Jan 29, 2026?"
+36,0.6,0.86,312,25,KXXRPD-26JAN3017-T2.1199,"Ripple price at Jan 30, 2026 at 5pm EST?"
+37,0.6,0.86,305,25,KXSOLD-26JAN3017-T121.9999,"SOL price  on Jan 30, 2026?"
+38,0.6,0.86,160,25,KXETH-26JAN3017-B2840,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+39,0.6,0.82,615,34,KXHIGHDEN-26JAN30-B45.5,"Will the **high temp in Denver** be 45-46° on Jan 30, 2026?"
+40,0.6,0.82,744,34,KXLOWTDEN-26JAN30-B26.5,"Will the minimum temperature be  26-27° on Jan 30, 2026?"
+41,0.594,0.83,52,32,KXHIGHTDC-26JAN30-B24.5,"Will the maximum temperature be  24-25° on Jan 30, 2026?"
+42,0.58,0.95,72,8,KXSPOTIFY2D-26JAN29-APE,"Will the runner-up top Song on Jan 29, 2026 be Aperture?"
+43,0.576,0.83,718,33,KXHIGHCHI-26JAN30-B20.5,"Will the high temp in Chicago be 20-21° on Jan 30, 2026?"
+44,0.576,0.83,357,33,KXHIGHAUS-26JAN30-B53.5,"Will the **high temp in Austin** be 53-54° on Jan 30, 2026?"
+45,0.573,0.87,88,24,KXNASDAQ100-26JAN30H1600-B25850,"Will the Nasdaq-100 be between 25800 and 25899.9900 at the end of Jan 30, 2026 at 4pm EST?"
+46,0.573,0.87,236,24,KXNASDAQ100-26JAN30H1600-B25950,"Will the Nasdaq-100 be between 25900 and 25999.9900 at the end of Jan 30, 2026 at 4pm EST?"
+47,0.552,0.84,405,32,KXHIGHPHIL-26JAN30-B17.5,"Will the **high temp in Philadelphia** be 17-18° on Jan 30, 2026?"
+48,0.551,0.87,843,25,KXSOLE-26JAN3017-B123,"SOL price  on Jan 30, 2026?"
+49,0.551,0.87,21585,25,KXETHD-26JAN3017-T2899.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+50,0.544,0.83,1246,35,KXHIGHLAX-26JAN30-B83.5,"Will the **high temp in LA** be 83-84° on Jan 30, 2026?"
+51,0.543,0.94,2311,10,KXNBAMENTION-26JAN29OKCMIN-RETI,"What will the announcers say during Oklahoma City at Minnesota professional basketball game originally scheduled for Jan 29, 2026?"
+52,0.536,0.84,549,33,KXHIGHCHI-26JAN30-T16,"Will the high temp in Chicago be <16° on Jan 30, 2026?"
+53,0.523,0.88,114,24,KXNASDAQ100-26JAN30H1600-B25750,"Will the Nasdaq-100 be between 25700 and 25799.9900 at the end of Jan 30, 2026 at 4pm EST?"
+54,0.52,0.84,190,34,KXLOWTDEN-26JAN30-T20,"Will the minimum temperature be  <20° on Jan 30, 2026?"
+55,0.519,0.94,3668,11,KXHIGHTLV-26JAN29-B67.5,"Will the maximum temperature be  67-68° on Jan 29, 2026?"
+56,0.518,0.95,2689,9,KXHIGHTNOLA-26JAN29-B57.5,"Will the maximum temperature be  57-58° on Jan 29, 2026?"
+57,0.502,0.88,2524,25,KXSOLD-26JAN3017-T120.9999,"SOL price  on Jan 30, 2026?"
+58,0.502,0.88,181,25,KXETH-26JAN3017-B2880,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+59,0.496,0.85,194,33,KXLOWTCHI-26JAN30-T6,"Will the minimum temperature be  >6° on Jan 30, 2026?"
+60,0.473,0.89,607,24,KXINX-26JAN30H1600-B7137,"Will the S&P 500 be between 7125 and 7149.9999 on Jan 30, 2026 at 4pm EST?"
+61,0.473,0.89,1142,24,KXINX-26JAN30H1600-B7087,"Will the S&P 500 be between 7075 and 7099.9999 on Jan 30, 2026 at 4pm EST?"
+62,0.473,0.89,1893,24,KXINX-26JAN30H1600-B6912,"Will the S&P 500 be between 6900 and 6924.9999 on Jan 30, 2026 at 4pm EST?"
+63,0.471,0.86,2108,32,KXHIGHNY-26JAN30-B19.5,"Will the **high temp in NYC** be 19-20° on Jan 30, 2026?"
+64,0.469,0.95,14515,10,KXHIGHDEN-26JAN29-B49.5,"Will the **high temp in Denver** be 49-50° on Jan 29, 2026?"
+65,0.469,0.95,1887,10,KXLOWTDEN-26JAN29-B24.5,"Will the minimum temperature be  24-25° on Jan 29, 2026?"
+66,0.468,0.85,1528,35,KXHIGHLAX-26JAN30-B79.5,"Will the **high temp in LA** be 79-80° on Jan 30, 2026?"
+67,0.455,0.89,261,25,KXDOGE-26JAN3017-B0.122,"Dogecoin price range  on Jan 30, 2026?"
+68,0.455,0.89,53220,25,KXBTCD-26JAN3017-T86249.99,"Bitcoin price  on Jan 30, 2026?"
+69,0.453,0.90,12056,22,KXWTIW-26JAN30-B63.5,"Will the WTI front-month settle oil price  be Between 63 and 63.99 on Jan 30, 2026??"
+70,0.432,0.87,595,32,KXHIGHPHIL-26JAN30-T22,"Will the **high temp in Philadelphia** be >22° on Jan 30, 2026?"
+71,0.431,0.86,270,35,KXHIGHTLV-26JAN30-T65,"Will the maximum temperature be  <65° on Jan 30, 2026?"
+72,0.428,0.95,3998,11,KXHIGHTLV-26JAN29-T63,"Will the maximum temperature be  <63° on Jan 29, 2026?"
+73,0.425,0.90,182,24,KXINX-26JAN30H1600-B7162,"Will the S&P 500 be between 7150 and 7174.9999 on Jan 30, 2026 at 4pm EST?"
+74,0.418,0.80,215580,56,KXBTCMINMON-BTC-26JAN31-80000,"Will BTC trimmed mean be below $80000.00 by 11:59 PM ET on Jan 31, 2026?"
+75,0.409,0.90,188,25,KXXRPD-26JAN3017-T2.0999,"Ripple price at Jan 30, 2026 at 5pm EST?"
+76,0.407,0.87,4168,34,KXHIGHDEN-26JAN30-B51.5,"Will the **high temp in Denver** be 51-52° on Jan 30, 2026?"
+77,0.395,0.87,1005,35,KXHIGHTSFO-26JAN30-T68,"Will the maximum temperature be  >68° on Jan 30, 2026?"
+78,0.387,0.91,3864,23,KXTNOTEW-26JAN30-B4.30,"Will the yield of 10-year U.S. treasury notes be between 4.29 and 4.31 on Jan 30, 2026?"
+79,0.382,0.88,269,33,KXLOWTAUS-26JAN30-B30.5,"Will the minimum temperature be  30-31° on Jan 30, 2026?"
+80,0.381,0.93,11375,18,KXTRUMPMENTIONB-26JAN30-CRYP,What will Donald Trump say during Announcement on January 29th?
+81,0.381,0.93,714,18,KXTRUMPMENTIONB-26JAN30-SCHO,What will Donald Trump say during Announcement on January 29th?
+82,0.378,0.91,354,24,KXNASDAQ100-26JAN30H1600-B25650,"Will the Nasdaq-100 be between 25600 and 25699.9900 at the end of Jan 30, 2026 at 4pm EST?"
+83,0.378,0.91,257,24,KXNASDAQ100-26JAN30H1600-B24150,"Will the Nasdaq-100 be between 24100 and 24199.9900 at the end of Jan 30, 2026 at 4pm EST?"
+84,0.363,0.91,1893,25,KXBTC-26JAN3017-B84500,"Bitcoin price range  on Jan 30, 2026?"
+85,0.363,0.91,52,25,KXSOLE-26JAN3017-B130,"SOL price  on Jan 30, 2026?"
+86,0.363,0.91,58,25,KXSOLD-26JAN3017-T132.9999,"SOL price  on Jan 30, 2026?"
+87,0.363,0.91,850,25,KXBTC-26JAN3017-B84000,"Bitcoin price range  on Jan 30, 2026?"
+88,0.361,0.88,1687,35,KXHIGHLAX-26JAN30-T79,"Will the **high temp in LA** be <79° on Jan 30, 2026?"
+89,0.357,0.89,1007,32,KXHIGHMIA-26JAN30-B71.5,"Will the **high temp in Miami** be 71-72° on Jan 30, 2026?"
+90,0.342,0.83,47509,56,KXTRUMPMEET-26JAN-GNEW,"Donald Trump and Gavin Newsom meet before Feb 1, 2026?"
+91,0.34,0.97,458,8,KXSPOTSTREAMGLOBAL-26JAN29-8,"How many streams will the top song on Spotify's Daily Top Songs Global for Jan 29, 2026 have?"
+92,0.34,0.97,86,8,KXSPOTIFYD-26JAN29-CHO,"Top USA Song on Spotify on Jan 29, 2026?"
+93,0.34,0.97,14679,8,KXHIGHMIA-26JAN29-B74.5,"Will the **high temp in Miami** be 74-75° on Jan 29, 2026?"
+94,0.34,0.97,641,8,KXSPOTSTREAMSUSA-26JAN29-2.75,"How many streams will the top song on Spotify's Daily Top Songs USA for Jan 29, 2026 have?"
+95,0.34,0.92,173,23,KXTNOTEW-26JAN30-B4.33,"Will the yield of 10-year U.S. treasury notes be between 4.32 and 4.34 on Jan 30, 2026?"
+96,0.338,0.96,6599,11,KXHIGHTSEA-26JAN29-B55.5,"Will the maximum temperature be  55-56° on Jan 29, 2026?"
+97,0.338,0.96,5599,11,KXHIGHTSFO-26JAN29-B65.5,"Will the maximum temperature be  65-66° on Jan 29, 2026?"
+98,0.336,0.89,643,34,KXHIGHDEN-26JAN30-T45,"Will the **high temp in Denver** be <45° on Jan 30, 2026?"
+99,0.332,0.92,303,24,KXINX-26JAN30H1600-B6637,"Will the S&P 500 be between 6625 and 6649.9999 on Jan 30, 2026 at 4pm EST?"
+100,0.332,0.92,7457,24,KXINX-26JAN30H1600-B7012,"Will the S&P 500 be between 7000 and 7024.9999 on Jan 30, 2026 at 4pm EST?"
+101,0.332,0.92,146,24,KXNASDAQ100-26JAN30H1600-B26050,"Will the Nasdaq-100 be between 26000 and 26099.9900 at the end of Jan 30, 2026 at 4pm EST?"
+102,0.33,0.87,166405,42,KXGOVTFUND-26JAN31,"Will legislation that, upon becoming law, results in no lapse in federal appropriations on January 31, 2026 at 12:01am, for all twelve appropriations bills become law before Jan 31, 2026?"
+103,0.321,0.90,614,32,KXLOWTNYC-26JAN30-B5.5,"Will the minimum temperature be  5-6° on Jan 30, 2026?"
+104,0.321,0.90,230,32,KXLOWTNYC-26JAN30-B11.5,"Will the minimum temperature be  11-12° on Jan 30, 2026?"
+105,0.321,0.90,341,32,KXLOWTPHIL-26JAN30-B0.5,"Will the minimum temperature be  0-1° on Jan 30, 2026?"
+106,0.319,0.92,5343,25,KXETHD-26JAN3017-T3259.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+107,0.319,0.92,1006,25,KXBTC-26JAN3017-B85000,"Bitcoin price range  on Jan 30, 2026?"
+108,0.319,0.92,1235,25,KXSOLE-26JAN3017-B127,"SOL price  on Jan 30, 2026?"
+109,0.311,0.90,510,33,KXHIGHAUS-26JAN30-T60,"Will the **high temp in Austin** be >60° on Jan 30, 2026?"
+110,0.304,0.97,2626,9,KXHIGHTNOLA-26JAN29-B63.5,"Will the maximum temperature be  63-64° on Jan 29, 2026?"
+111,0.293,0.90,149,35,KXLOWTLAX-26JAN30-B50.5,"Will the minimum temperature be  50-51° on Jan 30, 2026?"
+112,0.287,0.93,255,24,KXNASDAQ100-26JAN30H1600-B25550,"Will the Nasdaq-100 be between 25500 and 25599.9900 at the end of Jan 30, 2026 at 4pm EST?"
+113,0.287,0.93,688,24,KXINX-26JAN30H1600-B7112,"Will the S&P 500 be between 7100 and 7124.9999 on Jan 30, 2026 at 4pm EST?"
+114,0.277,0.91,1816,33,KXHIGHAUS-26JAN30-T53,"Will the **high temp in Austin** be <53° on Jan 30, 2026?"
+115,0.277,0.91,1472,33,KXHIGHCHI-26JAN30-B22.5,"Will the high temp in Chicago be 22-23° on Jan 30, 2026?"
+116,0.276,0.93,2758,25,KXETH-26JAN3017-B2920,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+117,0.276,0.93,590,25,KXSOLD-26JAN3017-T117.9999,"SOL price  on Jan 30, 2026?"
+118,0.276,0.93,86186,25,KXBTCD-26JAN3017-T86749.99,"Bitcoin price  on Jan 30, 2026?"
+119,0.276,0.93,335,25,KXXRPD-26JAN3017-T2.0599,"Ripple price at Jan 30, 2026 at 5pm EST?"
+120,0.276,0.93,8174,25,KXETHD-26JAN3017-T3139.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+121,0.276,0.93,472,25,KXBTC-26JAN3017-B83500,"Bitcoin price range  on Jan 30, 2026?"
+122,0.266,0.95,1053,18,KXTRUMPMENTIONB-26JAN30-TEAC,What will Donald Trump say during Announcement on January 29th?
+123,0.261,0.80,6302,90,KXRT-MEL-25,Melania Rotten Tomatoes score?
+124,0.251,0.97,3765,11,KXHIGHTSFO-26JAN29-T59,"Will the maximum temperature be  <59° on Jan 29, 2026?"
+125,0.251,0.97,26100,11,KXHIGHLAX-26JAN29-T82,"Will the **high temp in LA** be >82° on Jan 29, 2026?"
+126,0.25,0.92,113,32,KXLOWTMIA-26JAN30-T63,"Will the minimum temperature be  >63° on Jan 30, 2026?"
+127,0.248,0.87,36613,56,KXRAINMIAM-26JAN-2,Rain in Miami in Jan 2026?
+128,0.244,0.94,716,24,KXINX-26JAN30H1600-B6887,"Will the S&P 500 be between 6875 and 6899.9999 on Jan 30, 2026 at 4pm EST?"
+129,0.234,0.94,639,25,KXSOLD-26JAN3017-T119.9999,"SOL price  on Jan 30, 2026?"
+130,0.234,0.94,21348,25,KXETHD-26JAN3017-T3059.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+131,0.234,0.94,510,25,KXBTC-26JAN3017-B83000,"Bitcoin price range  on Jan 30, 2026?"
+132,0.234,0.94,16016,25,KXBTC-26JAN3017-B85500,"Bitcoin price range  on Jan 30, 2026?"
+133,0.234,0.94,7161,25,KXSOLD-26JAN3017-T139.9999,"SOL price  on Jan 30, 2026?"
+134,0.234,0.94,350,25,KXXRPD-26JAN3017-T2.2199,"Ripple price at Jan 30, 2026 at 5pm EST?"
+135,0.234,0.94,1993,25,KXBTC-26JAN3017-B86000,"Bitcoin price range  on Jan 30, 2026?"
+136,0.23,0.86,72612,66,KXEPSTEIN-26FEB01,"Will Trump release any documents about Epstein's associates before Feb 1, 2026?"
+137,0.227,0.88,5194,56,KXPROFILECHANGEMUSK-26FEB-ELO,Will @elonmusk change their profile picture to anything new?
+138,0.225,0.98,233,8,KXSPOTIFYW-26JAN29-4RA,"Top Song on Weekly Top Songs USA on Jan 29, 2026?"
+139,0.225,0.98,7776,8,KXSPOTIFYW-26JAN29-THE,"Top Song on Weekly Top Songs USA on Jan 29, 2026?"
+140,0.225,0.98,71,8,KXALBUMSALES-HOW-30000,"Will How Did I Get Here? have At least 30000 album sales on the Hits Daily Double Top 50 Chart for January 30, 2026?"
+141,0.225,0.98,324,8,KXSPOTIFYW-26JAN29-SOE,"Top Song on Weekly Top Songs USA on Jan 29, 2026?"
+142,0.225,0.98,126,8,KXSPOTIFYW-26JAN29-ORD,"Top Song on Weekly Top Songs USA on Jan 29, 2026?"
+143,0.225,0.98,2044,8,KXSPOTIFYW-26JAN29-MAN,"Top Song on Weekly Top Songs USA on Jan 29, 2026?"
+144,0.225,0.98,28414,8,KXSPOTIFYW-26JAN29-IJU,"Top Song on Weekly Top Songs USA on Jan 29, 2026?"
+145,0.225,0.98,2821,8,KXSPOTIFYW-26JAN29-CHO,"Top Song on Weekly Top Songs USA on Jan 29, 2026?"
+146,0.225,0.98,11754,8,KXHIGHPHIL-26JAN29-T24,"Will the **high temp in Philadelphia** be >24° on Jan 29, 2026?"
+147,0.224,0.98,6342,8,KXLOWTNYC-26JAN29-B4.5,"Will the minimum temperature be  4-5° on Jan 29, 2026?"
+148,0.224,0.98,4713,8,KXHIGHTDC-26JAN29-B28.5,"Will the maximum temperature be  28-29° on Jan 29, 2026?"
+149,0.224,0.98,4961,8,KXLOWTNYC-26JAN29-T2,"Will the minimum temperature be  <2° on Jan 29, 2026?"
+150,0.224,0.98,4819,8,KXLOWTNYC-26JAN29-B8.5,"Will the minimum temperature be  8-9° on Jan 29, 2026?"
+151,0.224,0.98,4631,8,KXLOWTPHIL-26JAN29-B3.5,"Will the minimum temperature be  3-4° on Jan 29, 2026?"
+152,0.224,0.98,2837,8,KXLOWTPHIL-26JAN29-B5.5,"Will the minimum temperature be  5-6° on Jan 29, 2026?"
+153,0.217,0.93,126,32,KXLOWTNYC-26JAN30-T12,"Will the minimum temperature be  >12° on Jan 30, 2026?"
+154,0.21,0.93,828,33,KXHIGHTNOLA-26JAN30-T53,"Will the maximum temperature be  <53° on Jan 30, 2026?"
+155,0.21,0.93,351,33,KXLOWTAUS-26JAN30-B28.5,"Will the minimum temperature be  28-29° on Jan 30, 2026?"
+156,0.208,0.91,61,44,KXSWISSLEAGUEGAME-26JAN17WINSTG-TIE,Winterthur vs St. Gallen Winner?
+157,0.206,0.95,933,23,KXTNOTEW-26JAN30-B4.18,"Will the yield of 10-year U.S. treasury notes be between 4.17 and 4.19 on Jan 30, 2026?"
+158,0.205,0.89,5559,56,KXETHMINMON-ETH-26JAN31-2500,"Will ETH trimmed mean be below $2500.00 by 11:59 PM ET on Jan 31, 2026?"
+159,0.205,0.89,41752,56,KXRAINSEAM-26JAN-5,Rain in Seattle in Jan 2026?
+160,0.201,0.95,256,24,KXINX-26JAN30H1600-T7249.9999,"Will the S&P 500 be above 7249.9999 on Jan 30, 2026 at 4pm EST?"
+161,0.201,0.95,80,24,KXNASDAQ100-26JAN30H1600-B25450,"Will the Nasdaq-100 be between 25400 and 25499.9900 at the end of Jan 30, 2026 at 4pm EST?"
+162,0.2,0.98,1720,9,KXLOWTCHI-26JAN29-T-4,"Will the minimum temperature be  <-4° on Jan 29, 2026?"
+163,0.198,0.93,74,35,KXHIGHTSEA-26JAN30-B51.5,"Will the maximum temperature be  51-52° on Jan 30, 2026?"
+164,0.198,0.84,4189,90,KXRT-MEL-30,Melania Rotten Tomatoes score?
+165,0.198,0.84,5083,90,KXTRUMPSAY-26FEB02-MARI,"Will Trump say ""Marijuana / Weed / Cannabis"" before Feb 2, 2026?"
+166,0.193,0.95,10348,25,KXETHD-26JAN3017-T3339.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+167,0.193,0.95,2832,25,KXBTC-26JAN3017-B86500,"Bitcoin price range  on Jan 30, 2026?"
+168,0.193,0.95,5900,25,KXBTCD-26JAN3017-T96749.99,"Bitcoin price  on Jan 30, 2026?"
+169,0.184,0.90,100,56,KXIPORIPPLING-26FEB01,When will Rippling IPO?
+170,0.184,0.90,122,56,KXIPOFANNIE-26FEB01,When will Fannie Mae officially announce an IPO?
+171,0.181,0.98,2325,10,KXLOWTDEN-26JAN29-T22,"Will the minimum temperature be  <22° on Jan 29, 2026?"
+172,0.174,0.89,12220,66,KXTRUMPSAYMONTH-26FEB01-THIR,"Will Trump say ""Third Term"" before Feb 1, 2026?"
+173,0.174,0.90,154,59,KXFIGHTMENTION-26JAN31HOOSAI-SMAS,"What will the announcers say during Hooker vs Saint-Denis professional MMA fight originally scheduled for Jan 31, 2026?"
+174,0.173,0.94,4268,34,KXHIGHDEN-26JAN30-T52,"Will the **high temp in Denver** be >52° on Jan 30, 2026?"
+175,0.169,0.96,4614,22,KXWTIW-26JAN30-B58.5,"Will the WTI front-month settle oil price  be Between 58 and 58.99 on Jan 30, 2026??"
+176,0.168,0.94,120,35,KXHIGHTSEA-26JAN30-B49.5,"Will the maximum temperature be  49-50° on Jan 30, 2026?"
+177,0.166,0.98,1003,11,KXHIGHTLV-26JAN29-T70,"Will the maximum temperature be  >70° on Jan 29, 2026?"
+178,0.164,0.91,224,56,KXDOGEMAXMON-DOGE-26JAN31-017,"Will DOGE trimmed mean be above $0.17 by 11:59 PM ET on Jan 31, 2026?"
+179,0.164,0.91,45295,56,KXTORNADO-26JAN-25,Will there be more than 25 tornadoes in January?
+180,0.164,0.91,41102,56,KXBTCMINMON-BTC-26JAN31-77500,"Will BTC trimmed mean be below $77500.00 by 11:59 PM ET on Jan 31, 2026?"
+181,0.163,0.96,608,23,KXTNOTEW-26JAN30-T4.46,"Will the yield of 10-year U.S. treasury notes be above 4.46 on Jan 30, 2026?"
+182,0.161,0.88,7763,79,KXTOPSONG-MAN,Will Man I Need be the #1 song on the Billboard Hot 100 charts this week?
+183,0.159,0.96,161,24,KXNASDAQ100-26JAN30H1600-B26150,"Will the Nasdaq-100 be between 26100 and 26199.9900 at the end of Jan 30, 2026 at 4pm EST?"
+184,0.159,0.96,1556,24,KXNASDAQ100-26JAN30H1600-T24100,"Will the Nasdaq-100 be below 24100 at the end of Jan 30, 2026 at 4pm EST?"
+185,0.159,0.96,1034,24,KXINX-26JAN30H1600-B6862,"Will the S&P 500 be between 6850 and 6874.9999 on Jan 30, 2026 at 4pm EST?"
+186,0.157,0.90,45712,66,KXTRUMPSAYMONTH-26FEB01-STIM,"Will Trump say ""Stimulus"" before Feb 1, 2026?"
+187,0.155,0.87,5876,90,KXTRUMPSAY-26FEB02-EPST,"Will Trump say ""Epstein"" before Feb 2, 2026?"
+188,0.153,0.96,6791,25,KXBTC-26JAN3017-B90500,"Bitcoin price range  on Jan 30, 2026?"
+189,0.153,0.96,498,25,KXSOLD-26JAN3017-T126.9999,"SOL price  on Jan 30, 2026?"
+190,0.153,0.96,5541,25,KXETH-26JAN3017-B2720,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+191,0.153,0.96,2853,25,KXBTC-26JAN3017-B87000,"Bitcoin price range  on Jan 30, 2026?"
+192,0.153,0.96,477,25,KXBTC-26JAN3017-B92500,"Bitcoin price range  on Jan 30, 2026?"
+193,0.153,0.96,3263,25,KXXRPD-26JAN3017-T1.8799,"Ripple price at Jan 30, 2026 at 5pm EST?"
+194,0.153,0.96,168,25,KXETH-26JAN3017-B3160,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+195,0.153,0.96,16474,25,KXBTCD-26JAN3017-T91749.99,"Bitcoin price  on Jan 30, 2026?"
+196,0.153,0.96,32106,25,KXBTCD-26JAN3017-T94249.99,"Bitcoin price  on Jan 30, 2026?"
+197,0.153,0.96,361,25,KXBTC-26JAN3017-B81500,"Bitcoin price range  on Jan 30, 2026?"
+198,0.153,0.96,715,25,KXBTC-26JAN3017-B82000,"Bitcoin price range  on Jan 30, 2026?"
+199,0.153,0.96,15301,25,KXBTCD-26JAN3017-T94749.99,"Bitcoin price  on Jan 30, 2026?"
+200,0.153,0.96,13273,25,KXBTCD-26JAN3017-T95249.99,"Bitcoin price  on Jan 30, 2026?"
+201,0.153,0.96,72,25,KXXRP-26JAN3017-B1.8499500,"Ripple price at Jan 30, 2026 at 5pm EST?"
+202,0.153,0.96,280,25,KXETH-26JAN3017-B3040,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+203,0.151,0.95,94,32,KXLOWTNYC-26JAN30-T5,"Will the minimum temperature be  <5° on Jan 30, 2026?"
+204,0.148,0.97,3609,19,KXAPRPOTUS-26JAN30-43.3,Will the President's approval rating be between 43.2 and 43.4 according to RealClearPolitics?
+205,0.148,0.97,4438,19,KXAPRPOTUS-26JAN30-43.7,Will the President's approval rating be above 43.7 according to RealClearPolitics?
+206,0.148,0.97,9498,19,KXAPRPOTUS-26JAN30-42.1,Will the President's approval rating be between 42.0 and 42.2 according to RealClearPolitics?
+207,0.147,0.95,276,33,KXHIGHTNOLA-26JAN30-T60,"Will the maximum temperature be  >60° on Jan 30, 2026?"
+208,0.146,0.86,22492,104,KXPGARETURN-26FEB03-JRAH,"Will Jon Rahm rejoin, apply to rejoin, or announce that he will rejoin the PGA Tour before Feb 3, 2026?"
+209,0.144,0.92,19197,56,KXRAINSFOM-26JAN-5,Rain in San Francisco in Jan 2026?
+210,0.144,0.92,11768,56,KXNURSESTRIKE-26-FEB01,"Will all NYSNA-represented nurses participating in the NYC hospital strike that began on January 12, 2026 stop striking before Feb 1, 2026?"
+211,0.141,0.84,46073,126,KXCBDECISIONAUSTRALIA-26FEB03-HOLD,Will the Reserve Bank of Australia Maintain current rate at the Feb 2025 RBA meeting?
+212,0.139,0.95,2403,35,KXHIGHLAX-26JAN30-T86,"Will the **high temp in LA** be >86° on Jan 30, 2026?"
+213,0.138,0.95,280,35,KXHIGHTSEA-26JAN30-B55.5,"Will the maximum temperature be  55-56° on Jan 30, 2026?"
+214,0.138,0.95,66,35,KXHIGHTSFO-26JAN30-T61,"Will the maximum temperature be  <61° on Jan 30, 2026?"
+215,0.134,0.80,4273,176,KXNBATRADE-26FEB06-DDIV,"Will Donte DiVincenzo be traded by Minnesota before Feb 6, 2026"
+216,0.134,0.80,106040,176,KXNBATRADE-26FEB06-ADAV,"Will Anthony Davis be traded by Dallas before Feb 6, 2026"
+217,0.131,0.90,4313,79,KXTOPSONG-CHO,Will Choosin' Texas be the #1 song on the Billboard Hot 100 charts this week?
+218,0.131,0.84,382,136,KXADP-26JAN-T100000,ADP employment change in Jan 2026?
+219,0.131,0.91,284,70,KXDENSNOWMB-26JAN-25.0,Snow in Denver Area in Jan 2026?
+220,0.131,0.90,700,79,KXBILLBOARDRUNNERUPSONG-26FEB07-APE,"Billboard Hot 100 #2 on Feb 7, 2026 chart?"
+221,0.128,0.89,4542,90,KXRT-MEL-35,Melania Rotten Tomatoes score?
+222,0.125,0.93,22388,56,KXETHMINMON-ETH-26JAN31-2750,"Will ETH trimmed mean be below $2750.00 by 11:59 PM ET on Jan 31, 2026?"
+223,0.125,0.93,1098,56,KXJUDGECOUNT-26JAN-6,Will above 7 or above judges be confirmed in Jan 2026?
+224,0.125,0.97,9042,22,KXWTIW-26JAN30-B62.5,"Will the WTI front-month settle oil price  be Between 62 and 62.99 on Jan 30, 2026??"
+225,0.125,0.81,7510,176,KXNBATRADE-26FEB06-LMAR,"Will Lauri Markkanen be traded by Utah before Feb 6, 2026"
+226,0.125,0.93,138,56,KXZECMAXMON-ZEC-26JAN31-530,"Will ZEC trimmed mean be above $530.00 by 11:59 PM ET on Jan 31, 2026?"
+227,0.122,0.88,220,104,KXNETFLIXRANKMOVIERUNNERUP-26FEB02-THE,"#2 US Netflix Movie on Feb 2, 2026?"
+228,0.122,0.92,9880,66,KXTRUMPSAYMONTH-26FEB01-TURN,"Will Trump say ""Turning Point"" before Feb 1, 2026?"
+229,0.12,0.96,2684,32,KXHIGHNY-26JAN30-T15,"Will the **high temp in NYC** be <15° on Jan 30, 2026?"
+230,0.12,0.81,7942,184,KXU3-26JAN-T4.5,Will the unemployment rate (U-3) be above 4.5% in January?
+231,0.12,0.81,4076,184,KXPAYROLLS-26JAN-T100000,Will above 100000 jobs be added in January 2026?
+232,0.119,0.86,7856,128,KXSNOWSTORM-26FEBNYC-2.0,"Snow in New York City from Jan 30, 2026 through Feb 3rd, 2026?"
+233,0.118,0.97,100,24,KXNASDAQ100-26JAN30H1600-B25350,"Will the Nasdaq-100 be between 25300 and 25399.9900 at the end of Jan 30, 2026 at 4pm EST?"
+234,0.117,0.82,11717,176,KXNBATRADE-26FEB06-HJON,"Will Herbert Jones be traded by New Orleans before Feb 6, 2026"
+235,0.115,0.92,5585,70,KXDETSNOWM-26JAN-20.0,Snow in Detroit in Jan 2026?
+236,0.113,0.97,4969,25,KXBTCD-26JAN3017-T95749.99,"Bitcoin price  on Jan 30, 2026?"
+237,0.113,0.97,81768,25,KXBTCD-26JAN3017-T90249.99,"Bitcoin price  on Jan 30, 2026?"
+238,0.113,0.97,8103,25,KXBTCD-26JAN3017-T96249.99,"Bitcoin price  on Jan 30, 2026?"
+239,0.113,0.97,56575,25,KXBTCD-26JAN3017-T87249.99,"Bitcoin price  on Jan 30, 2026?"
+240,0.113,0.97,1258,25,KXBTCD-26JAN3017-T99249.99,"Bitcoin price  on Jan 30, 2026?"
+241,0.113,0.97,1021,25,KXBTCD-26JAN3017-T97749.99,"Bitcoin price  on Jan 30, 2026?"
+242,0.113,0.97,61223,25,KXBTCD-26JAN3017-T89749.99,"Bitcoin price  on Jan 30, 2026?"
+243,0.113,0.97,6310,25,KXETHD-26JAN3017-T3299.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+244,0.113,0.97,50,25,KXETHD-26JAN3017-T3499.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+245,0.113,0.97,347,25,KXSOLD-26JAN3017-T133.9999,"SOL price  on Jan 30, 2026?"
+246,0.113,0.97,12657,25,KXETHD-26JAN3017-T2939.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+247,0.113,0.97,6322,25,KXETHD-26JAN3017-T3219.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+248,0.113,0.97,651,25,KXBTCD-26JAN3017-T98249.99,"Bitcoin price  on Jan 30, 2026?"
+249,0.113,0.97,500,25,KXETHD-26JAN3017-T3579.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+250,0.113,0.97,398,25,KXBTC-26JAN3017-B81000,"Bitcoin price range  on Jan 30, 2026?"
+251,0.113,0.97,2320,25,KXSOLD-26JAN3017-T122.9999,"SOL price  on Jan 30, 2026?"
+252,0.113,0.97,683,25,KXSOLD-26JAN3017-T124.9999,"SOL price  on Jan 30, 2026?"
+253,0.113,0.97,298,25,KXBTC-26JAN3017-B95500,"Bitcoin price range  on Jan 30, 2026?"
+254,0.113,0.97,6926,25,KXBTC-26JAN3017-B90000,"Bitcoin price range  on Jan 30, 2026?"
+255,0.113,0.97,2559,25,KXSOLD-26JAN3017-T123.9999,"SOL price  on Jan 30, 2026?"
+256,0.113,0.97,6295,25,KXBTC-26JAN3017-B82500,"Bitcoin price range  on Jan 30, 2026?"
+257,0.113,0.97,27076,25,KXBTCD-26JAN3017-T90749.99,"Bitcoin price  on Jan 30, 2026?"
+258,0.113,0.97,4115,25,KXETH-26JAN3017-B2960,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+259,0.113,0.97,1690,25,KXXRPD-26JAN3017-T1.9199,"Ripple price at Jan 30, 2026 at 5pm EST?"
+260,0.11,0.96,1410,35,KXHIGHLAX-26JAN30-B85.5,"Will the **high temp in LA** be 85-86° on Jan 30, 2026?"
+261,0.106,0.94,1818,56,KXETHMINMON-ETH-26JAN31-2250,"Will ETH trimmed mean be below $2250.00 by 11:59 PM ET on Jan 31, 2026?"
+262,0.106,0.93,18614,66,KXTRUMPSAYMONTH-26FEB01-EPST,"Will Trump say ""Epstein"" before Feb 1, 2026?"
+263,0.106,0.94,213,56,KXRAINCHIM-26JAN-6,Rain in Chicago in Jan 2026?
+264,0.106,0.94,98,56,KXJUDGECOUNT-26JAN-5.0,Will between 4 to 6 judges be confirmed in Jan 2026?
+265,0.106,0.94,66996,56,KXRAINLAXM-26JAN-2,Rain in Los Angeles in Jan 2026?
+266,0.106,0.94,61723,56,KXXRPMAXMON-XRP-26JAN31-210,"Will XRP trimmed mean be above $2.10 by 11:59 PM ET on Jan 31, 2026?"
+267,0.106,0.94,430,56,KXJUDGECOUNT-26JAN-2.0,Will between 1 to 3 judges be confirmed in Jan 2026?
+268,0.103,0.81,17489,214,KXNCAAWBGAME-26JAN24UNACARK-UNA,North Alabama at Central Arkansas Winner?
+269,0.102,0.91,5887,90,KXTRUMPSAY-26FEB02-PENG,"Will Trump say ""Penguin"" before Feb 2, 2026?"
+270,0.1,0.94,501,59,KXFIGHTMENTION-26JAN31HOOSAI-LIGH,"What will the announcers say during Hooker vs Saint-Denis professional MMA fight originally scheduled for Jan 31, 2026?"
+271,0.1,0.93,44580,70,KXCHISNOWM-26JAN-12.0,Snow in Chicago in Jan 2026?
+272,0.1,0.90,173,104,KXNETFLIXTOPVIEWSMOVIE-26FEB02-50,Will the #1 Movie on Netflix have at least 50 million views?
+273,0.098,0.98,21132,19,KXAPRPOTUS-26JAN30-42.0,Will the President's approval rating be below 42.0 according to RealClearPolitics?
+274,0.098,0.80,255,239,KXNBAREB-26JAN25DENMEM-MEMJJACKSON8-10,Jaren Jackson Jr.: 10+ rebounds
+275,0.097,0.84,3650,184,KXECONSTATU3-26JAN-T4.3,Unemployment rate in Jan 2026?
+276,0.09,0.92,3833,90,KXRT-MEL-40,Melania Rotten Tomatoes score?
+277,0.089,0.97,51,32,KXHIGHTDC-26JAN30-T20,"Will the maximum temperature be  <20° on Jan 30, 2026?"
+278,0.089,0.97,655,32,KXHIGHMIA-26JAN30-B73.5,"Will the **high temp in Miami** be 73-74° on Jan 30, 2026?"
+279,0.089,0.97,207,32,KXHIGHTDC-26JAN30-B20.5,"Will the maximum temperature be  20-21° on Jan 30, 2026?"
+280,0.089,0.97,946,32,KXHIGHNY-26JAN30-T22,"Will the **high temp in NYC** be >22° on Jan 30, 2026?"
+281,0.089,0.97,132,32,KXLOWTPHIL-26JAN30-B-1.5,"Will the minimum temperature be  -2--1° on Jan 30, 2026?"
+282,0.087,0.95,2463,56,KXXRPMAXMON-XRP-26JAN31-280,"Will XRP trimmed mean be above $2.80 by 11:59 PM ET on Jan 31, 2026?"
+283,0.087,0.95,787,56,KXLVL4WARNING-26FEB01,Will the U.S. State Department issue a Level 4 warning for any country not at Level 4 as of Issuance?
+284,0.087,0.82,6058,238,KXNCAAWBGAME-26JAN25RICHGMU-GMU,Richmond at George Mason Winner?
+285,0.087,0.95,34184,56,KXGROK-GROK4.2-26FEB01,"Will xAI release Grok 4.2 before Feb 1, 2026?"
+286,0.087,0.95,53344,56,KXRAINSFOM-26JAN-4,Rain in San Francisco in Jan 2026?
+287,0.087,0.86,681408,176,KXNEXTTEAMGIANNIS-26GANT-NYK,What will be Giannis Antetokounmpo's next team?
+288,0.087,0.95,164,56,KXZECMAXMON-ZEC-26JAN31-550,"Will ZEC trimmed mean be above $550.00 by 11:59 PM ET on Jan 31, 2026?"
+289,0.087,0.95,2533,56,KXTRUMPMEET-26JAN-HJEF,"Donald Trump and Hakeem Jeffries meet before Feb 1, 2026?"
+290,0.087,0.95,3148,56,KXXRPMAXMON-XRP-26JAN31-270,"Will XRP trimmed mean be above $2.70 by 11:59 PM ET on Jan 31, 2026?"
+291,0.087,0.95,1592,56,KXTORNADO-26JAN-100,Will there be more than 100 tornadoes in January?
+292,0.087,0.95,10705,56,KXRAINNYCM-26JAN-4,Rain in NYC in Jan 2026?
+293,0.087,0.95,72,56,KXDOGEMAXMON-DOGE-26JAN31-018,"Will DOGE trimmed mean be above $0.18 by 11:59 PM ET on Jan 31, 2026?"
+294,0.087,0.95,230,56,KXTORNADO-26JAN-125,Will there be more than 125 tornadoes in January?
+295,0.087,0.95,1586,56,KXXRPMAXMON-XRP-26JAN31-260,"Will XRP trimmed mean be above $2.60 by 11:59 PM ET on Jan 31, 2026?"
+296,0.087,0.95,10969,56,KXXRPMAXMON-XRP-26JAN31-240,"Will XRP trimmed mean be above $2.40 by 11:59 PM ET on Jan 31, 2026?"
+297,0.087,0.95,12913,56,KXXRPMAXMON-XRP-26JAN31-220,"Will XRP trimmed mean be above $2.20 by 11:59 PM ET on Jan 31, 2026?"
+298,0.087,0.95,208,56,KXDOGEMAXMON-DOGE-26JAN31-020,"Will DOGE trimmed mean be above $0.20 by 11:59 PM ET on Jan 31, 2026?"
+299,0.086,0.97,106,33,KXLOWTAUS-26JAN30-T28,"Will the minimum temperature be  <28° on Jan 30, 2026?"
+300,0.086,0.97,803,33,KXHIGHCHI-26JAN30-T23,"Will the high temp in Chicago be >23° on Jan 30, 2026?"
+301,0.086,0.97,160,33,KXLOWTCHI-26JAN30-B-0.5,"Will the minimum temperature be  -1-0° on Jan 30, 2026?"
+302,0.085,0.89,1856,136,KXADP-26JAN-T50000,ADP employment change in Jan 2026?
+303,0.084,0.84,12207,214,KXNCAAWBGAME-26JAN24UMESSCST-SCST,Maryland-Eastern Shore at South Carolina St. Winner?
+304,0.083,0.98,11654,22,KXWTIW-26JAN30-B61.5,"Will the WTI front-month settle oil price  be Between 61 and 61.99 on Jan 30, 2026??"
+305,0.083,0.98,876,22,KXWTIW-26JAN30-B55.5,"Will the WTI front-month settle oil price  be Between 55 and 55.99 on Jan 30, 2026??"
+306,0.083,0.98,1299,22,KXWTIW-26JAN30-B51.5,"Will the WTI front-month settle oil price  be Between 51 and 51.99 on Jan 30, 2026??"
+307,0.083,0.98,2205,22,KXWTIW-26JAN30-B57.5,"Will the WTI front-month settle oil price  be Between 57 and 57.99 on Jan 30, 2026??"
+308,0.082,0.86,656,186,KXATTENDGRAMMYS-CYN,Will Cynthia Erivo attend The 68th Grammy Awards?
+309,0.082,0.83,1178,234,KXGRAMMYCOUNTLAD-26-1,How many awards will Lady Gaga win at the 2026 Grammy Awards?
+310,0.082,0.87,829,170,KXNCAAWBGAME-26JAN22UMESNCCU-UMES,Maryland-Eastern Shore at North Carolina Central Winner?
+311,0.082,0.83,5615,234,KXGRAMMYCOUNTKEN-26-5,How many awards will Kendrick Lamar win at the 2026 Grammy Awards?
+312,0.081,0.97,55,35,KXHIGHTSEA-26JAN30-T56,"Will the maximum temperature be  >56° on Jan 30, 2026?"
+313,0.08,0.87,11387,176,KXNBATRADE-26FEB06-TMUR,"Will Trey Murphy III be traded by New Orleans before Feb 6, 2026"
+314,0.08,0.83,1318,239,KXNBATOTAL-26JAN25DENMEM-241,Denver at Memphis: Total Points
+315,0.078,0.98,2035,24,KXINX-26JAN30H1600-B7037,"Will the S&P 500 be between 7025 and 7049.9999 on Jan 30, 2026 at 4pm EST?"
+316,0.078,0.98,220,24,KXNASDAQ100-26JAN30H1600-B25250,"Will the Nasdaq-100 be between 25200 and 25299.9900 at the end of Jan 30, 2026 at 4pm EST?"
+317,0.078,0.98,110,24,KXINX-26JAN30H1600-B6837,"Will the S&P 500 be between 6825 and 6849.9999 on Jan 30, 2026 at 4pm EST?"
+318,0.078,0.98,220,24,KXINX-26JAN30H1600-B6787,"Will the S&P 500 be between 6775 and 6799.9999 on Jan 30, 2026 at 4pm EST?"
+319,0.078,0.92,197,104,KXNETFLIXRANKMOVIEGLOBAL-26FEB02-KPO,"Top Global Netflix Movie on Feb 2, 2026?"
+320,0.078,0.93,43124,90,KXRT-SEN-92,Send Help Rotten Tomatoes score?
+321,0.076,0.87,4221,184,KXECONSTATU3-26JAN-T4.6,Unemployment rate in Jan 2026?
+322,0.076,0.84,1142,234,KXGRAMMYCOUNTSAB-26-3,How many awards will Sabrina Carpenter win at the 2026 Grammy Awards?
+323,0.075,0.98,541,25,KXETH-26JAN3017-T1940,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+324,0.075,0.98,423,25,KXETH-26JAN3017-B3080,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+325,0.075,0.98,59,25,KXBTC-26JAN3017-B97000,"Bitcoin price range  on Jan 30, 2026?"
+326,0.075,0.98,88,25,KXBTC-26JAN3017-B97500,"Bitcoin price range  on Jan 30, 2026?"
+327,0.075,0.98,1740,25,KXBTC-26JAN3017-B77000,"Bitcoin price range  on Jan 30, 2026?"
+328,0.075,0.98,565,25,KXETHD-26JAN3017-T3459.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+329,0.075,0.98,587,25,KXBTC-26JAN3017-B99500,"Bitcoin price range  on Jan 30, 2026?"
+330,0.075,0.98,121,25,KXBTC-26JAN3017-B99000,"Bitcoin price range  on Jan 30, 2026?"
+331,0.075,0.98,117,25,KXBTC-26JAN3017-B98500,"Bitcoin price range  on Jan 30, 2026?"
+332,0.075,0.98,117,25,KXBTC-26JAN3017-B98000,"Bitcoin price range  on Jan 30, 2026?"
+333,0.075,0.98,380,25,KXBTC-26JAN3017-B80500,"Bitcoin price range  on Jan 30, 2026?"
+334,0.075,0.98,266,25,KXBTC-26JAN3017-B78000,"Bitcoin price range  on Jan 30, 2026?"
+335,0.075,0.98,4062,25,KXETHD-26JAN3017-T3179.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+336,0.075,0.98,11873,25,KXETHD-26JAN3017-T3099.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+337,0.075,0.98,1396,25,KXSOLD-26JAN3017-T125.9999,"SOL price  on Jan 30, 2026?"
+338,0.075,0.98,37810,25,KXETHD-26JAN3017-T3019.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+339,0.075,0.98,2284,25,KXBTC-26JAN3017-B91000,"Bitcoin price range  on Jan 30, 2026?"
+340,0.075,0.98,401,25,KXBTC-26JAN3017-B93000,"Bitcoin price range  on Jan 30, 2026?"
+341,0.075,0.98,15740,25,KXBTC-26JAN3017-B88500,"Bitcoin price range  on Jan 30, 2026?"
+342,0.075,0.98,5863,25,KXBTC-26JAN3017-B87500,"Bitcoin price range  on Jan 30, 2026?"
+343,0.075,0.98,18424,25,KXBTCD-26JAN3017-T93749.99,"Bitcoin price  on Jan 30, 2026?"
+344,0.075,0.98,17751,25,KXBTCD-26JAN3017-T93249.99,"Bitcoin price  on Jan 30, 2026?"
+345,0.075,0.98,2147,25,KXBTCD-26JAN3017-T100749.99,"Bitcoin price  on Jan 30, 2026?"
+346,0.075,0.98,272,25,KXXRPD-26JAN3017-T1.8999,"Ripple price at Jan 30, 2026 at 5pm EST?"
+347,0.075,0.98,883,25,KXBTCD-26JAN3017-T98749.99,"Bitcoin price  on Jan 30, 2026?"
+348,0.075,0.98,21966,25,KXBTCD-26JAN3017-T92249.99,"Bitcoin price  on Jan 30, 2026?"
+349,0.075,0.98,1596,25,KXBTCD-26JAN3017-T100249.99,"Bitcoin price  on Jan 30, 2026?"
+350,0.074,0.95,26841,66,KXTRUMPSAYMONTH-26FEB01-NICK,"Will Trump say ""Nick Shirley"" before Feb 1, 2026?"
+351,0.074,0.95,9535,66,KXBILLSCOUNT-26JAN-9.0,Will 9 to 9 bills become law in Jan 2026?
+352,0.074,0.95,192639,66,KXSPACEXCOUNT-26JAN-13,How many launches will SpaceX have in 2026?
+353,0.074,0.95,10972,66,KXTRUMPSAYMONTH-26FEB01-UFC,"Will Trump say ""UFC"" before Feb 1, 2026?"
+354,0.073,0.95,18466,67,KXLEADERCOMBOOUT-26JAN31,Will anyone leave in this set before February 2026?
+355,0.072,0.89,700,160,KXJOBLESSCLAIMS-26FEB05-220000,"How many initial jobless claims will there be the week ending Jan 31, 2026?"
+356,0.07,0.95,34250,70,KXSEASNOWM-26JAN-0.1,Snow in Seattle in Jan 2026?
+357,0.07,0.95,652914,70,KXNYCSNOWM-26JAN-15.0,Snow in New York City in Jan 2026?
+358,0.069,0.96,117,56,KXIPORAMP-26FEB01,When will Ramp IPO?
+359,0.069,0.96,476,56,KXTORNADO-26JAN-150,Will there be more than 150 tornadoes in January?
+360,0.069,0.88,11612,184,KXPAYROLLS-26JAN-T125000,Will above 125000 jobs be added in January 2026?
+361,0.069,0.96,78855,56,KXSOLMAXMON-SOL-26JAN31-155,"Will SOL trimmed mean be above $155.00 by 11:59 PM ET on Jan 31, 2026?"
+362,0.069,0.96,247,56,KXZECMAXMON-ZEC-26JAN31-560,"Will ZEC trimmed mean be above $560.00 by 11:59 PM ET on Jan 31, 2026?"
+363,0.069,0.96,43847,56,KXSOLMAXMON-SOL-26JAN31-160,"Will SOL trimmed mean be above $160.00 by 11:59 PM ET on Jan 31, 2026?"
+364,0.069,0.96,1180,56,KXZECMAXMON-ZEC-26JAN31-570,"Will ZEC trimmed mean be above $570.00 by 11:59 PM ET on Jan 31, 2026?"
+365,0.069,0.85,10768,239,KXNCAAMBGAME-26JAN25WAGLIU-WAG,Wagner at LIU Winner?
+366,0.069,0.96,7054,56,KXXRPMAXMON-XRP-26JAN31-250,"Will XRP trimmed mean be above $2.50 by 11:59 PM ET on Jan 31, 2026?"
+367,0.069,0.96,352,56,KXRAINAUSM-26JAN-6,Rain in Austin in Jan 2026?
+368,0.069,0.96,440,56,KXDOGEMAXMON-DOGE-26JAN31-016,"Will DOGE trimmed mean be above $0.16 by 11:59 PM ET on Jan 31, 2026?"
+369,0.069,0.96,75,56,KXRAINHOUM-26JAN-6,Rain in Houston in Jan 2026?
+370,0.069,0.96,4258,56,KXRAINSFOM-26JAN-7,Rain in San Francisco in Jan 2026?
+371,0.069,0.96,120,56,KXRAINDENM-26JAN-6,Rain in Denver in Jan 2026?
+372,0.069,0.96,3385,56,KXMEDIARELEASEADDTRAILER-26-FEB01,"Will the official trailer for Avengers: Doomsday be released Worldwide before Feb 1, 2026?"
+373,0.069,0.96,14990,56,KXDOJEPSTEINOUT-26,Will it be reported that any employee of the DOJ has left their position directly attributable to the the December release of the Epstein files?
+374,0.069,0.96,45436,56,KXRAINHOUM-26JAN-2,Rain in Houston in Jan 2026?
+375,0.069,0.96,18500,56,KXRAINCHIM-26JAN-3,Rain in Chicago in Jan 2026?
+376,0.069,0.96,7973,56,KXTOKENLAUNCHOPENSEA-26FEB01,"Will OpenSea launch a token before Feb 1, 2026?"
+377,0.068,0.97,67465,42,KXCABLEAVE-25-26FEB,Will any member of Trump's Cabinet leave before Jan 2026?
+378,0.068,0.91,362,136,KXADP-26JAN-T125000,ADP employment change in Jan 2026?
+379,0.066,0.89,11793,176,KXNBATRADE-26FEB06-ZLAV,"Will Zach LaVine be traded by Sacramento before Feb 6, 2026"
+380,0.066,0.89,439828,176,KXNEXTTEAMGIANNIS-26GANT-MIA,What will be Giannis Antetokounmpo's next team?
+381,0.065,0.96,72,59,KXFIGHTMENTION-26JAN31VOLLOP-SMAS,"What will the announcers say during Volkanovski vs Lopes professional MMA fight originally scheduled for Jan 31, 2026?"
+382,0.063,0.92,1954,128,KXSNOWSTORM-26FEBNYC-4.0,"Snow in New York City from Jan 30, 2026 through Feb 3rd, 2026?"
+383,0.059,0.98,287856,32,KXAAAGASM-26JAN31-2.90,Will average **gas prices** be above $2.90?
+384,0.059,0.98,223,32,KXLOWTMIA-26JAN30-T56,"Will the minimum temperature be  <56° on Jan 30, 2026?"
+385,0.058,0.87,482,239,KXNBATOTAL-26JAN25DENMEM-229,Denver at Memphis: Total Points
+386,0.058,0.96,42744,66,KXBILLSCOUNT-26JAN-9,Will 10 or above bills become law in Jan 2026?
+387,0.058,0.96,5526,66,KXTRUMPSAYMONTH-26FEB01-NINE,"Will Trump say ""Nine War"" before Feb 1, 2026?"
+388,0.058,0.96,8886,66,KXTRUMPSAYMONTH-26FEB01-TAYL,"Will Trump say ""Taylor Swift"" before Feb 1, 2026?"
+389,0.057,0.94,264,104,KXNETFLIXRANKMOVIERUNNERUP-26FEB02-KPO,"#2 US Netflix Movie on Feb 2, 2026?"
+390,0.055,0.88,3920,234,KXGRAMMYCOUNTKEN-26-2,How many awards will Kendrick Lamar win at the 2026 Grammy Awards?
+391,0.055,0.96,1889,70,KXSEASNOWM-26JAN-6.0,Snow in Seattle in Jan 2026?
+392,0.055,0.88,2493,234,KXGRAMMYCOUNTLAD-26-0,How many awards will Lady Gaga win at the 2026 Grammy Awards?
+393,0.055,0.96,77569,70,KXSLCSNOWM-26JAN-0.1,Snow in Salt Lake City in Jan 2026?
+394,0.054,0.95,5757,90,KXRT-MEL-45,Melania Rotten Tomatoes score?
+395,0.054,0.95,6828,90,KXRT-SHE-75,Shelter Rotten Tomatoes score?
+396,0.053,0.88,665,239,KXNBASPREAD-26JAN25DENMEM-MEM11,Memphis wins by over 11.5 Points?
+397,0.052,0.91,5414,176,KXNBATRADE-26FEB06-KTHO,"Will Klay Thompson be traded by Dallas before Feb 6, 2026"
+398,0.052,0.91,56819,176,KXNEXTTEAMNBA-26JMOR-MIA,What will be Ja Morant's next team?
+399,0.051,0.97,5571,56,KXUNEMERGENCY-26FEB01-2,"Will it be reported that the UN Security Council has held an emergency meeting before Feb 1, 2026?"
+400,0.051,0.97,24569,56,KXRAINSEAM-26JAN-6,Rain in Seattle in Jan 2026?
+401,0.051,0.97,24428,56,KXRAINSEAM-26JAN-7,Rain in Seattle in Jan 2026?
+402,0.051,0.97,680,56,KXRAINDENM-26JAN-7,Rain in Denver in Jan 2026?
+403,0.051,0.97,459,56,KXRAINDENM-26JAN-4,Rain in Denver in Jan 2026?
+404,0.051,0.97,3702,56,KXEVENTTIMES-26-11,How many pro football games will Taylor Swift attend this season?
+405,0.051,0.97,540,56,KXDOGEMAXMON-DOGE-26JAN31-021,"Will DOGE trimmed mean be above $0.21 by 11:59 PM ET on Jan 31, 2026?"
+406,0.051,0.97,8165,56,KXRAINHOUM-26JAN-4,Rain in Houston in Jan 2026?
+407,0.051,0.97,483,56,KXMEDIARELEASEICEMAN-26-FEB01,"Will Drake's ""Iceman Episode 4"" be released Worldwide before Feb 1, 2026?"
+408,0.051,0.97,50446,56,KXNEWTARIFFS-26FEB01,"Will Donald Trump issue any executive action on imposing new or increased tariffs on any country, provided the action specifies an effective date (even if such date occurs after expiration) during in January 2026?"
+409,0.051,0.97,5854,56,KXSOLMAXMON-SOL-26JAN31-170,"Will SOL trimmed mean be above $170.00 by 11:59 PM ET on Jan 31, 2026?"
+410,0.051,0.97,19770,56,KXTRUMPMEET-26JAN-JPOW,"Donald Trump and Jerome Powell meet before Feb 1, 2026?"
+411,0.051,0.97,1729,56,KXRAINMIAM-26JAN-5,Rain in Miami in Jan 2026?
+412,0.051,0.97,43897,56,KXRAINLAXM-26JAN-3,Rain in Los Angeles in Jan 2026?
+413,0.051,0.97,6138,56,KXRAINDALM-26JAN-4,Rain in Dallas in Jan 2026?
+414,0.051,0.97,15772,56,KXTRUMPMEET-26JAN-XJIN,"Donald Trump and Xi Jinping meet before Feb 1, 2026?"
+415,0.051,0.97,32922,56,KXRAINNYCM-26JAN-3,Rain in NYC in Jan 2026?
+416,0.051,0.97,7466,56,KXZECMAXMON-ZEC-26JAN31-510,"Will ZEC trimmed mean be above $510.00 by 11:59 PM ET on Jan 31, 2026?"
+417,0.051,0.97,5979,56,KXDOGEMAXMON-DOGE-26JAN31-014,"Will DOGE trimmed mean be above $0.14 by 11:59 PM ET on Jan 31, 2026?"
+418,0.051,0.97,5160,56,KXETHMAXMON-ETH-26JAN31-4250,"Will ETH trimmed mean be above $4250.00 by 11:59 PM ET on Jan 31, 2026?"
+419,0.051,0.97,1763,56,KXMEDIARELEASEUPONLY-26FEB01-UPON,"Will A New Episode of the UpOnly Podcast be released in Worldwide before Feb 1, 2026?"
+420,0.05,0.91,2891,186,KXATTENDGRAMMYS-TAY,Will Taylor Swift attend The 68th Grammy Awards?
+421,0.05,0.91,264,186,KXATTENDGRAMMYS-RIH,Will Rihanna attend The 68th Grammy Awards?
+422,0.049,0.89,877,234,KXGRAMMYCOUNTBAD-26-1,How many awards will Bad Bunny win at the 2026 Grammy Awards?
+423,0.048,0.92,701,170,KXNCAAWBGAME-26JAN22UMESNCCU-NCCU,Maryland-Eastern Shore at North Carolina Central Winner?
+424,0.048,0.89,1525,239,KXNBA2D-26JAN25DENMEM-MEMJJACKSON8,Jaren Jackson Jr.: Double Double
+425,0.046,0.92,13864,176,KXNBATRADE-26FEB06-GALL,"Will Grayson Allen be traded by Phoenix before Feb 6, 2026"
+426,0.046,0.92,2805,176,KXNBATRADE-26FEB06-JHAR,"Will James Harden be traded by Los Angeles C before Feb 6, 2026"
+427,0.044,0.92,237,186,KXATTENDGRAMMYS-JAY,Will Jay-Z attend The 68th Grammy Awards?
+428,0.044,0.90,2514,234,KXGRAMMYCOUNTLAD-26-3,How many awards will Lady Gaga win at the 2026 Grammy Awards?
+429,0.044,0.91,58,210,KXSCOTTISHPREMGAME-26JAN24DUUMIR-MIR,Dundee United vs St. Mirren Winner?
+430,0.044,0.91,298,210,KXSCOTTISHPREMGAME-26JAN24DUUMIR-DUU,Dundee United vs St. Mirren Winner?
+431,0.044,0.90,2669,234,KXGRAMMYCOUNTBAD-26-4,How many awards will Bad Bunny win at the 2026 Grammy Awards?
+432,0.043,0.96,480,90,KXRT-SHE-90,Shelter Rotten Tomatoes score?
+433,0.043,0.97,14033,66,KXSPOTIFYALBUMRELEASEDATEDRAKE-26-FEB01,"Will Drake release Iceman before Feb 1, 2026?"
+434,0.042,0.93,5478,166,KXCBDECISIONMEXICO-26FEB05-H25P,Will the Bank of Mexico Hike 25 basis points at the Bank of Mexico February 2026 meeting?
+435,0.041,0.97,7278,70,KXSEASNOWM-26JAN-3.0,Snow in Seattle in Jan 2026?
+436,0.041,0.97,8260,70,KXHOUSNOWM-26JAN-3.0,Snow in Houston in Jan 2026?
+437,0.041,0.97,3715,70,KXHOUSNOWM-26JAN-5.0,Snow in Houston in Jan 2026?
+438,0.041,0.97,54034,70,KXJACWSNOWM-26JAN-15.0,"Snow in Jackson, Wy in Jan 2026?"
+439,0.041,0.97,335481,70,KXDCSNOWM-26JAN-10.0,Snow in Washington DC in Jan 2026?
+440,0.041,0.97,40308,70,KXSLCSNOWM-26JAN-0.5,Snow in Salt Lake City in Jan 2026?
+441,0.041,0.97,29054,70,KXSEASNOWM-26JAN-1.0,Snow in Seattle in Jan 2026?
+442,0.041,0.97,7968,70,KXAUSSNOWM-26JAN-3.0,Snow in Austin in Jan 2026?
+443,0.04,0.93,23701,176,KXNEXTTEAMNBA-26ADAV-GSW,What will be Anthony Davis's next team?
+444,0.039,0.91,3500,234,KXGRAMMYCOUNTSAB-26-0,How many awards will Sabrina Carpenter win at the 2026 Grammy Awards?
+445,0.038,0.93,478,186,KXATTENDGRAMMYS-WEE,Will The Weeknd attend The 68th Grammy Awards?
+446,0.038,0.95,103,128,KXSNOWSTORM-26FEBNYC-20.0,"Snow in New York City from Jan 30, 2026 through Feb 3rd, 2026?"
+447,0.037,0.92,15206,217,KXNCAAWBGAME-26JAN24SIUBEL-SIU,Southern Illinois at Belmont Winner?
+448,0.037,0.96,2923,104,KXNETFLIXRANKMOVIE-26FEB02-KID,"Top US Netflix Movie on Feb 2, 2026?"
+449,0.037,0.96,96,104,KXNETFLIXRANKMOVIERUNNERUP-26FEB02-NOT,"#2 US Netflix Movie on Feb 2, 2026?"
+450,0.036,0.97,162,79,KXTOPSONG-GOL,Will Golden be the #1 song on the Billboard Hot 100 charts this week?
+451,0.036,0.98,200054,52,KXMNDAYCARECHARGE-26FEB01,"Will any individual in connection with the Minnesota daycare fraud investigations be charged with a fraud, theft, embezzlement, bribery, money laundering, or conspiracy crime before Feb 1, 2026?"
+452,0.036,0.97,543,79,KXTOPALBUM-26FEB07-THEA,"Billboard Top 200 #1 on Feb 7, 2026 chart?"
+453,0.035,0.92,1257,234,KXGRAMMYCOUNTLAD-26-4,How many awards will Lady Gaga win at the 2026 Grammy Awards?
+454,0.034,0.98,2119,56,KXEVENTTIMES-26-12,How many pro football games will Taylor Swift attend this season?
+455,0.034,0.94,9173,176,KXNBATRADE-26FEB06-JJAC,"Will Jaren Jackson Jr. be traded by Memphis before Feb 6, 2026"
+456,0.034,0.98,6509,56,KXAIRDROPMEGA-26FEB01,"Will MegaETH conduct an airdrop before Feb 1, 2026?"
+457,0.034,0.98,191,56,KXTORNADO-26JAN-200,Will there be more than 200 tornadoes in January?
+458,0.034,0.98,4363,56,KXRAINLAXM-26JAN-6,Rain in Los Angeles in Jan 2026?
+459,0.034,0.98,22870,56,KXRAINMIAM-26JAN-3,Rain in Miami in Jan 2026?
+460,0.034,0.98,4254,56,KXRAINMIAM-26JAN-4,Rain in Miami in Jan 2026?
+461,0.034,0.98,7103,56,KXRAINCHIM-26JAN-4,Rain in Chicago in Jan 2026?
+462,0.034,0.98,24899,56,KXXRPMAXMON-XRP-26JAN31-230,"Will XRP trimmed mean be above $2.30 by 11:59 PM ET on Jan 31, 2026?"
+463,0.034,0.98,3265,56,KXRAINHOUM-26JAN-5,Rain in Houston in Jan 2026?
+464,0.034,0.94,153,176,KXNBATRADE-26FEB06-THER,"Will Tyler Herro be traded by Miami before Feb 6, 2026"
+465,0.034,0.98,7939,56,KXRAINDENM-26JAN-2,Rain in Denver in Jan 2026?
+466,0.034,0.98,8288,56,KXIPOSTARLINK-26FEB01,When will Starlink IPO?
+467,0.034,0.98,215821,56,KXTARIFFDECISIONRELEASE-26FEB1,"Will the Supreme Court release  before Feb 1, 2026?"
+468,0.034,0.98,35048,56,KXRAINAUSM-26JAN-1,Rain in Austin in Jan 2026?
+469,0.034,0.98,9938,56,KXETHMAXMON-ETH-26JAN31-4500,"Will ETH trimmed mean be above $4500.00 by 11:59 PM ET on Jan 31, 2026?"
+470,0.034,0.98,21090,56,KXRAINDALM-26JAN-1,Rain in Dallas in Jan 2026?
+471,0.034,0.98,406,56,KXRAINMIAM-26JAN-7,Rain in Miami in Jan 2026?
+472,0.034,0.98,1298,56,KXRAINDALM-26JAN-6,Rain in Dallas in Jan 2026?
+473,0.034,0.98,4446,56,KXRAINLAXM-26JAN-5,Rain in Los Angeles in Jan 2026?
+474,0.034,0.98,565,56,KXRAINMIAM-26JAN-6,Rain in Miami in Jan 2026?
+475,0.034,0.98,45126,56,KXRAINDALM-26JAN-2,Rain in Dallas in Jan 2026?
+476,0.034,0.98,1773,56,KXRAINDALM-26JAN-7,Rain in Dallas in Jan 2026?
+477,0.034,0.98,12682,56,KXSOLMAXMON-SOL-26JAN31-175,"Will SOL trimmed mean be above $175.00 by 11:59 PM ET on Jan 31, 2026?"
+478,0.034,0.98,1339,56,KXRAINAUSM-26JAN-4,Rain in Austin in Jan 2026?
+479,0.034,0.98,17675,56,KXRAINAUSM-26JAN-2,Rain in Austin in Jan 2026?
+480,0.034,0.98,22871,56,KXSOLMAXMON-SOL-26JAN31-165,"Will SOL trimmed mean be above $165.00 by 11:59 PM ET on Jan 31, 2026?"
+481,0.034,0.98,19914,56,KXETHMAXMON-ETH-26JAN31-4000,"Will ETH trimmed mean be above $4000.00 by 11:59 PM ET on Jan 31, 2026?"
+482,0.032,0.98,383,59,KXFIGHTMENTION-26JAN31VOLLOP-LIGH,"What will the announcers say during Volkanovski vs Lopes professional MMA fight originally scheduled for Jan 31, 2026?"
+483,0.032,0.94,1306,184,KXECONSTATU3-26JAN-T4.8,Unemployment rate in Jan 2026?
+484,0.031,0.96,1158,126,KXCBDECISIONAUSTRALIA-26FEB03-H25P,Will the Reserve Bank of Australia Hike more than 25bp at the Feb 2025 RBA meeting?
+485,0.03,0.96,75,128,KXSNOWSTORM-26FEBNYC-15.0,"Snow in New York City from Jan 30, 2026 through Feb 3rd, 2026?"
+486,0.03,0.95,2562,166,KXCBDECISIONMEXICO-26FEB05-C25,Will the Bank of Mexico Cut 25 basis points at the Bank of Mexico February 2026 meeting?
+487,0.029,0.98,85436,66,KXTRUMPVISITGREENLAND-26FEB01,"Will Donald Trump visit Greenland before Feb 1, 2026?"
+488,0.029,0.98,388464,66,KXINSURRECTION-29-FEB26,Will Trump invoke the Insurrection Act during his Presidency?
+489,0.029,0.98,2293,66,KXPARDONSTRUMP-26JAN-100,"Will Trump pardon above 100 people before Feb 1, 2026?"
+490,0.029,0.93,301,239,KXNBATOTAL-26JAN25DENMEM-232,Denver at Memphis: Total Points
+491,0.029,0.98,13793,66,KXCRYPTOSTRUCTURE-26JAN-FEB1,"Will a crypto market structure bill becomes law before Feb 1, 2026?"
+492,0.029,0.98,50945,66,KXSPACEXCOUNT-26JAN-14,How many launches will SpaceX have in 2026?
+493,0.029,0.98,8940943,66,KXKHAMENEIOUT-AKHA-26FEB01,Will Ali Khamenei leave office before 2026-02-01T15:00:00.000Z?
+494,0.028,0.96,426,136,KXADP-26JAN-T75000,ADP employment change in Jan 2026?
+495,0.028,0.97,17251,104,KXPGARETURN-26FEB03-BDEC,"Will Bryson DeChambeau rejoin, apply to rejoin, or announce that he will rejoin the PGA Tour before Feb 3, 2026?"
+496,0.028,0.97,5718,104,KXPGARETURN-26FEB03-CSMI,"Will Cameron Smith rejoin, apply to rejoin, or announce that he will rejoin the PGA Tour before Feb 3, 2026?"
+497,0.028,0.97,152,104,KXNETFLIXRANKMOVIEGLOBAL-26FEB02-M3G,"Top Global Netflix Movie on Feb 2, 2026?"
+498,0.028,0.97,3449,104,KXNETFLIXRANKSHOWGLOBAL-26FEB02-HIS,"Top Global Netflix Show on Feb 2, 2026?"
+499,0.028,0.97,8630,104,KXNETFLIXRANKMOVIE-26FEB02-THE,"Top US Netflix Movie on Feb 2, 2026?"
+500,0.028,0.95,18627,176,KXNBATRADE-26FEB06-IZUB,"Will Ivica Zubac be traded by Los Angeles C before Feb 6, 2026"
+501,0.027,0.98,1741,70,KXDENSNOWMB-26JAN-20.0,Snow in Denver Area in Jan 2026?
+502,0.027,0.98,3079,70,KXDENSNOWMB-26JAN-15.0,Snow in Denver Area in Jan 2026?
+503,0.027,0.98,68090,70,KXHOUSNOWM-26JAN-0.1,Snow in Houston in Jan 2026?
+504,0.027,0.98,85869,70,KXDCSNOWM-26JAN-20.0,Snow in Washington DC in Jan 2026?
+505,0.027,0.98,24686,70,KXDENSNOWMB-26JAN-10.0,Snow in Denver Area in Jan 2026?
+506,0.027,0.98,220511,70,KXDCSNOWM-26JAN-15.0,Snow in Washington DC in Jan 2026?
+507,0.027,0.98,85316,70,KXPHILSNOWM-26JAN-20.0,Snow in Philadelphia in Jan 2026?
+508,0.027,0.98,5839,70,KXCHISNOWM-26JAN-25.0,Snow in Chicago in Jan 2026?
+509,0.027,0.98,1428,70,KXSEASNOWM-26JAN-10.0,Snow in Seattle in Jan 2026?
+510,0.027,0.98,160481,70,KXPHILSNOWM-26JAN-15.0,Snow in Philadelphia in Jan 2026?
+511,0.027,0.98,3128,70,KXAUSSNOWM-26JAN-5.0,Snow in Austin in Jan 2026?
+512,0.027,0.98,24942,70,KXSFOSNOWM-26JAN-0.1,Snow in San Francisco in Jan 2026?
+513,0.027,0.98,13100,70,KXSFOSNOWM-26JAN-0.5,Snow in San Francisco in Jan 2026?
+514,0.027,0.98,28787,70,KXDALSNOWM-26JAN-10.0,Snow in Dallas in Jan 2026?
+515,0.027,0.98,94692,70,KXLAXSNOWM-26JAN-0.1,Snow in Los Angeles in Jan 2026?
+516,0.027,0.98,17427,70,KXAUSSNOWM-26JAN-1.0,Snow in Austin in Jan 2026?
+517,0.027,0.98,344,70,KXDENSNOWMB-26JAN-35.0,Snow in Denver Area in Jan 2026?
+518,0.025,0.94,1792,234,KXGRAMMYCOUNTKEN-26-1,How many awards will Kendrick Lamar win at the 2026 Grammy Awards?
+519,0.025,0.94,576,239,KXNBASPREAD-26JAN25DENMEM-MEM14,Memphis wins by over 14.5 Points?
+520,0.024,0.98,4728,79,KXTOPALBUM-26FEB07-KPO,"Billboard Top 200 #1 on Feb 7, 2026 chart?"
+521,0.024,0.98,44184,80,KXLAGODAYS-26JAN-5,Will Trump make 5 trips to Mar-a-Lago as President in Jan 2026?
+522,0.024,0.98,1332,79,KXTOPSONG-26FEB07-IJU,Will I Just Might be the #1 song on the Billboard Hot 100 charts this week?
+523,0.024,0.98,2337,80,KXTSAW-26FEB01-A2.15,Will more than 2150000 people be **screened by the TSA** on average this week?
+524,0.024,0.98,2282,79,KXTOPALBUM-26FEB07-THE,"Billboard Top 200 #1 on Feb 7, 2026 chart?"
+525,0.024,0.98,1746,80,KXTSAW-26FEB01-A2.20,Will more than 2200000 people be **screened by the TSA** on average this week?
+526,0.023,0.96,101,166,KXCBDECISIONMEXICO-26FEB05-C50P,Will the Bank of Mexico Cut more than 50bp at the Bank of Mexico February 2026 meeting?
+527,0.023,0.95,100,214,KXNCAAWBGAME-26JAN24ETAMNWST-NWST,East Texas A&M at Northwestern St. Winner?
+528,0.023,0.95,278,210,KXALBUMTRACKSJCOLE-26-20,Will The Fall-Off by J. Cole have At least 20 tracks?
+529,0.022,0.96,28515,176,KXNBATRADE-26FEB06-LBAL,"Will LaMelo Ball be traded by Charlotte before Feb 6, 2026"
+530,0.022,0.96,258129,176,KXNEXTTEAMGIANNIS-26GANT-MIN,What will be Giannis Antetokounmpo's next team?
+531,0.022,0.96,5372,176,KXNBATRADE-26FEB06-THAR,"Will Tobias Harris be traded by Detroit before Feb 6, 2026"
+532,0.022,0.97,784,128,KXSNOWSTORM-26FEBNYC-6.0,"Snow in New York City from Jan 30, 2026 through Feb 3rd, 2026?"
+533,0.021,0.96,397,184,KXECONSTATU3-26JAN-T3.7,Unemployment rate in Jan 2026?
+534,0.021,0.95,2160,234,KXGRAMMYCOUNTKEN-26-6,How many awards will Kendrick Lamar win at the 2026 Grammy Awards?
+535,0.021,0.96,116,184,KXECONSTATU3-26JAN-T3.5,Unemployment rate in Jan 2026?
+536,0.021,0.95,693,234,KXGRAMMYCOUNTBAD-26-0,How many awards will Bad Bunny win at the 2026 Grammy Awards?
+537,0.021,0.96,8507,184,KXU3-26JAN-T4.6,Will the unemployment rate (U-3) be above 4.6% in January?
+538,0.021,0.96,343,184,KXECONSTATU3-26JAN-T5.3,Unemployment rate in Jan 2026?
+539,0.021,0.96,233,184,KXECONSTATU3-26JAN-T3.8,Unemployment rate in Jan 2026?
+540,0.021,0.96,853,184,KXECONSTATU3-26JAN-T4.2,Unemployment rate in Jan 2026?
+541,0.021,0.96,385,184,KXECONSTATU3-26JAN-T4.9,Unemployment rate in Jan 2026?
+542,0.021,0.98,12164,90,KXRT-MEL-60,Melania Rotten Tomatoes score?
+543,0.02,0.95,310,239,KXNBASPREAD-26JAN25DENMEM-DEN7,Denver wins by over 7.5 Points?
+544,0.018,0.98,1669,104,KXNETFLIXRANKSHOWRUNNERUP-26FEB02-BRI,"#2 US Netflix Show on Feb 2, 2026?"
+545,0.018,0.98,1309,104,KXNETFLIXRANKSHOWRUNNERUP-26FEB02-FRE,"#2 US Netflix Show on Feb 2, 2026?"
+546,0.018,0.97,16377,160,KXCBDECISIONEU-26FEB05-H25,Will the European Central Bank Hike 1-25 basis points at the Feb 2026 ECB meeting?
+547,0.018,0.97,7376,160,KXCBDECISIONEU-26FEB05-C25P,Will the European Central Bank Cut more than 25bp at the Feb 2026 ECB meeting?
+548,0.018,0.98,106,104,KXNETFLIXRANKMOVIEGLOBAL-26FEB02-KID,"Top Global Netflix Movie on Feb 2, 2026?"
+549,0.017,0.96,73,234,KXGRAMMYCOUNTLAD-26-7,How many awards will Lady Gaga win at the 2026 Grammy Awards?
+550,0.017,0.96,422,234,KXGRAMMYCOUNTLAD-26-5,How many awards will Lady Gaga win at the 2026 Grammy Awards?
+551,0.016,0.97,147,184,KXECONSTATU3-26JAN-T5.2,Unemployment rate in Jan 2026?
+552,0.016,0.97,459,184,KXECONSTATU3-26JAN-T5.4,Unemployment rate in Jan 2026?
+553,0.016,0.96,202,239,KXNBASPREAD-26JAN25DENMEM-DEN13,Denver wins by over 13.5 Points?
+554,0.016,0.97,6210,176,KXNEXTTEAMNBA-26JMOR-NOP,What will be Ja Morant's next team?
+555,0.016,0.97,1097,184,KXECONSTATU3-26JAN-T3.3,Unemployment rate in Jan 2026?
+556,0.016,0.97,186,184,KXECONSTATU3-26JAN-T5.1,Unemployment rate in Jan 2026?
+557,0.016,0.97,257,184,KXECONSTATU3-26JAN-T3.9,Unemployment rate in Jan 2026?
+558,0.016,0.96,1364,239,KXNBASPREAD-26JAN25DENMEM-MEM17,Memphis wins by over 17.5 Points?
+559,0.016,0.96,1079,239,KXNBASPREAD-26JAN25DENMEM-DEN10,Denver wins by over 10.5 Points?
+560,0.016,0.97,8640,176,KXNEXTTEAMNBA-26ADAV-NYK,What will be Anthony Davis's next team?
+561,0.016,0.97,616,184,KXECONSTATU3-26JAN-T3.4,Unemployment rate in Jan 2026?
+562,0.015,0.98,3105,126,KXCBDECISIONAUSTRALIA-26FEB03-C25,Will the Reserve Bank of Australia Cut 1-25 basis points at the Feb 2025 RBA meeting?
+563,0.015,0.98,230,128,KXSNOWSTORM-26FEBNYC-8.0,"Snow in New York City from Jan 30, 2026 through Feb 3rd, 2026?"
+564,0.015,0.98,2278,126,KXCBDECISIONAUSTRALIA-26FEB03-C25P,Will the Reserve Bank of Australia Cut more than 25bp at the Feb 2026 RBA meeting?
+565,0.015,0.97,72,186,KXATTENDGRAMMYS-DRA,Will Drake attend The 68th Grammy Awards?
+566,0.013,0.97,209,214,KXNCAAWBGAME-26JAN24ETAMNWST-ETAM,East Texas A&M at Northwestern St. Winner?
+567,0.012,0.98,2670,159,KXCBDECISIONENGLAND-26FEB05-H25,Will the Bank of England Hike 1-25 basis points at the Feb 2026 BOE meeting?
+568,0.012,0.97,3615,234,KXGRAMMYCOUNTSAB-26-4,How many awards will Sabrina Carpenter win at the 2026 Grammy Awards?
+569,0.012,0.97,325,234,KXGRAMMYCOUNTKEN-26-7,How many awards will Kendrick Lamar win at the 2026 Grammy Awards?
+570,0.012,0.97,6067,234,KXGRAMMYCOUNTBAD-26-5,How many awards will Bad Bunny win at the 2026 Grammy Awards?
+571,0.012,0.98,2107,159,KXCBDECISIONENGLAND-26FEB05-H25P,Will the Bank of England Hike more than 25bp at the Feb 2026 BOE meeting?
+572,0.012,0.97,362,239,KXNBATOTAL-26JAN25DENMEM-238,Denver at Memphis: Total Points
+573,0.012,0.98,4199,160,KXCBDECISIONEU-26FEB05-H25P,Will the European Central Bank Hike more than 25bp at the Feb 2026 ECB meeting?
+574,0.012,0.98,1237,159,KXCBDECISIONENGLAND-26FEB05-C25P,Will the Bank of England Cut more than 25bp at the Feb 2026 BOE meeting?
+575,0.012,0.97,2153,234,KXGRAMMYCOUNTKEN-26-0,How many awards will Kendrick Lamar win at the 2026 Grammy Awards?
+576,0.012,0.98,20761,159,KXCBDECISIONENGLAND-26FEB05-C25,Will the Bank of England Cut 1-25 basis points at the Feb 2026 BOE meeting?
+577,0.011,0.98,3250,176,KXNBATRADE-26FEB06-PGEO,"Will Paul George be traded by Philadelphia before Feb 6, 2026"
+578,0.011,0.98,2266,176,KXNEXTTEAMNBA-26JMOR-GSW,What will be Ja Morant's next team?
+579,0.011,0.98,31332,176,KXNBATRADE-26FEB06-ZWIL,"Will Zion Williamson be traded by New Orleans before Feb 6, 2026"
+580,0.011,0.98,5946,176,KXNBATRADE-26FEB06-PSIA,"Will Pascal Siakam be traded by Indiana before Feb 6, 2026"
+581,0.011,0.98,9603,176,KXNEXTTEAMNBA-26JMOR-BKN,What will be Ja Morant's next team?
+582,0.011,0.98,8891,176,KXNEXTTEAMNBA-26JMOR-MIL,What will be Ja Morant's next team?
+583,0.011,0.98,2215,176,KXNEXTTEAMNBA-26JMOR-PHX,What will be Ja Morant's next team?
+584,0.011,0.98,2521,176,KXNEXTTEAMNBA-26JMOR-LAC,What will be Ja Morant's next team?
+585,0.01,0.98,132,184,KXECONSTATU3-26JAN-T5.5,Unemployment rate in Jan 2026?
+586,0.009,0.98,348,222,KXTNCBASKETBALL-26JAN24TAIQEL-QEL,Will Qel win the BRP x TNC 1v1 between Qel and Taishaun?
+587,0.009,0.98,422,222,KXTNCBASKETBALL-26JAN24BDOGPATT-BDOG,Will BOOG win the BRP x TNC 1v1 between Patt and BDog?
+588,0.008,0.98,260,234,KXGRAMMYCOUNTKEN-26-8,How many awards will Kendrick Lamar win at the 2026 Grammy Awards?
+589,0.008,0.98,405,234,KXGRAMMYCOUNTBAD-26-6,How many awards will Bad Bunny win at the 2026 Grammy Awards?

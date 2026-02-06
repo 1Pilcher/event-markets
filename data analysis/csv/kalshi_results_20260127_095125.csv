@@ -1,0 +1,1873 @@
+RANK,EFFICIENCY,PRICE,VOL,TIME_H,TICKER,TITLE
+1,7.147,0.72,663,5,KXNASDAQ100U-26JAN27H1600-T25999.99,"Will the Nasdaq-100 be above 25999.99 at the end of Jan 27, 2026 at 4pm EST?"
+2,6.609,0.70,793,6,KXETH-26JAN2717-B2950,"Ethereum price at Jan 27, 2026 at 5pm EST?"
+3,6.112,0.75,141,5,KXNASDAQ100-26JAN27H1600-B26050,"Will the Nasdaq-100 be between 26000 and 26099.9900 at the end of Jan 27, 2026 at 4pm EST?"
+4,4.582,0.77,63230,6,KXBTCD-26JAN2717-T88499.99,"Bitcoin price  on Jan 27, 2026?"
+5,4.324,0.78,2078,6,KXBTC-26JAN2717-B87750,"Bitcoin price range  on Jan 27, 2026?"
+6,3.47,0.84,615,5,KXINX-26JAN27H1600-B6962,"Will the S&P 500 be between 6950 and 6974.9999 on Jan 27, 2026 at 4pm EST?"
+7,3.128,0.83,3155,6,KXBTC-26JAN2717-B88250,"Bitcoin price range  on Jan 27, 2026?"
+8,3.128,0.83,2764,6,KXBTC-26JAN2717-B87250,"Bitcoin price range  on Jan 27, 2026?"
+9,3.128,0.83,111,6,KXSOLE-26JAN2717-B124,"SOL price  on Jan 27, 2026?"
+10,2.961,0.86,160,5,KXNASDAQ100-26JAN27H1600-B25850,"Will the Nasdaq-100 be between 25800 and 25899.9900 at the end of Jan 27, 2026 at 4pm EST?"
+11,2.907,0.84,577,6,KXDOGED-26JAN2717-T0.1249999,"Dogecoin price  on Jan 27, 2026?"
+12,2.808,0.72,14241,13,KXHIGHNY-26JAN27-B22.5,"Will the **high temp in NYC** be 22-23° on Jan 27, 2026?"
+13,2.691,0.85,1883,6,KXETH-26JAN2717-B2870,"Ethereum price at Jan 27, 2026 at 5pm EST?"
+14,2.481,0.86,3665,6,KXETHD-26JAN2717-T2969.99,"Ethereum price at Jan 27, 2026 at 5pm EST?"
+15,2.481,0.86,160,6,KXDOGE-26JAN2717-B0.117,"Dogecoin price range  on Jan 27, 2026?"
+16,2.477,0.88,4884,5,KXINXU-26JAN27H1600-T6999.9999,"Will the S&P 500 be above 6999.9999 on Jan 27, 2026 at 4pm EST?"
+17,2.352,0.74,567,14,KXHIGHTNOLA-26JAN27-B49.5,"Will the maximum temperature be  49-50° on Jan 27, 2026?"
+18,2.11,0.76,471,14,KXHIGHTNOLA-26JAN27-T47,"Will the maximum temperature be  <47° on Jan 27, 2026?"
+19,2.063,0.74,12697,16,KXHIGHLAX-26JAN27-B74.5,"Will the **high temp in LA** be 74-75° on Jan 27, 2026?"
+20,2.061,0.74,1880,16,KXHIGHTSFO-26JAN27-B62.5,"Will the maximum temperature be  62-63° on Jan 27, 2026?"
+21,2.015,0.90,121,5,KXINX-26JAN27H1600-B7012,"Will the S&P 500 be between 7000 and 7024.9999 on Jan 27, 2026 at 4pm EST?"
+22,1.954,0.75,1917,16,KXHIGHTSEA-26JAN27-B52.5,"Will the maximum temperature be  52-53° on Jan 27, 2026?"
+23,1.907,0.79,223,13,KXNCAABMENTION-26JAN27NEBMICH-MARC,"What will the announcers say during Nebraska at Michigan men's college basketball game originally scheduled for Jan 27, 2026?"
+24,1.879,0.89,3464,6,KXBTC-26JAN2717-B86750,"Bitcoin price range  on Jan 27, 2026?"
+25,1.879,0.89,41519,6,KXBTCD-26JAN2717-T88999.99,"Bitcoin price  on Jan 27, 2026?"
+26,1.688,0.90,230,6,KXETH-26JAN2717-B2990,"Ethereum price at Jan 27, 2026 at 5pm EST?"
+27,1.688,0.90,4393,6,KXBTC-26JAN2717-B88750,"Bitcoin price range  on Jan 27, 2026?"
+28,1.656,0.79,4397,15,KXLOWTDEN-26JAN27-B21.5,"Will the minimum temperature be  21-22° on Jan 27, 2026?"
+29,1.465,0.83,1797,13,KXHIGHTDC-26JAN27-B31.5,"Will the maximum temperature be  31-32° on Jan 27, 2026?"
+30,1.362,0.84,126,13,KXNCAABMENTION-26JAN27NEBMICH-NIL,"What will the announcers say during Nebraska at Michigan men's college basketball game originally scheduled for Jan 27, 2026?"
+31,1.362,0.84,1471,13,KXHIGHTDC-26JAN27-B25.5,"Will the maximum temperature be  25-26° on Jan 27, 2026?"
+32,1.291,0.76,356,23,KXTRUMPMENTION-26JAN28-NOBE,"What will Donald Trump say during Remarks to Clive, Iowa?"
+33,1.229,0.70,185,33,KXUCLTOP-26-BVB,UCL League Phase Winner
+34,1.172,0.85,1104,14,KXLOWTCHI-26JAN27-B5.5,"Will the minimum temperature be  5-6° on Jan 27, 2026?"
+35,1.109,0.84,4784,16,KXHIGHTSEA-26JAN27-B48.5,"Will the maximum temperature be  48-49° on Jan 27, 2026?"
+36,1.067,0.87,18460,13,KXHIGHNY-26JAN27-B18.5,"Will the **high temp in NYC** be 18-19° on Jan 27, 2026?"
+37,1.066,0.87,1848,13,KXLOWTNYC-26JAN27-B12.5,"Will the minimum temperature be  12-13° on Jan 27, 2026?"
+38,1.028,0.85,13932,16,KXHIGHLAX-26JAN27-B70.5,"Will the **high temp in LA** be 70-71° on Jan 27, 2026?"
+39,0.992,0.87,7066,14,KXHIGHAUS-26JAN27-T50,"Will the **high temp in Austin** be >50° on Jan 27, 2026?"
+40,0.972,0.88,973,13,KXHIGHTDC-26JAN27-B27.5,"Will the maximum temperature be  27-28° on Jan 27, 2026?"
+41,0.881,0.89,4249,13,KXHIGHPHIL-26JAN27-T26,"Will the **high temp in Philadelphia** be >26° on Jan 27, 2026?"
+42,0.864,0.70,20417,47,KXFEDMENTION-26JAN-TAX,Will Powell say Tax at his Jan 2026 press conference?
+43,0.823,0.71,15928,47,KXFEDMENTION-26JAN-BEIG,Will Powell say Beige Book at his Jan 2026 press conference?
+44,0.818,0.89,2538,14,KXLOWTCHI-26JAN27-B1.5,"Will the minimum temperature be  1-2° on Jan 27, 2026?"
+45,0.797,0.95,305,6,KXBTC-26JAN2717-B89250,"Bitcoin price range  on Jan 27, 2026?"
+46,0.792,0.90,3323,13,KXHIGHPHIL-26JAN27-B21.5,"Will the **high temp in Philadelphia** be 21-22° on Jan 27, 2026?"
+47,0.752,0.96,394,5,KXNASDAQ100-26JAN27H1600-B25550,"Will the Nasdaq-100 be between 25500 and 25599.9900 at the end of Jan 27, 2026 at 4pm EST?"
+48,0.752,0.96,193,5,KXNASDAQ100-26JAN27H1600-B25650,"Will the Nasdaq-100 be between 25600 and 25699.9900 at the end of Jan 27, 2026 at 4pm EST?"
+49,0.741,0.77,179,38,KXHIGHCHI-26JAN28-B13.5,"Will the high temp in Chicago be 13-14° on Jan 28, 2026?"
+50,0.736,0.90,8516,14,KXHIGHAUS-26JAN27-B45.5,"Will the **high temp in Austin** be 45-46° on Jan 27, 2026?"
+51,0.687,0.90,5074,15,KXHIGHDEN-26JAN27-B46.5,"Will the **high temp in Denver** be 46-47° on Jan 27, 2026?"
+52,0.676,0.79,104,37,KXHIGHMIA-26JAN28-B70.5,"Will the **high temp in Miami** be 70-71° on Jan 28, 2026?"
+53,0.66,0.86,187,23,KXGOVERNORMENTION-26JAN28-FRAU,What will Janet Mills say during State of the State?
+54,0.66,0.86,7050,23,KXTRUMPMENTION-26JAN28-ICEL,"What will Donald Trump say during Remarks to Clive, Iowa?"
+55,0.655,0.76,1404,45,KXJOBLESSCLAIMS-26JAN29-215000,"How many initial jobless claims will there be the week ending Jan 24, 2026?"
+56,0.644,0.90,1496,16,KXHIGHTSFO-26JAN27-B58.5,"Will the maximum temperature be  58-59° on Jan 27, 2026?"
+57,0.635,0.80,269,37,KXHIGHMIA-26JAN28-B66.5,"Will the **high temp in Miami** be 66-67° on Jan 28, 2026?"
+58,0.63,0.96,1280,6,KXBTC-26JAN2717-B86250,"Bitcoin price range  on Jan 27, 2026?"
+59,0.619,0.92,7644,13,KXHIGHMIA-26JAN27-B70.5,"Will the **high temp in Miami** be 70-71° on Jan 27, 2026?"
+60,0.606,0.87,2849,23,KXTRUMPMENTION-26JAN28-RENE,"What will Donald Trump say during Remarks to Clive, Iowa?"
+61,0.606,0.87,215,23,KXGOVERNORMENTION-26JAN28-NOEM,What will Janet Mills say during State of the State?
+62,0.599,0.77,8196,47,KXFEDMENTION-26JAN-RENO,Will Powell say Renovation at his Jan 2026 press conference?
+63,0.588,0.80,264,40,KXLOWTLAX-26JAN28-B49.5,"Will the minimum temperature be  49-50° on Jan 28, 2026?"
+64,0.58,0.81,119,38,KXHIGHAUS-26JAN28-B56.5,"Will the **high temp in Austin** be 56-57° on Jan 28, 2026?"
+65,0.573,0.91,2485,16,KXHIGHTSFO-26JAN27-B64.5,"Will the maximum temperature be  64-65° on Jan 27, 2026?"
+66,0.565,0.78,20117,47,KXFEDMENTION-26JAN-QE,Will Powell say QE / Quantitative Easing at his Jan 2026 press conference?
+67,0.565,0.78,588,47,KXUCLTOP8-26-NAP,UCL League Phase Top 8 Finishers
+68,0.558,0.97,304,5,KXINXU-26JAN27H1600-T7024.9999,"Will the S&P 500 be above 7024.9999 on Jan 27, 2026 at 4pm EST?"
+69,0.551,0.81,129,40,KXHIGHLAX-26JAN28-B67.5,"Will the **high temp in LA** be 67-68° on Jan 28, 2026?"
+70,0.537,0.92,6608,15,KXHIGHDEN-26JAN27-T51,"Will the **high temp in Denver** be >51° on Jan 27, 2026?"
+71,0.535,0.93,4753,13,KXRAINNYC-26JAN27-T0,Will it **rain** in New York City on Tuesday?
+72,0.532,0.79,167045,47,KXFEDMENTION-26JAN-TRUM,Will Powell say Trump at his Jan 2026 press conference?
+73,0.532,0.79,146,47,KXUCLTOP8-26-SPO,UCL League Phase Top 8 Finishers
+74,0.503,0.92,1391,16,KXHIGHTSEA-26JAN27-B54.5,"Will the maximum temperature be  54-55° on Jan 27, 2026?"
+75,0.5,0.80,20099,47,KXFEDMENTION-26JAN-YIEL,Will Powell say Yield Curve at his Jan 2026 press conference?
+76,0.497,0.93,2268,14,KXLOWTCHI-26JAN27-T8,"Will the minimum temperature be  >8° on Jan 27, 2026?"
+77,0.479,0.70,637,85,KXTX18SPECIALTURNOUT-26JAN31-4,"Will the vote count in the TX-18 special election runoff be between 40,000 and 54,999?"
+78,0.467,0.97,31704,6,KXBTCD-26JAN2717-T89499.99,"Bitcoin price  on Jan 27, 2026?"
+79,0.467,0.97,775,6,KXETHD-26JAN2717-T3129.99,"Ethereum price at Jan 27, 2026 at 5pm EST?"
+80,0.467,0.97,3794,6,KXBTCD-26JAN2717-T90999.99,"Bitcoin price  on Jan 27, 2026?"
+81,0.453,0.94,18247,13,KXHIGHMIA-26JAN27-T66,"Will the **high temp in Miami** be <66° on Jan 27, 2026?"
+82,0.453,0.94,13829,13,KXHIGHNY-26JAN27-T23,"Will the **high temp in NYC** be >23° on Jan 27, 2026?"
+83,0.446,0.84,234,40,KXLOWTLAX-26JAN28-T52,"Will the minimum temperature be  >52° on Jan 28, 2026?"
+84,0.439,0.82,56000,47,KXFEDMENTION-26JAN-CONS,Will Powell say Consumer Confidence at his Jan 2026 press conference?
+85,0.421,0.94,5038,14,KXHIGHCHI-26JAN27-B17.5,"Will the high temp in Chicago be 17-18° on Jan 27, 2026?"
+86,0.414,0.76,711,72,KXAPRPOTUS-26JAN30-42.7,Will the President's approval rating be between 42.6 and 42.8 according to RealClearPolitics?
+87,0.412,0.86,793,37,KXRAINNYC-26JAN28-T0,Will it **rain** in New York City on Wednesday?
+88,0.404,0.75,8567,78,KXBTCD-26JAN3017-T89749.99,"Bitcoin price  on Jan 30, 2026?"
+89,0.4,0.91,28211,23,KXTRUMPMENTION-26JAN28-CRYP,"What will Donald Trump say during Remarks to Clive, Iowa?"
+90,0.392,0.77,1860,72,KXAPRPOTUS-26JAN30-43.0,Will the President's approval rating be between 42.9 and 43.1 according to RealClearPolitics?
+91,0.383,0.90,24021,27,KXFOMCDISSENTCOUNT-26JAN-3,How many dissenting votes at the next Fed meeting?
+92,0.38,0.84,6482,47,KXFEDMENTION-26JAN-PARD,Will Powell say Pardon at his Jan 2026 press conference?
+93,0.38,0.84,18949,47,KXFEDMENTION-26JAN-DOT,Will Powell say Dot Plot at his Jan 2026 press conference?
+94,0.38,0.84,33958,47,KXFEDMENTION-26JAN-GAS,Will Powell say Gas / Gasoline / Natural Gas at his Jan 2026 press conference?
+95,0.38,0.84,20081,47,KXFEDMENTION-26JAN-LAWS,Will Powell say Lawsuit at his Jan 2026 press conference?
+96,0.378,0.87,203,37,KXLOWTPHIL-26JAN28-T8,"Will the minimum temperature be  >8° on Jan 28, 2026?"
+97,0.373,0.70,834649,109,KXPRESNOMFEDCHAIR-25-26FEB,Will Trump announce his new Chair of the Federal Reserve in 2026?
+98,0.369,0.94,2478,16,KXHIGHTSEA-26JAN27-T48,"Will the maximum temperature be  <48° on Jan 27, 2026?"
+99,0.369,0.94,808,16,KXHIGHTLV-26JAN27-B63.5,"Will the maximum temperature be  63-64° on Jan 27, 2026?"
+100,0.369,0.94,9006,16,KXHIGHLAX-26JAN27-T75,"Will the **high temp in LA** be >75° on Jan 27, 2026?"
+101,0.368,0.98,3170,5,KXINX-26JAN27H1600-B6937,"Will the S&P 500 be between 6925 and 6949.9999 on Jan 27, 2026 at 4pm EST?"
+102,0.368,0.98,145,5,KXNASDAQ100-26JAN27H1600-B26650,"Will the Nasdaq-100 be between 26600 and 26699.9900 at the end of Jan 27, 2026 at 4pm EST?"
+103,0.356,0.71,30951,109,KXGROK-GROK4.2-26FEB01,"Will xAI release Grok 4.2 before Feb 1, 2026?"
+104,0.352,0.85,61659,47,KXFEDMENTION-26JAN-GOLD,Will Powell say Gold at his Jan 2026 press conference?
+105,0.347,0.95,3414,14,KXLOWTCHI-26JAN27-T1,"Will the minimum temperature be  <1° on Jan 27, 2026?"
+106,0.341,0.78,14439,78,KXETHD-26JAN3017-T3019.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+107,0.341,0.78,23442,78,KXBTCD-26JAN3017-T90249.99,"Bitcoin price  on Jan 30, 2026?"
+108,0.312,0.80,9629,75,KXWTIW-26JAN30-T63.99,"Will the WTI front-month settle oil price  be >63.99 on Jan 30, 2026??"
+109,0.308,0.98,1232,6,KXBTCD-26JAN2717-T92499.99,"Bitcoin price  on Jan 27, 2026?"
+110,0.308,0.98,379,6,KXETH-26JAN2717-B2830,"Ethereum price at Jan 27, 2026 at 5pm EST?"
+111,0.308,0.98,480,6,KXBTC-26JAN2717-B89750,"Bitcoin price range  on Jan 27, 2026?"
+112,0.308,0.98,975,6,KXBTCD-26JAN2717-T91499.99,"Bitcoin price  on Jan 27, 2026?"
+113,0.308,0.98,2602,6,KXBTCD-26JAN2717-T91999.99,"Bitcoin price  on Jan 27, 2026?"
+114,0.307,0.87,177,45,KXJOBLESSCLAIMS-26JAN29-220000,"How many initial jobless claims will there be the week ending Jan 24, 2026?"
+115,0.307,0.81,6157,72,KXAPRPOTUS-26JAN30-42.0,Will the President's approval rating be below 42.0 according to RealClearPolitics?
+116,0.302,0.80,261,78,KXDOGE-26JAN3017-B0.122,"Dogecoin price range  on Jan 30, 2026?"
+117,0.295,0.73,220415,119,KXSPACEXCOUNT-26JAN-12,How many launches will SpaceX have in 2026?
+118,0.295,0.73,13993,119,KXBILLSCOUNT-26JAN-7.0,Will 7 to 7 bills become law in Jan 2026?
+119,0.295,0.96,532,13,KXHIGHTDC-26JAN27-T32,"Will the maximum temperature be  >32° on Jan 27, 2026?"
+120,0.295,0.96,3168,13,KXLOWTMIA-26JAN27-B47.5,"Will the minimum temperature be  47-48° on Jan 27, 2026?"
+121,0.291,0.77,195,97,KXSWISSLEAGUEGAME-26JAN17WINSTG-WIN,Winterthur vs St. Gallen Winner?
+122,0.285,0.70,30633,143,KXRT-SEN-90,Send Help Rotten Tomatoes score?
+123,0.274,0.96,158,14,KXHIGHTNOLA-26JAN27-B51.5,"Will the maximum temperature be  51-52° on Jan 27, 2026?"
+124,0.274,0.96,4058,14,KXLOWTCHI-26JAN27-B7.5,"Will the minimum temperature be  7-8° on Jan 27, 2026?"
+125,0.271,0.88,77868,47,KXFEDMENTION-26JAN-ANCH,Will Powell say Anchor at his Jan 2026 press conference?
+126,0.267,0.83,1001,72,KXAPRPOTUS-26JAN30-42.4,Will the President's approval rating be between 42.3 and 42.5 according to RealClearPolitics?
+127,0.259,0.93,854,27,KXFEDDISSENT-26-PHIL,Who will dissent at the January 2026 FOMC meeting?
+128,0.255,0.83,6378,75,KXWTIW-26JAN30-B60.5,"Will the WTI front-month settle oil price  be Between 60 and 60.99 on Jan 30, 2026??"
+129,0.255,0.83,5122,75,KXWTIW-26JAN30-B61.5,"Will the WTI front-month settle oil price  be Between 61 and 61.99 on Jan 30, 2026??"
+130,0.254,0.89,7509,45,KXPCECORE-25DEC-T0.4,Will the rate of core PCE inflation be above 0.4% in December 2025?
+131,0.252,0.83,1441,76,KXTNOTEW-26JAN30-B4.21,"Will the yield of 10-year U.S. treasury notes be between 4.20 and 4.22 on Jan 30, 2026?"
+132,0.251,0.76,16213,119,KXEPSTEIN-26FEB01,"Will Trump release any documents about Epstein's associates before Feb 1, 2026?"
+133,0.247,0.83,7497,78,KXBTCD-26JAN3017-T90749.99,"Bitcoin price  on Jan 30, 2026?"
+134,0.246,0.89,37203,47,KXFEDMENTION-26JAN-SOFT,Will Powell say Soft Landing at his Jan 2026 press conference?
+135,0.246,0.89,28449,47,KXFEDMENTION-26JAN-ADP,Will Powell say ADP at his Jan 2026 press conference?
+136,0.245,0.92,165,33,KXUCLBOTTOM-26-BOG,UCL Bottom of Table
+137,0.245,0.73,2457,143,KXRT-MEL-25,Melania Rotten Tomatoes score?
+138,0.245,0.92,1157,33,KXUCLTOP-26-BAR,UCL League Phase Winner
+139,0.244,0.78,34107,109,KXRAINSEAM-26JAN-5,Rain in Seattle in Jan 2026?
+140,0.241,0.96,7060,16,KXHIGHLAX-26JAN27-B68.5,"Will the **high temp in LA** be 68-69° on Jan 27, 2026?"
+141,0.24,0.96,3726,16,KXHIGHTSFO-26JAN27-T65,"Will the maximum temperature be  >65° on Jan 27, 2026?"
+142,0.24,0.96,5476,16,KXLOWTLAX-26JAN27-B46.5,"Will the minimum temperature be  46-47° on Jan 27, 2026?"
+143,0.234,0.84,709,76,KXTNOTEW-26JAN30-B4.24,"Will the yield of 10-year U.S. treasury notes be between 4.23 and 4.25 on Jan 30, 2026?"
+144,0.229,0.87,592,61,KXALBUMSALES-HOW-25000,"Will How Did I Get Here? have At least 25000 album sales on the Hits Daily Double Top 50 Chart for January 30, 2026?"
+145,0.229,0.87,13628,61,KXVOTEHUBTRUMPUPDOWN-26JAN29,"Will Donald Trump's approval rating be above 41.2% for Jan 29, 2026?"
+146,0.229,0.84,6583,78,KXETHD-26JAN3017-T3059.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+147,0.228,0.90,335,45,KXJOBLESSCLAIMS-26JAN29-225000,"How many initial jobless claims will there be the week ending Jan 24, 2026?"
+148,0.224,0.78,4175,119,KXTRUMPSAYMONTH-26FEB01-NINE,"Will Trump say ""Nine War"" before Feb 1, 2026?"
+149,0.221,0.90,1777,47,KXUCLTOP8-26-NEW,UCL League Phase Top 8 Finishers
+150,0.221,0.75,1019,143,KXTRUMPSAY-26FEB02-EPST,"Will Trump say ""Epstein"" before Feb 2, 2026?"
+151,0.219,0.97,267,13,KXNCAABMENTION-26JAN27NEBMICH-TRIP,"What will the announcers say during Nebraska at Michigan men's college basketball game originally scheduled for Jan 27, 2026?"
+152,0.219,0.85,2055,75,KXWTIW-26JAN30-B62.5,"Will the WTI front-month settle oil price  be Between 62 and 62.99 on Jan 30, 2026??"
+153,0.219,0.97,1114,13,KXHIGHTDC-26JAN27-T25,"Will the maximum temperature be  <25° on Jan 27, 2026?"
+154,0.219,0.97,2686,13,KXLOWTNYC-26JAN27-B10.5,"Will the minimum temperature be  10-11° on Jan 27, 2026?"
+155,0.212,0.93,356,33,KXUCLTOP-26-ATM,UCL League Phase Winner
+156,0.211,0.79,8979,119,KXTRUMPSAYMONTH-26FEB01-UFC,"Will Trump say ""UFC"" before Feb 1, 2026?"
+157,0.203,0.92,185,40,KXHIGHLAX-26JAN28-B65.5,"Will the **high temp in LA** be 65-66° on Jan 28, 2026?"
+158,0.196,0.86,312,78,KXXRPD-26JAN3017-T2.1199,"Ripple price at Jan 30, 2026 at 5pm EST?"
+159,0.196,0.86,21834,78,KXBTCD-26JAN3017-T91249.99,"Bitcoin price  on Jan 30, 2026?"
+160,0.196,0.91,18047,47,KXFEDMENTION-26JAN-STAG,Will Powell say Stagflation at his Jan 2026 press conference?
+161,0.19,0.97,3504,15,KXHIGHDEN-26JAN27-B44.5,"Will the **high temp in Denver** be 44-45° on Jan 27, 2026?"
+162,0.19,0.82,9681,109,KXNURSESTRIKE-26-FEB01,"Will all NYSNA-represented nurses participating in the NYC hospital strike that began on January 12, 2026 stop striking before Feb 1, 2026?"
+163,0.19,0.82,4794,109,KXPROFILECHANGEMUSK-26FEB-ELO,Will @elonmusk change their profile picture to anything new?
+164,0.181,0.95,982,27,KXFEDDISSENT-26-BETH,Who will dissent at the January 2026 FOMC meeting?
+165,0.18,0.96,140,21,KXBRAZILJOBS-26JAN-T200000,Brazil net job creation for Dec 2025 in Jan 2026?
+166,0.179,0.80,3270,132,KXTOPSONG-MAN,Will Man I Need be the #1 song on the Billboard Hot 100 charts this week?
+167,0.178,0.70,1101,229,KXALBUMSALES-OCT-45000,"Will OCTANE have At least 45000 album sales on the Hits Daily Double Top 50 Chart for February 6, 2026?"
+168,0.178,0.97,2459,16,KXHIGHTLV-26JAN27-T59,"Will the maximum temperature be  <59° on Jan 27, 2026?"
+169,0.178,0.70,94383,229,KXNBATRADE-26FEB06-JMOR,"Will Ja Morant be traded by Memphis before Feb 6, 2026"
+170,0.174,0.82,11228,119,KXBILLSCOUNT-26JAN-8.0,Will 8 to 8 bills become law in Jan 2026?
+171,0.172,0.70,6098,237,KXECONSTATU3-26JAN-T4.5,Unemployment rate in Jan 2026?
+172,0.172,0.70,34610,237,KXPAYROLLS-26JAN-T90000,Will above 90000 jobs be added in January 2026?
+173,0.169,0.88,1018,75,KXWTIW-26JAN30-B63.5,"Will the WTI front-month settle oil price  be Between 63 and 63.99 on Jan 30, 2026??"
+174,0.166,0.88,477,77,KXINX-26JAN30H1600-B6987,"Will the S&P 500 be between 6975 and 6999.9999 on Jan 30, 2026 at 4pm EST?"
+175,0.166,0.88,215,77,KXNASDAQ100-26JAN30H1600-T24100,"Will the Nasdaq-100 be below 24100 at the end of Jan 30, 2026 at 4pm EST?"
+176,0.166,0.88,326,77,KXINX-26JAN30H1600-B7012,"Will the S&P 500 be between 7000 and 7024.9999 on Jan 30, 2026 at 4pm EST?"
+177,0.165,0.80,2221,143,KXRT-MEL-30,Melania Rotten Tomatoes score?
+178,0.165,0.80,1701,143,KXTRUMPSAY-26FEB02-PENG,"Will Trump say ""Penguin"" before Feb 2, 2026?"
+179,0.165,0.80,1630,143,KXTRUMPSAY-26FEB02-MARI,"Will Trump say ""Marijuana / Weed / Cannabis"" before Feb 2, 2026?"
+180,0.161,0.86,57075,95,KXGOVTFUND-26JAN31,"Will legislation that, upon becoming law, results in no lapse in federal appropriations on January 31, 2026 at 12:01am, for all twelve appropriations bills become law before Jan 31, 2026?"
+181,0.161,0.89,981,72,KXAPRPOTUS-26JAN30-43.3,Will the President's approval rating be between 43.2 and 43.4 according to RealClearPolitics?
+182,0.157,0.82,402,132,KXTOPALBUM-26FEB07-IMT,"Billboard Top 200 #1 on Feb 7, 2026 chart?"
+183,0.157,0.83,36723,123,KXJACWSNOWM-26JAN-10.0,"Snow in Jackson, Wy in Jan 2026?"
+184,0.155,0.82,26375,133,KXLAGODAYS-26JAN-3,Will Trump make 3 trips to Mar-a-Lago as President in Jan 2026?
+185,0.154,0.93,180,45,KXJOBLESSCLAIMS-26JAN29-260000,"How many initial jobless claims will there be the week ending Jan 24, 2026?"
+186,0.154,0.93,176,45,KXJOBLESSCLAIMS-26JAN29-270000,"How many initial jobless claims will there be the week ending Jan 24, 2026?"
+187,0.153,0.73,6690,229,KXNBATRADE-26FEB06-KKUZ,"Will Kyle Kuzma be traded by Milwaukee before Feb 6, 2026"
+188,0.153,0.89,2526,75,KXWTIW-26JAN30-B59.5,"Will the WTI front-month settle oil price  be Between 59 and 59.99 on Jan 30, 2026??"
+189,0.153,0.73,5650,229,KXGOPNOEMOUT-26-FEB06,"Will a GOP member of Congress calls on Kristi Noem to resign, be impeached, removed, or otherwise ousted before Feb 6, 2026?"
+190,0.152,0.85,34435,109,KXRAINMIAM-26JAN-2,Rain in Miami in Jan 2026?
+191,0.151,0.91,208,61,KXSPOTIFYW-26JAN29-GOL,"Top Song on Weekly Top Songs USA on Jan 29, 2026?"
+192,0.15,0.84,9233,119,KXTRUMPSAYMONTH-26FEB01-THIR,"Will Trump say ""Third Term"" before Feb 1, 2026?"
+193,0.15,0.84,15193,119,KXTRUMPSAYMONTH-26FEB01-EPST,"Will Trump say ""Epstein"" before Feb 1, 2026?"
+194,0.15,0.89,289,77,KXINX-26JAN30H1600-B7062,"Will the S&P 500 be between 7050 and 7074.9999 on Jan 30, 2026 at 4pm EST?"
+195,0.149,0.93,40994,47,KXFEDMENTION-26JAN-TRAD,Will Powell say Trade War at his Jan 2026 press conference?
+196,0.148,0.95,612,33,KXUCLTOP-26-RMA,UCL League Phase Winner
+197,0.148,0.95,932,33,KXUCLTOP-26-LFC,UCL League Phase Winner
+198,0.148,0.95,991,33,KXUCLTOP-26-INT,UCL League Phase Winner
+199,0.148,0.89,132,78,KXETH-26JAN3017-B2920,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+200,0.148,0.89,3905,78,KXETH-26JAN3017-B2960,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+201,0.145,0.74,113747,229,KXNBATRADE-26FEB06-GANT,"Will Giannis Antetokounmpo be traded by Milwaukee before Feb 6, 2026"
+202,0.144,0.98,2519,13,KXLOWTPHIL-26JAN27-B6.5,"Will the minimum temperature be  6-7° on Jan 27, 2026?"
+203,0.144,0.98,2694,13,KXLOWTNYC-26JAN27-T6,"Will the minimum temperature be  <6° on Jan 27, 2026?"
+204,0.144,0.90,1478,72,KXAPRPOTUS-26JAN30-42.1,Will the President's approval rating be between 42.0 and 42.2 according to RealClearPolitics?
+205,0.14,0.86,47863,109,KXRAINSFOM-26JAN-4,Rain in San Francisco in Jan 2026?
+206,0.14,0.86,38560,109,KXTRUMPMEET-26JAN-GNEW,"Donald Trump and Gavin Newsom meet before Feb 1, 2026?"
+207,0.14,0.86,3508,109,KXDOGEMAXMON-DOGE-26JAN31-014,"Will DOGE trimmed mean be above $0.14 by 11:59 PM ET on Jan 31, 2026?"
+208,0.138,0.75,3545,229,KXNBATRADE-26FEB06-NCLA,"Will Nic Claxton be traded by Brooklyn before Feb 6, 2026"
+209,0.137,0.72,673,269,KXNCAAMBGAME-26JAN24UALRUTM-UALR,Little Rock at Tennessee-Martin Winner?
+210,0.135,0.90,111,77,KXNASDAQ100-26JAN30H1600-B24150,"Will the Nasdaq-100 be between 24100 and 24199.9900 at the end of Jan 30, 2026 at 4pm EST?"
+211,0.135,0.71,1857,287,KXGRAMMYCOUNTSAB-26-1,How many awards will Sabrina Carpenter win at the 2026 Grammy Awards?
+212,0.135,0.71,1214,287,KXGRAMMYCOUNTLAD-26-2,How many awards will Lady Gaga win at the 2026 Grammy Awards?
+213,0.135,0.70,35627,301,KXFIRSTSUPERBOWLSONG-26FEB09-BAI,Will BAILE INoLVIDABLE be the first song performed by Bad Bunny during the 2026 Pro Football Championship halftime show?
+214,0.135,0.84,2617,133,KXTSAW-26FEB01-A2.10,Will more than 2100000 people be **screened by the TSA** on average this week?
+215,0.134,0.98,3360,14,KXHIGHAUS-26JAN27-T43,"Will the **high temp in Austin** be <43° on Jan 27, 2026?"
+216,0.134,0.98,4874,14,KXHIGHAUS-26JAN27-B43.5,"Will the **high temp in Austin** be 43-44° on Jan 27, 2026?"
+217,0.134,0.98,165,14,KXHIGHTNOLA-26JAN27-B53.5,"Will the maximum temperature be  53-54° on Jan 27, 2026?"
+218,0.133,0.90,2892,78,KXBTCD-26JAN3017-T91749.99,"Bitcoin price  on Jan 30, 2026?"
+219,0.133,0.90,3065,78,KXETHD-26JAN3017-T3099.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+220,0.131,0.94,208,45,KXJOBLESSCLAIMS-26JAN29-250000,"How many initial jobless claims will there be the week ending Jan 24, 2026?"
+221,0.13,0.73,178,269,KXNCAAMBGAME-26JAN24UMESSCST-SCST,Maryland-Eastern Shore at South Carolina St. Winner?
+222,0.129,0.87,40145,109,KXTORNADO-26JAN-25,Will there be more than 25 tornadoes in January?
+223,0.129,0.87,28221,109,KXBTCMINMON-BTC-26JAN31-82500,"Will BTC trimmed mean be below $82500.00 by 11:59 PM ET on Jan 31, 2026?"
+224,0.128,0.86,14556,119,KXTRUMPSAYMONTH-26FEB01-MARI,"Will Trump say ""Marijuana / Weed / Cannabis"" before Feb 1, 2026?"
+225,0.128,0.86,42506,119,KXTRUMPSAYMONTH-26FEB01-STIM,"Will Trump say ""Stimulus"" before Feb 1, 2026?"
+226,0.127,0.97,3918,22,KXCBDECISIONCANADA-26JAN-H25,Will Bank of Canada Hike rates by 25bps at their January 2026 meeting?
+227,0.127,0.97,9242,22,KXCBDECISIONCANADA-26JAN-C26,Will Bank of Canada Cut rates by >25bps at their January 2026 meeting?
+228,0.126,0.72,1438,292,KXNBA2D-26JAN25DENMEM-MEMJJACKSON8,Jaren Jackson Jr.: Double Double
+229,0.126,0.94,66794,47,KXFEDMENTION-26JAN-NATI,Will Powell say National Debt at his Jan 2026 press conference?
+230,0.125,0.98,4604,15,KXLOWTDEN-26JAN27-B17.5,"Will the minimum temperature be  17-18° on Jan 27, 2026?"
+231,0.125,0.98,4908,15,KXHIGHDEN-26JAN27-T44,"Will the **high temp in Denver** be <44° on Jan 27, 2026?"
+232,0.125,0.74,6688,267,KXNCAAWBGAME-26JAN24UMESSCST-SCST,Maryland-Eastern Shore at South Carolina St. Winner?
+233,0.125,0.72,563,296,KXNBASPREAD-26JAN25DALMIL-MIL4,Milwaukee wins by over 4.5 Points?
+234,0.122,0.90,76058,85,KXAAAGASM-26JAN31-2.95,Will average **gas prices** be above $2.95?
+235,0.121,0.71,4258,320,KXATPEXACTMATCH-26JAN26MUSDJO-DJO31,Will Novak Djokovic win the Lorenzo Musetti vs Novak Djokovic match by a set score of 3-1
+236,0.121,0.71,1235,320,KXATPEXACTMATCH-26JAN26MUSDJO-DJO30,Will Novak Djokovic win the Lorenzo Musetti vs Novak Djokovic match by a set score of 3-0
+237,0.12,0.70,154,339,KXNCAAMBSPREAD-26JAN27AAMUPV-AAMU2,Alabama A&M wins by over 2.5 Points?
+238,0.12,0.70,1549,339,KXNCAAMBTOTAL-26JAN27ALSTTXSO-159,Alabama St. at Texas Southern: Total Points
+239,0.119,0.70,615,343,KXARGPREMDIVGAME-26JAN27GEMSLA-SLA,Mendoza vs San Lorenzo de Almagro Winner?
+240,0.118,0.70,1211,345,KXNBASPREAD-26JAN27NOPOKC-OKC20,Oklahoma City wins by over 20.5 Points?
+241,0.118,0.98,3025,16,KXHIGHTSEA-26JAN27-T55,"Will the maximum temperature be  >55° on Jan 27, 2026?"
+242,0.118,0.98,4914,16,KXLOWTLAX-26JAN27-B42.5,"Will the minimum temperature be  42-43° on Jan 27, 2026?"
+243,0.118,0.70,5614,344,KXNCAAMBGAME-26JAN27ETAMLAM-ETAM,East Texas A&M at Lamar Winner?
+244,0.118,0.70,718,344,KXNHLSPREAD-26JAN27WPGNJ-NJ1,New Jersey wins by over 1.5 goals?
+245,0.118,0.70,747,346,KXNCAAMBTOTAL-26JAN27UKVAN-170,Kentucky at Vanderbilt: Total Points
+246,0.118,0.98,1174,16,KXHIGHTSFO-26JAN27-T58,"Will the maximum temperature be  <58° on Jan 27, 2026?"
+247,0.118,0.98,2092,16,KXHIGHTLV-26JAN27-B65.5,"Will the maximum temperature be  65-66° on Jan 27, 2026?"
+248,0.118,0.70,1021,344,KXNHLSPREAD-26JAN27VGKMTL-VGK1,Vegas wins by over 1.5 goals?
+249,0.118,0.70,1678,346,KXNCAAMBSPREAD-26JAN27UKVAN-VAN12,Vanderbilt wins by over 12.5 Points?
+250,0.117,0.88,42949,109,KXXRPMAXMON-XRP-26JAN31-210,"Will XRP trimmed mean be above $2.10 by 11:59 PM ET on Jan 31, 2026?"
+251,0.117,0.88,2214,109,KXTRUMPMEET-26JAN-HJEF,"Donald Trump and Hakeem Jeffries meet before Feb 1, 2026?"
+252,0.116,0.78,1493,229,KXALBUMSALES-OCT-50000,"Will OCTANE have At least 50000 album sales on the Hits Daily Double Top 50 Chart for February 6, 2026?"
+253,0.116,0.86,458,132,KXBILLBOARDRUNNERUPSONG-26FEB07-CHO,"Billboard Hot 100 #2 on Feb 7, 2026 chart?"
+254,0.115,0.93,2079,61,KXSPOTIFYW-26JAN29-IJU,"Top Song on Weekly Top Songs USA on Jan 29, 2026?"
+255,0.114,0.87,489298,123,KXNYCSNOWM-26JAN-15.0,Snow in New York City in Jan 2026?
+256,0.114,0.71,1076,341,KXNCAAMBTOTAL-26JAN27NWSTSFA-148,Northwestern St. at Stephen F. Austin: Total Points
+257,0.113,0.71,135,344,KXNBATOTAL-26JAN27SACNYK-239,Sacramento at New York: Total Points
+258,0.113,0.71,63524,344,KXNBAGAME-26JAN27PORWAS-WAS,Portland at Washington Winner?
+259,0.113,0.71,1081,344,KXNHLSPREAD-26JAN27BUFTOR-BUF1,Buffalo wins by over 1.5 goals?
+260,0.113,0.71,479,344,KXNBA3PT-26JAN27SACNYK-NYKJBRUNSON11-4,Jalen Brunson: 4+ threes
+261,0.113,0.70,2907,359,KXCS2GAME-26JAN28BCGLGC-BCG,Will BC.Game Esports win the BC.Game Esports vs. Legacy CS2 match?
+262,0.112,0.71,458,345,KXNBAPTS-26JAN27MILPHI-PHITMAXEY0-30,Tyrese Maxey: 30+ points
+263,0.112,0.70,6581,364,KXUCLGAME-26JAN28NAPCFC-NAP,Napoli vs Chelsea Winner?
+264,0.112,0.76,44215,267,KXNCAAWBGAME-26JAN24UALRUTM-UALR,Little Rock at Tennessee-Martin Winner?
+265,0.112,0.71,154,346,KXNCAAMBSPREAD-26JAN27CREIMARQ-MARQ4,Marquette wins by over 4.5 Points?
+266,0.112,0.71,500,347,KXNBAAST-26JAN27LACUTA-LACJHARDEN1-10,James Harden: 10+ assists
+267,0.112,0.71,351,347,KXNHLTOTAL-26JAN27SJVAN-7,San Jose at Vancouver: Total Points
+268,0.112,0.71,1194,346,KXNCAAMBSPREAD-26JAN27PURIND-IND2,Indiana wins by over 2.5 Points?
+269,0.111,0.74,3239,301,KXSUPERBOWLAD-SB2026-SHEI,Will SHEIN run an ad during the Big Game 2026?
+270,0.111,0.72,2471,333,KXATPCHALLENGERMATCH-26JAN27NEUFEA-NEU,Will Lukas Neumayer win the Neumayer vs Fearnley : Round Of 32 match?
+271,0.111,0.71,178,351,KXLOLGAME-26JAN28LGDUP-UP,Will Ultra Prime win the LGD Gaming vs. Ultra Prime League of Legends match?
+272,0.11,0.79,2655,229,KXALBUMSALES-OCT-55000,"Will OCTANE have At least 55000 album sales on the Hits Daily Double Top 50 Chart for February 6, 2026?"
+273,0.11,0.72,900,336,KXATPCHALLENGERMATCH-26JAN27MOLROD-MOL,Will Elmer Moller win the Moller vs Rodesch : Round Of 32 match?
+274,0.11,0.75,4343,287,KXGRAMMYCOUNTKEN-26-3,How many awards will Kendrick Lamar win at the 2026 Grammy Awards?
+275,0.11,0.73,6414,320,KXNCAAWBGAME-26JAN26TENNMISS-MISS,Tennessee at Ole Miss Winner?
+276,0.11,0.79,102451,229,KXNBATRADE-26FEB06-ADAV,"Will Anthony Davis be traded by Dallas before Feb 6, 2026"
+277,0.109,0.72,1546,337,KXFIBACHAMPLEAGUEGAME-26JAN27TOFKAR-KAR,Tofas SK Bursa at AS Karditsas Winner?
+278,0.109,0.72,300,340,KXEUROLEAGUEGAME-26JAN27RMAPAR-PAR,Real Madrid at Paris Basketball Winner?
+279,0.109,0.73,240323,320,KXATPMATCH-26JAN26MUSDJO-MUS,Will Lorenzo Musetti win the Musetti vs Djokovic : Quarterfinal match?
+280,0.109,0.90,1007,95,KXRANKLISTSONGBBH100-26JAN31-ROB,Will ROBBERY (feat. Doechii) be 1-100 on the Billboard Hot 100 chart for the week of January 31st in 2026?
+281,0.107,0.71,651,364,KXUCLSPREAD-26JAN28SGETOT-TOT1,Tottenham wins by over 1.5 goals?
+282,0.107,0.72,5107,344,KXNBASPREAD-26JAN27PORWAS-POR13,Portland wins by over 13.5 Points?
+283,0.107,0.72,4758,344,KXNHLSPREAD-26JAN27BUFTOR-TOR1,Toronto wins by over 1.5 goals?
+284,0.107,0.72,2276,344,KXNHLSPREAD-26JAN27NSHBOS-BOS1,Boston wins by over 1.5 goals?
+285,0.107,0.72,908,344,KXNCAAMBSPREAD-26JAN27UVAND-UVA17,Virginia wins by over 17.5 Points?
+286,0.107,0.72,541,345,KXNCAAMBGAME-26JAN27INSTUIC-INST,Indiana St. at UIC Winner?
+287,0.107,0.72,279,346,KXNCAAMBTOTAL-26JAN27CREIMARQ-166,Creighton at Marquette: Total Points
+288,0.107,0.72,249,343,KXNCAAMBSPREAD-26JAN27MSURUTG-MSU20,Michigan St. wins by over 20.5 Points?
+289,0.107,0.72,488,344,KXNBAPTS-26JAN27SACNYK-SACDDEROZAN10-20,DeMar DeRozan: 20+ points
+290,0.106,0.97,19112,27,KXFOMCDISSENTCOUNT-26JAN-0,How many dissenting votes at the next Fed meeting?
+291,0.106,0.92,442,76,KXTNOTEW-26JAN30-B4.18,"Will the yield of 10-year U.S. treasury notes be between 4.17 and 4.19 on Jan 30, 2026?"
+292,0.105,0.92,242,77,KXINX-26JAN30H1600-T7249.9999,"Will the S&P 500 be above 7249.9999 on Jan 30, 2026 at 4pm EST?"
+293,0.105,0.75,6530,301,KXSUPERBOWLAD-SB2026-GROK,Will Grok run an ad during the Big Game 2026?
+294,0.105,0.71,1916,368,KXNBAGAME-26JAN28ATLBOS-ATL,Atlanta at Boston Winner?
+295,0.105,0.92,114,77,KXNASDAQ100-26JAN30H1600-B26250,"Will the Nasdaq-100 be between 26200 and 26299.9900 at the end of Jan 30, 2026 at 4pm EST?"
+296,0.105,0.71,232,369,KXARGPREMDIVGAME-26JAN28ELPBOC-BOC,Estudiantes La Plata vs Boca Juniors Winner?
+297,0.105,0.71,152,368,KXNCAAMBGAME-26JAN28LASFOR-LAS,La Salle at Fordham Winner?
+298,0.105,0.71,1264,370,KXNBAGAME-26JAN28GSWUTA-UTA,Golden State at Utah Winner?
+299,0.104,0.92,10399,78,KXBTCD-26JAN3017-T92249.99,"Bitcoin price  on Jan 30, 2026?"
+300,0.104,0.76,1337,287,KXGRAMMYCOUNTBAD-26-3,How many awards will Bad Bunny win at the 2026 Grammy Awards?
+301,0.104,0.95,37262,47,KXFEDMENTION-26JAN-BITC,Will Powell say Bitcoin at his Jan 2026 press conference?
+302,0.104,0.95,36418,47,KXFEDMENTION-26JAN-EGG,Will Powell say Egg at his Jan 2026 press conference?
+303,0.103,0.72,18394,360,KXCRICKETT20IMATCH-26JAN27WISA-WI,South Africa vs West Indies Winner?
+304,0.103,0.80,7465,229,KXNBATRADE-26FEB06-LMAR,"Will Lauri Markkanen be traded by Utah before Feb 6, 2026"
+305,0.102,0.73,1693,345,KXARGPREMDIVGAME-26JAN27NOBCAI-NOB,Newell's Old Boys vs Independiente Avellaneda Winner?
+306,0.102,0.83,179,189,KXADP-26JAN-T75000,ADP employment change in Jan 2026?
+307,0.102,0.73,811,344,KXNCAAMBSPREAD-26JAN27SYRNCST-NCST16,North Carolina St. wins by over 16.5 Points?
+308,0.101,0.72,2305,364,KXUCLGAME-26JAN28PAFSLA-TIE,Pafos vs Slavia Prague Winner?
+309,0.101,0.72,634,364,KXUCLGAME-26JAN28USGATA-USG,Union Gilloise vs Atalanta Winner?
+310,0.1,0.72,133,369,KXNCAAMBGAME-26JAN28UNTTLSA-UNT,North Texas at Tulsa Winner?
+311,0.099,0.80,3877,237,KXPAYROLLS-26JAN-T100000,Will above 100000 jobs be added in January 2026?
+312,0.098,0.74,10735,340,KXCOPPAITALIAGAME-26JAN27FIOCOM-FIO,Fiorentina vs Como Winner?
+313,0.098,0.87,1921,143,KXRT-MEL-35,Melania Rotten Tomatoes score?
+314,0.098,0.87,2781,143,KXRT-SHE-75,Shelter Rotten Tomatoes score?
+315,0.098,0.71,11715,397,KXALBUMSALES-FAL-125000,Will The Fall-Off have At least 125000 album sales on the Hits Daily Double Top 50 Chart for 02/13/2026?
+316,0.098,0.74,199,339,KXVALORANTGAME-26JAN27FUTFNC-FUT,Will FUT Esports win the FUT Esports vs. Fnatic Valorant match?
+317,0.097,0.81,26874,229,KXNBATRADE-26FEB06-CPAU,"Will Chris Paul be traded by Los Angeles C before Feb 6, 2026"
+318,0.097,0.74,411,344,KXNCAAMBSPREAD-26JAN27ARKOKLA-ARK8,Arkansas wins by over 8.5 Points?
+319,0.097,0.74,153,345,KXNBATOTAL-26JAN27MILPHI-229,Milwaukee at Philadelphia: Total Points
+320,0.097,0.74,333,344,KXNHLTOTAL-26JAN27NSHBOS-7,Nashville at Boston: Total Points
+321,0.097,0.74,100,345,KXNCAAMBSPREAD-26JAN27MIZZALA-ALA16,Alabama wins by over 16.5 Points?
+322,0.097,0.89,24957,119,KXTRUMPSAYMONTH-26FEB01-NICK,"Will Trump say ""Nick Shirley"" before Feb 1, 2026?"
+323,0.096,0.73,4756,364,KXUCLGAME-26JAN28ASMJUV-ASM,Monaco vs Juventus Winner?
+324,0.096,0.74,111,346,KXNBATOTAL-26JAN27BKNPHX-221,Brooklyn at Phoenix: Total Points
+325,0.096,0.73,986,364,KXUCLGAME-26JAN28ATHSPO-TIE,Bilbao vs Sporting CP Winner?
+326,0.096,0.74,229,346,KXNCAAMBTOTAL-26JAN27UKVAN-173,Kentucky at Vanderbilt: Total Points
+327,0.096,0.73,303,366,KXBRASILEIROGAME-26JAN28ATLPAL-ATL,Atletico Mineiro vs Palmeiras Winner?
+328,0.096,0.74,2379,345,KXARGPREMDIVGAME-26JAN27TUCCC-CC,Tucuman vs Central Cordoba Winner?
+329,0.096,0.73,1240,364,KXUCLGAME-26JAN28ASMJUV-TIE,Monaco vs Juventus Winner?
+330,0.095,0.72,316,388,KXUELGAME-26JAN29CZVRCC-RCC,Crvena Zvezda vs Celta Vigo Winner?
+331,0.095,0.90,482,109,KXMEDIARELEASEICEMAN-26-FEB01,"Will Drake's ""Iceman Episode 4"" be released Worldwide before Feb 1, 2026?"
+332,0.095,0.90,21117,109,KXTRUMPMEET-26JAN-VPUT,"Donald Trump and Vladimir Putin meet before Feb 1, 2026?"
+333,0.095,0.70,170,430,KXSERIEAGAME-26JAN31PISSAS-PIS,Pisa vs Sassuolo Winner?
+334,0.095,0.72,202,387,KXEUROLEAGUEGAME-26JAN29FCBOPI-FCB,FC Barcelona at BC Olympiakos Piraeus Winner?
+335,0.095,0.90,122,109,KXIPOFANNIE-26FEB01,When will Fannie Mae officially announce an IPO?
+336,0.095,0.90,100,109,KXIPORIPPLING-26FEB01,When will Rippling IPO?
+337,0.094,0.77,37468,301,KXFIRSTSUPERBOWLSONG-26FEB09-TIT,Will Tití Me Preguntó be the first song performed by Bad Bunny during the 2026 Pro Football Championship halftime show?
+338,0.094,0.77,7660,301,KXSUPERBOWLAD-SB2026-ATHL,Will Athletic Greens run an ad during the Big Game 2026?
+339,0.094,0.79,12859,267,KXNCAAWBGAME-26JAN24UNACARK-UNA,North Alabama at Central Arkansas Winner?
+340,0.093,0.78,4284,287,KXGRAMMYCOUNTKEN-26-4,How many awards will Kendrick Lamar win at the 2026 Grammy Awards?
+341,0.093,0.75,2341,340,KXCOPPAITALIAGAME-26JAN27FIOCOM-TIE,Fiorentina vs Como Winner?
+342,0.093,0.81,6671,237,KXU3-26JAN-T4.5,Will the unemployment rate (U-3) be above 4.5% in January?
+343,0.093,0.74,80419,357,KXCPIYOY-26JAN-T2.5,Will the rate of CPI inflation be above 2.5% for the year ending in January 2026?
+344,0.093,0.74,366,357,KXCPICOREYOY-26JAN-T3.0,Will the rate of core CPI inflation be above 3.0% for the year ending in January 2026?
+345,0.093,0.70,276,436,KXEPLSPREAD-26JAN31LFCNEW-LFC1,Liverpool wins by over 1.5 goals?
+346,0.092,0.75,527,345,KXNHLTOTAL-26JAN27CHIMIN-7,Chicago at Minnesota: Total Points
+347,0.092,0.75,413,344,KXNBATOTAL-26JAN27PORWAS-242,Portland at Washington: Total Points
+348,0.092,0.75,3860,341,KXARGPREMDIVGAME-26JAN27VELCAT-CAT,Velez Sarsfield vs Talleres Cordoba Winner?
+349,0.092,0.75,551,344,KXNCAAMBGAME-26JAN27OHIOKENT-OHIO,Ohio at Kent St. Winner?
+350,0.092,0.70,45782,441,KXBOXING-26JAN31STEVENLOPEZ-LOPEZ,Shakur Stevenson vs Teofimo Lopez Winner?
+351,0.091,0.75,28485,347,KXNBAGAME-26JAN27LACUTA-UTA,Los Angeles C at Utah Winner?
+352,0.091,0.75,28596,346,KXNCAAMBGAME-26JAN27UKVAN-UK,Kentucky at Vanderbilt Winner?
+353,0.091,0.74,3156,364,KXUCLGAME-26JAN28NAPCFC-TIE,Napoli vs Chelsea Winner?
+354,0.091,0.78,403,293,KXNCAAMBTOTAL-26JAN25SIUEVAN-139,Southern Illinois at Evansville: Total Points
+355,0.091,0.74,1835,364,KXUCLGAME-26JAN28AJAOLY-TIE,Ajax vs Olympiacos Winner?
+356,0.091,0.74,1688,364,KXUCLGAME-26JAN28BVBINT-TIE,Dortmund vs Inter Winner?
+357,0.091,0.93,1324,77,KXINX-26JAN30H1600-B6962,"Will the S&P 500 be between 6950 and 6974.9999 on Jan 30, 2026 at 4pm EST?"
+358,0.091,0.74,161,364,KXUCLGAME-26JAN28USGATA-TIE,Union Gilloise vs Atalanta Winner?
+359,0.09,0.74,164,369,KXNCAAMBGAME-26JAN28DEPGTWN-DEP,DePaul at Georgetown Winner?
+360,0.09,0.93,348,78,KXETH-26JAN3017-B2800,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+361,0.09,0.72,200,411,KXBUNDESLIGAGAME-26JAN30KOEWOB-WOB,1. FC Cologne vs Wolfsburg Winner?
+362,0.09,0.82,7481,229,KXNEXTTEAMNBA-26ADAV-BOS,What will be Anthony Davis's next team?
+363,0.089,0.75,1087,353,KXLOLGAME-26JAN28LNGOMG-OMG,Will Oh My God win the LNG Esports vs. Oh My God League of Legends match?
+364,0.088,0.71,467,440,KXUFCFIGHT-26JAN31TAFELE-TAF,"Will Junior Tafa win the Tafa vs Elekana professional MMA fight scheduled for Jan 31, 2026?"
+365,0.088,0.77,3336,320,KXNHLSPREAD-26JAN26LACBJ-CBJ1,Columbus wins by over 1.5 goals?
+366,0.087,0.97,1896,33,KXUCLTOP-26-MCI,UCL League Phase Winner
+367,0.087,0.75,1089,364,KXUCLGAME-26JAN28BRUOM-TIE,Club Brugge vs Marseille Winner?
+368,0.087,0.97,844,33,KXUCLBOTTOM-26-VIL,UCL Bottom of Table
+369,0.087,0.75,212,361,KXSAUDIPLGAME-26JAN28FAYKHA-TIE,Al-Fayha vs Al-Khaleej Winner?
+370,0.087,0.76,281,344,KXNBAAST-26JAN27SACNYK-NYKJBRUNSON11-8,Jalen Brunson: 8+ assists
+371,0.087,0.76,250,345,KXNBA2D-26JAN27NOPOKC-OKCSGILGEOUSALEXANDER2,Shai Gilgeous-Alexander: Double Double
+372,0.086,0.79,1072,292,KXNBASPREAD-26JAN25DENMEM-DEN1,Denver wins by over 1.5 Points?
+373,0.086,0.76,22353,346,KXNBAGAME-26JAN27BKNPHX-BKN,Brooklyn at Phoenix Winner?
+374,0.086,0.76,1162,346,KXNCAAMBTOTAL-26JAN27PURIND-161,Purdue at Indiana: Total Points
+375,0.086,0.75,4615,368,KXNCAAMBGAME-26JAN28TEXAUB-TEX,Texas at Auburn Winner?
+376,0.086,0.76,3207,347,KXNHLSPREAD-26JAN27WSHSEA-SEA1,Seattle wins by over 1.5 goals?
+377,0.085,0.91,2550,109,KXETHMINMON-ETH-26JAN31-2500,"Will ETH trimmed mean be below $2500.00 by 11:59 PM ET on Jan 31, 2026?"
+378,0.085,0.91,224,109,KXDOGEMAXMON-DOGE-26JAN31-017,"Will DOGE trimmed mean be above $0.17 by 11:59 PM ET on Jan 31, 2026?"
+379,0.085,0.90,264344,123,KXDCSNOWM-26JAN-10.0,Snow in Washington DC in Jan 2026?
+380,0.085,0.91,30910,109,KXRAINNYCM-26JAN-3,Rain in NYC in Jan 2026?
+381,0.084,0.94,23651,71,KXGOVTFUND-26JAN30,"Will legislation that, upon becoming law, results in no lapse in federal appropriations on January 31, 2026 at 12:01am, for all twelve appropriations bills become law before Jan 30, 2026?"
+382,0.084,0.83,4051,229,KXNBATRADE-26FEB06-DDIV,"Will Donte DiVincenzo be traded by Minnesota before Feb 6, 2026"
+383,0.084,0.98,1378,22,KXCBDECISIONCANADA-26JAN-H26,Will Bank of Canada Hike rates by >25bps at their January 2026 meeting?
+384,0.084,0.77,563,335,KXATPCHALLENGERMATCH-26JAN27TORBRU-TOR,Will Tiago Torres win the Torres vs Brunclik : Round Of 32 match?
+385,0.084,0.83,11607,229,KXNBATRADE-26FEB06-HJON,"Will Herbert Jones be traded by New Orleans before Feb 6, 2026"
+386,0.083,0.78,358,320,KXNCAAMBTOTAL-26JAN26ACTARL-144,Abilene Christian at Tarleton St.: Total Points
+387,0.083,0.93,106,85,KXTX18SPECIALTURNOUT-26JAN31-5,"Will the vote count in the TX-18 special election runoff be between 55,000 and 69,999?"
+388,0.083,0.78,6958,320,KXNCAAMBGAME-26JAN26ACTARL-AC,Abilene Christian at Tarleton St. Winner?
+389,0.083,0.77,5497,341,KXNCAAMBTOTAL-26JAN27NWSTSFA-151,Northwestern St. at Stephen F. Austin: Total Points
+390,0.082,0.77,1123,346,KXNBASPREAD-26JAN27DETDEN-DET14,Detroit wins by over 14.5 Points?
+391,0.082,0.80,783,287,KXGRAMMYCOUNTLAD-26-1,How many awards will Lady Gaga win at the 2026 Grammy Awards?
+392,0.082,0.96,707,47,KXUCLTOP8-26-LEV,UCL League Phase Top 8 Finishers
+393,0.082,0.75,265,385,KXSAUDIPLGAME-26JAN29QADHIL-QAD,Al Qadsiah vs Al Hilal Winner?
+394,0.082,0.77,9742,344,KXNCAAMBGAME-26JAN27BUFFBGSU-BUFF,Buffalo at Bowling Green Winner?
+395,0.082,0.77,2940,344,KXNCAAMBGAME-26JAN27URIDAY-URI,Rhode Island at Dayton Winner?
+396,0.082,0.77,140,344,KXATPSETWINNER-26JAN27SHESIN-1-SHE,Will Ben Shelton win set 1 in the Ben Shelton vs Jannik Sinner match
+397,0.082,0.77,325,344,KXNCAAMBSPREAD-26JAN27NEBMICH-MICH16,Michigan wins by over 16.5 Points?
+398,0.082,0.77,836,346,KXNCAAMBTOTAL-26JAN27PURIND-164,Purdue at Indiana: Total Points
+399,0.082,0.96,217,47,KXUCLTOP8-26-OM,UCL League Phase Top 8 Finishers
+400,0.082,0.96,3193,47,KXUCLTOP8-26-INT,UCL League Phase Top 8 Finishers
+401,0.081,0.80,2024,293,KXNCAAMBTOTAL-26JAN25SIUEVAN-142,Southern Illinois at Evansville: Total Points
+402,0.081,0.70,20254,503,KXNBAALLSTARS-26-JGID,Will Josh Giddey be selected as a Pro Basketball All Star
+403,0.081,0.83,3463,237,KXECONSTATU3-26JAN-T4.3,Unemployment rate in Jan 2026?
+404,0.081,0.76,2135,368,KXNCAAMBGAME-26JAN28USCIOWA-USC,USC at Iowa Winner?
+405,0.08,0.73,741,438,KXUFCFIGHT-26JAN31SULLUI-LUI,"Will Lawrence Lui win the Sulangrangbo vs Lui professional MMA fight scheduled for Jan 31, 2026?"
+406,0.079,0.90,274,132,KXTOPALBUM-26FEB07-THE,"Billboard Top 200 #1 on Feb 7, 2026 chart?"
+407,0.079,0.94,1019,75,KXWTIW-26JAN30-B58.5,"Will the WTI front-month settle oil price  be Between 58 and 58.99 on Jan 30, 2026??"
+408,0.079,0.82,382,263,KXALBUMTRACKSJCOLE-26-18,Will The Fall-Off by J. Cole have At least 18 tracks?
+409,0.078,0.76,12319,381,KXCRICKETT20IMATCH-26JAN28NZIND-NZ,India vs New Zealand Winner?
+410,0.078,0.77,936,364,KXUCLGAME-26JAN28SGETOT-TIE,Frankfurt vs Tottenham Winner?
+411,0.078,0.77,301,361,KXCS2GAME-26JAN28G2PSSNUA-PSSNUA,Will Passion UA win the G2 vs. Passion UA CS2 match?
+412,0.078,0.79,6579,320,KXNCAAMBSPREAD-26JAN26ACTARL-TARL4,Tarleton St. wins by over 4.5 Points?
+413,0.078,0.84,55845,229,KXNEXTTEAMNBA-26JMOR-MIA,What will be Ja Morant's next team?
+414,0.077,0.78,1277,344,KXATPEXACTMATCH-26JAN27SHESIN-SIN31,Will Jannik Sinner win the Ben Shelton vs Jannik Sinner match by a set score of 3-1
+415,0.077,0.74,622,431,KXEPLTOTAL-26JAN31LEEARS-3,Arsenal at Leeds United: Totals
+416,0.077,0.71,17881,503,KXNBAALLSTARS-26-JEMB,Will Joel Embiid be selected as a Pro Basketball All Star
+417,0.077,0.71,7736,503,KXNBAALLSTARS-26-BING,Will Brandon Ingram be selected as a Pro Basketball All Star
+418,0.077,0.78,4441,345,KXNCAAMBGAME-26JAN27KSUWVU-KSU,Kansas St. at West Virginia Winner?
+419,0.077,0.78,4195,344,KXNCAAMBGAME-26JAN27ASUUCF-ASU,Arizona St. at UCF Winner?
+420,0.077,0.75,101,411,KXBUNDESLIGAGAME-26JAN30KOEWOB-TIE,1. FC Cologne vs Wolfsburg Winner?
+421,0.076,0.94,3532,78,KXBTC-26JAN3017-B88000,"Bitcoin price range  on Jan 30, 2026?"
+422,0.076,0.94,16807,78,KXBTCD-26JAN3017-T92749.99,"Bitcoin price  on Jan 30, 2026?"
+423,0.076,0.74,2855,440,KXUFCFIGHT-26JAN31ROWBRU-BRU,"Will Cody Brundage win the Rowston vs Brundage professional MMA fight scheduled for Jan 31, 2026?"
+424,0.076,0.94,2838,78,KXSOLD-26JAN3017-T139.9999,"SOL price  on Jan 30, 2026?"
+425,0.076,0.94,350,78,KXXRPD-26JAN3017-T2.2199,"Ripple price at Jan 30, 2026 at 5pm EST?"
+426,0.076,0.94,2272,78,KXBTC-26JAN3017-B87500,"Bitcoin price range  on Jan 30, 2026?"
+427,0.076,0.94,691,78,KXBTC-26JAN3017-B87000,"Bitcoin price range  on Jan 30, 2026?"
+428,0.076,0.94,4989,78,KXBTC-26JAN3017-B88500,"Bitcoin price range  on Jan 30, 2026?"
+429,0.076,0.94,1290,78,KXETHD-26JAN3017-T3139.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+430,0.076,0.74,123,436,KXLALIGASPREAD-26JAN31ELCBAR-BAR2,Barcelona wins by over 2.5 goals?
+431,0.075,0.92,107953,109,KXBTCMINMON-BTC-26JAN31-80000,"Will BTC trimmed mean be below $80000.00 by 11:59 PM ET on Jan 31, 2026?"
+432,0.075,0.91,132179,123,KXPHILSNOWM-26JAN-15.0,Snow in Philadelphia in Jan 2026?
+433,0.075,0.91,284,123,KXDENSNOWMB-26JAN-25.0,Snow in Denver Area in Jan 2026?
+434,0.075,0.91,26821,123,KXSLCSNOWM-26JAN-0.1,Snow in Salt Lake City in Jan 2026?
+435,0.075,0.74,3938,442,KXUFCFIGHT-26JAN31TUITEI-TUI,"Will Tai Tuivasa win the Tuivasa vs Teixeira professional MMA fight scheduled for Jan 31, 2026?"
+436,0.075,0.81,133,296,KXNBA3PT-26JAN25DALMIL-DALCFLAGG32-2,Cooper Flagg: 2+ threes
+437,0.075,0.74,10468,443,KXUFCFIGHT-26JAN31HOOSAI-HOO,"Will Daniel Hooker win the Hooker vs Saint-Denis professional MMA fight scheduled for Jan 31, 2026?"
+438,0.074,0.76,104,402,KXCBDECISIONRUSSIA-26FEB13-C50P,Will the Bank of Russia Cut more than 50bp at the February Bank of Russia Board of Directors’ key rate meeting?
+439,0.074,0.79,121,339,KXNCAAMBSPREAD-26JAN27AAMUPV-AAMU5,Alabama A&M wins by over 5.5 Points?
+440,0.073,0.79,1271,346,KXNCAAMBSPREAD-26JAN27UKVAN-UK3,Kentucky wins by over 3.5 Points?
+441,0.073,0.78,1150,364,KXUCLSPREAD-26JAN28USGATA-ATA1,Atalanta wins by over 1.5 goals?
+442,0.073,0.79,3150,345,KXNBAREB-26JAN27NOPOKC-OKCCHOLMGREN7-12,Chet Holmgren: 12+ rebounds
+443,0.073,0.79,1389,341,KXNCAAMBSPREAD-26JAN27UNONICH-NICH9,Nicholls St. wins by over 9.5 Points?
+444,0.073,0.79,125,345,KXNBATOTAL-26JAN27MILPHI-232,Milwaukee at Philadelphia: Total Points
+445,0.073,0.75,206,431,KXEPLGAME-26JAN31WOLBOU-TIE,Wolverhampton vs Bournemouth Winner?
+446,0.073,0.79,2420,345,KXNBATOTAL-26JAN27NOPOKC-246,New Orleans at Oklahoma City: Total Points
+447,0.073,0.79,100,344,KXNBAPTS-26JAN27SACNYK-NYKJBRUNSON11-35,Jalen Brunson: 35+ points
+448,0.073,0.79,1205,346,KXNCAAMBSPREAD-26JAN27PURIND-IND5,Indiana wins by over 5.5 Points?
+449,0.073,0.78,3301,364,KXUCLGAME-26JAN28SGETOT-SGE,Frankfurt vs Tottenham Winner?
+450,0.073,0.78,2733,364,KXUCLSPREAD-26JAN28ASMJUV-JUV1,Juventus wins by over 1.5 goals?
+451,0.073,0.77,188,388,KXUELGAME-26JAN29OLPAOK-TIE,Lyon vs PAOK Winner?
+452,0.072,0.87,132,194,KXFIBAECUPGAME-26JAN21ZARPEA-ZAR,Basket Zaragoza 2002 at Peristeri Athens Winner?
+453,0.072,0.78,311,368,KXNCAAMBGAME-26JAN28IUINRMU-IUIN,IU Indy at Robert Morris Winner?
+454,0.072,0.75,247,439,KXUFCFIGHT-26JAN31OFLZHA-OFL,"Will Kaan Ofli win the Ofli vs Zha professional MMA fight scheduled for Jan 31, 2026?"
+455,0.072,0.79,454,347,KXNHLSPREAD-26JAN27SJVAN-SJ2,San Jose wins by over 2.5 goals?
+456,0.071,0.82,28982,292,KXNBASPREAD-26JAN25DENMEM-MEM5,Memphis wins by over 5.5 Points?
+457,0.071,0.80,318,334,KXKHLGAME-26JAN27TRAMET-TRA,Traktor Chelyabinsk at Metallurg Magnitogorsk Winner?
+458,0.071,0.81,332,311,KXRT-WHI-70,Whistle Rotten Tomatoes score?
+459,0.07,0.98,2210,27,KXFEDDISSENT-26-JERO,Who will dissent at the January 2026 FOMC meeting?
+460,0.07,0.75,125,454,KXEPLGAME-26FEB01AVLBRE-TIE,Aston Villa vs Brentford Winner?
+461,0.07,0.98,10953,27,KXFOMCDISSENTCOUNT-26JAN-4,How many dissenting votes at the next Fed meeting?
+462,0.07,0.98,166833,27,KXFEDCOMBO-26JAN-0-0,Will Federal Funds Rates be No change AND Dissents be 0 for Jan 2026?
+463,0.07,0.98,178895,27,KXFEDCOMBO-26JAN-25C-0,Will Federal Funds Rates be 25bp cut AND Dissents be 0 for Jan 2026?
+464,0.069,0.79,6134,364,KXUCLSPREAD-26JAN28NAPCFC-CFC1,Chelsea wins by over 1.5 goals?
+465,0.069,0.80,280,344,KXNCAAMBTOTAL-26JAN27ARKOKLA-177,Arkansas at Oklahoma: Total Points
+466,0.069,0.76,923,432,KXLIGUE1GAME-26JAN31PAROM-PAR,Paris vs Marseille Winner?
+467,0.069,0.80,1131,344,KXNCAAMBSPREAD-26JAN27SYRNCST-NCST19,North Carolina St. wins by over 19.5 Points?
+468,0.069,0.76,149,432,KXLIGUE1GAME-26JAN31PAROM-TIE,Paris vs Marseille Winner?
+469,0.069,0.79,6881,364,KXUCLGAME-26JAN28BENRMA-TIE,SL Benfica vs Real Madrid Winner?
+470,0.069,0.79,457,364,KXUCLGAME-26JAN28LEVVIL-TIE,Leverkusen vs Villarreal Winner?
+471,0.069,0.82,4482,301,KXSBADAPPEARANCES-26FEB09-TCHA,"Will Timothée Chalamet appear in a big game ad before Feb 9, 2026?"
+472,0.069,0.79,233,366,KXBRASILEIROGAME-26JAN28INTCAP-CAP,Internacional vs Paranaense Winner?
+473,0.068,0.80,1379,346,KXNCAAMBSPREAD-26JAN27UKVAN-VAN15,Vanderbilt wins by over 15.5 Points?
+474,0.068,0.80,434,344,KXNBA2D-26JAN27SACNYK-NYKJHART3,Josh Hart: Double Double
+475,0.068,0.80,88172,345,KXNBAGAME-26JAN27MILPHI-MIL,Milwaukee at Philadelphia Winner?
+476,0.068,0.76,989,441,KXBOXING-26JAN31WILLIAADAMES-WILLIA,Austin Williams vs Carlos Adames Winner?
+477,0.068,0.80,213,346,KXNBATOTAL-26JAN27BKNPHX-224,Brooklyn at Phoenix: Total Points
+478,0.068,0.80,325,347,KXNBATOTAL-26JAN27LACUTA-246,Los Angeles C at Utah: Total Points
+479,0.067,0.79,671,376,KXLOLGAME-26JAN29FOXDNF-DNF,Will DN SOOPers win the BNK FEARX vs. DN SOOPers League of Legends match?
+480,0.067,0.86,13853,229,KXNBATRADE-26FEB06-GALL,"Will Grayson Allen be traded by Phoenix before Feb 6, 2026"
+481,0.067,0.86,2725,229,KXNBATRADE-26FEB06-KTOW,"Will Karl-Anthony Towns be traded by New York before Feb 6, 2026"
+482,0.066,0.83,4147,290,KXNCAAMBGAME-26JAN25SFPANHC-SFPA,St. Francis (PA) at New Haven Winner?
+483,0.066,0.92,4933,123,KXDETSNOWM-26JAN-20.0,Snow in Detroit in Jan 2026?
+484,0.066,0.83,402,294,KXAHLGAME-26JAN25CHAHER-CHA,Charlotte Checkers at Hershey Bears Winner?
+485,0.065,0.76,837,460,KXLALIGAGAME-26FEB01ATHRSO-RSO,Bilbao vs Real Sociedad Winner?
+486,0.065,0.80,1867,364,KXUCLGAME-26JAN28PSVBMU-TIE,Eindhoven vs Bayern Munich Winner?
+487,0.065,0.70,5579,631,KXNFLSPREAD-26FEB08SEANE-NE2,New England wins by over 2.5 points?
+488,0.065,0.80,230,364,KXUCLSPREAD-26JAN28AJAOLY-OLY1,Olympiacos wins by over 1.5 goals?
+489,0.065,0.80,456,364,KXUCLSPREAD-26JAN28PSVBMU-BMU2,Bayern Munich wins by over 2.5 goals?
+490,0.065,0.80,18143,364,KXUCLGAME-26JAN28BENRMA-BEN,SL Benfica vs Real Madrid Winner?
+491,0.065,0.70,292,631,KXNFLRECYDS-26FEB08SEANE-SEAJSMITHNJIGBA11-120,Jaxon Smith-Njigba: 120+ receiving yards
+492,0.065,0.80,1379,364,KXUCLSPREAD-26JAN28BRUOM-OM1,Marseille wins by over 1.5 goals?
+493,0.065,0.70,2098,631,KXNFL1QWINNER-26FEB08SEANE-NE,Seattle at New England: First Quarter Winner
+494,0.065,0.75,192,484,KXEPLGAME-26FEB02SUNBUR-TIE,Sunderland vs Burnley Winner?
+495,0.065,0.70,1054,631,KXNFL1QTOTAL-26FEB08SEANE-10,Seattle at New England: First Quarter Total Points?
+496,0.064,0.72,11492,573,KXGDP-26JAN30-T4.5,Will **real GDP** increase by more than 4.5% in Q4 2025?
+497,0.064,0.81,196,345,KXNBAPTS-26JAN27NOPOKC-OKCSGILGEOUSALEXANDER2-40,Shai Gilgeous-Alexander: 40+ points
+498,0.064,0.81,120,346,KXNBASPREAD-26JAN27DETDEN-DEN4,Denver wins by over 4.5 Points?
+499,0.064,0.81,1094,343,KXARGPREMDIVGAME-26JAN27HURIRM-IRM,Huracan vs Rivadavia Winner?
+500,0.064,0.81,1333,346,KXNCAAMBSPREAD-26JAN27PURIND-PUR13,Purdue wins by over 13.5 Points?
+501,0.064,0.81,132,344,KXNBA3PT-26JAN27SACNYK-NYKKTOWNS32-3,Karl-Anthony Towns: 3+ threes
+502,0.064,0.81,2124,344,KXNCAAWBGAME-26JAN27RMUPFW-RMU,Robert Morris at Purdue Fort Wayne Winner?
+503,0.064,0.95,122,76,KXTNOTEW-26JAN30-B4.27,"Will the yield of 10-year U.S. treasury notes be between 4.26 and 4.28 on Jan 30, 2026?"
+504,0.064,0.95,494,77,KXINX-26JAN30H1600-B6937,"Will the S&P 500 be between 6925 and 6949.9999 on Jan 30, 2026 at 4pm EST?"
+505,0.064,0.93,241,109,KXDOGEMAXMON-DOGE-26JAN31-016,"Will DOGE trimmed mean be above $0.16 by 11:59 PM ET on Jan 31, 2026?"
+506,0.064,0.93,1098,109,KXJUDGECOUNT-26JAN-6,Will above 7 or above judges be confirmed in Jan 2026?
+507,0.064,0.93,61523,109,KXRAINLAXM-26JAN-2,Rain in Los Angeles in Jan 2026?
+508,0.064,0.80,358,368,KXNCAAMBGAME-26JAN28EVANDRKE-EVAN,Evansville at Drake Winner?
+509,0.064,0.83,10426,301,KXSUPERBOWLAD-SB2026-TESL,Will Tesla run an ad during the Big Game 2026?
+510,0.064,0.96,1753,61,KXSPOTIFYW-26JAN29-THE,"Top Song on Weekly Top Songs USA on Jan 29, 2026?"
+511,0.064,0.81,573588,344,KXNCAAMBGAME-26JAN27NEBMICH-NEB,Nebraska at Michigan Winner?
+512,0.064,0.81,765,344,KXNCAAMBTOTAL-26JAN27NEBMICH-168,Nebraska at Michigan: Total Points
+513,0.064,0.81,917,344,KXNCAAMBSPREAD-26JAN27UVAND-UVA20,Virginia wins by over 20.5 Points?
+514,0.063,0.97,591,45,KXJOBLESSCLAIMS-26JAN29-230000,"How many initial jobless claims will there be the week ending Jan 24, 2026?"
+515,0.063,0.95,105,78,KXXRPD-26JAN3017-T2.0399,"Ripple price at Jan 30, 2026 at 5pm EST?"
+516,0.063,0.95,523,78,KXBTC-26JAN3017-B86000,"Bitcoin price range  on Jan 30, 2026?"
+517,0.063,0.80,585,376,KXVALORANTGAME-26JAN29ZETAGE-ZETA,Will ZETA DIVISION win the ZETA DIVISION vs. Global Esports Valorant match?
+518,0.063,0.95,6389,78,KXBTC-26JAN3017-B89000,"Bitcoin price range  on Jan 30, 2026?"
+519,0.063,0.95,956,78,KXBTC-26JAN3017-B86500,"Bitcoin price range  on Jan 30, 2026?"
+520,0.063,0.80,6773,376,KXWTAMATCH-26JAN29SABSVI-SVI,Will Elina Svitolina win the Sabalenka vs Svitolina : Semifinal match?
+521,0.063,0.75,12119,503,KXNBAALLSTARS-26-PBAN,Will Paolo Banchero be selected as a Pro Basketball All Star
+522,0.063,0.94,54725,95,KXCABLEAVE-25-26FEB,Will any member of Trump's Cabinet leave before Jan 2026?
+523,0.063,0.95,230,78,KXBTC-26JAN3017-B94000,"Bitcoin price range  on Jan 30, 2026?"
+524,0.063,0.95,173,78,KXETH-26JAN3017-B2760,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+525,0.062,0.77,168,454,KXEPLSPREAD-26FEB01AVLBRE-AVL1,Aston Villa wins by over 1.5 goals?
+526,0.062,0.77,416,454,KXEPLGAME-26FEB01AVLBRE-BRE,Aston Villa vs Brentford Winner?
+527,0.062,0.77,1562,454,KXEPLGAME-26FEB01NFOCRY-CRY,Nottingham vs Crystal Palace Winner?
+528,0.062,0.83,286,311,KXRT-STR-90,The Strangers – Chapter 3 Rotten Tomatoes score?
+529,0.062,0.81,2491,357,KXECONSTATCPI-26JAN-T0.3,CPI month-over-month in Jan 2026?
+530,0.062,0.81,9162,357,KXEGGS-JAN-0,Will egg prices rise by more than 0% in Jan 2026?
+531,0.062,0.81,197,357,KXCPICORE-26JAN-T0.4,Will CPI Core rise more than 0.4% in January?
+532,0.061,0.78,1347,436,KXEPLGAME-26JAN31LFCNEW-TIE,Liverpool vs Newcastle Winner?
+533,0.061,0.71,504,631,KXNFLTOTAL-26FEB08SEANE-52,Seattle at New England: Total Points
+534,0.061,0.80,105,388,KXUELGAME-26JAN29LILSCF-SCF,Lille vs Freiburg Winner?
+535,0.061,0.71,373,631,KXNFLTEAMTOTAL-26FEB08SEANE-SEA31,Seattle at New England: Team Totals: Seattle
+536,0.061,0.71,11719,631,KXNFLANYTD-26FEB08SEANE-SEAABARNER88,AJ Barner: Anytime Touchdown
+537,0.061,0.80,253,388,KXUELGAME-26JAN29OLPAOK-PAOK,Lyon vs PAOK Winner?
+538,0.061,0.71,3790,631,KXNFLSPREAD-26FEB08SEANE-SEA10,Seattle wins by over 10.5 points?
+539,0.061,0.80,349,385,KXSAUDIPLGAME-26JAN29QADHIL-TIE,Al Qadsiah vs Al Hilal Winner?
+540,0.061,0.81,3867,364,KXUCLGAME-26JAN28PSGNEW-TIE,PSG vs Newcastle Winner?
+541,0.061,0.84,7717,292,KXNCAAMBGAME-26JAN25WAGLIU-WAG,Wagner at LIU Winner?
+542,0.061,0.97,1315,47,KXUCLTOP8-26-BVB,UCL League Phase Top 8 Finishers
+543,0.061,0.97,613,47,KXUCLTOP8-26-JUV,UCL League Phase Top 8 Finishers
+544,0.06,0.82,884,344,KXNCAAMBSPREAD-26JAN27UVAND-ND1,Notre Dame wins by over 1.5 Points?
+545,0.06,0.82,1009,346,KXNCAAMBSPREAD-26JAN27UKVAN-UK6,Kentucky wins by over 6.5 Points?
+546,0.06,0.82,1086,344,KXNCAAMBSPREAD-26JAN27NEBMICH-MICH19,Michigan wins by over 19.5 Points?
+547,0.06,0.82,784,344,KXNBAPTS-26JAN27SACNYK-SACRWESTBROOK18-20,Russell Westbrook: 20+ points
+548,0.06,0.82,421,346,KXNBASPREAD-26JAN27DETDEN-DET17,Detroit wins by over 17.5 Points?
+549,0.06,0.82,119,344,KXNBATOTAL-26JAN27SACNYK-245,Sacramento at New York: Total Points
+550,0.06,0.80,1185,391,KXCODGAME-26JAN29G2MFAZ-G2M,Will G2 Minnesota win the G2 Minnesota vs. FaZe Vegas match?
+551,0.06,0.82,2626,346,KXNCAAMBGAME-26JAN27MASSMOH-MASS,UMass at Miami (OH) Winner?
+552,0.06,0.82,4464,345,KXNCAAMBGAME-26JAN27GTVT-GT,Georgia Tech at Virginia Tech Winner?
+553,0.059,0.93,7792,119,KXTRUMPSAYMONTH-26FEB01-TAYL,"Will Trump say ""Taylor Swift"" before Feb 1, 2026?"
+554,0.059,0.93,8743,119,KXTRUMPSAYMONTH-26FEB01-AUTI,"Will Trump say ""Autism"" before Feb 1, 2026?"
+555,0.059,0.87,4130,237,KXECONSTATU3-26JAN-T4.6,Unemployment rate in Jan 2026?
+556,0.059,0.70,2627,695,KXATTENDSOTU-NMIN,Will Nicki Minaj attend the 2026 State of the Union Address?
+557,0.058,0.72,2979,631,KXNFLRSHYDS-26FEB08SEANE-NETHENDERSON32-30,TreVeyon Henderson: 30+ rushing yards
+558,0.058,0.79,3245,431,KXEPLGAME-26JAN31LEEARS-TIE,Leeds United vs Arsenal Winner?
+559,0.058,0.79,2141,431,KXEPLGAME-26JAN31BRIEVE-EVE,Brighton vs Everton Winner?
+560,0.058,0.79,3025,436,KXEPLGAME-26JAN31LFCNEW-NEW,Liverpool vs Newcastle Winner?
+561,0.058,0.82,8274,359,KXCPICOMBO-26JAN-0125,Will CPI be Above 0.1% AND YOYCPI be Above 2.5% for Jan 2026?
+562,0.058,0.72,274,631,KXNFL1HSPREAD-26FEB08SEANE-SEA2,New England wins by over 2.5 points?
+563,0.058,0.72,191,631,KXNFL1HSPREAD-26FEB08SEANE-NE7,Seattle wins by over 7.5 points?
+564,0.057,0.82,157,364,KXUCLSPREAD-26JAN28ATHSPO-ATH1,Bilbao wins by over 1.5 goals?
+565,0.057,0.82,23111,364,KXUCLGAME-26JAN28LEVVIL-VIL,Leverkusen vs Villarreal Winner?
+566,0.057,0.93,51919,123,KXJACWSNOWM-26JAN-15.0,"Snow in Jackson, Wy in Jan 2026?"
+567,0.057,0.98,1297,33,KXUCLTOP-26-PSG,UCL League Phase Winner
+568,0.057,0.82,190,362,KXEUROCUPGAME-26JAN28ULMJLB-ULM,Ulm Basketball at JL Bourg Basket Winner?
+569,0.057,0.92,3155,143,KXRT-MEL-40,Melania Rotten Tomatoes score?
+570,0.057,0.83,1931,338,KXEUROCUPGAME-26JAN27CHEBUD-CHE,Niners Chemnitz at KK Buducnost Voli Winner?
+571,0.057,0.82,2102,364,KXUCLGAME-26JAN28PSVBMU-PSV,Eindhoven vs Bayern Munich Winner?
+572,0.057,0.82,1079,364,KXUCLSPREAD-26JAN28BVBINT-INT1,Inter wins by over 1.5 goals?
+573,0.056,0.83,139,344,KXNCAAMBSPREAD-26JAN27PROVCONN-CONN30,UConn wins by over 30.5 Points?
+574,0.056,0.73,133,631,KXNFLRECYDS-26FEB08SEANE-NESDIGGS8-70,Stefon Diggs: 70+ receiving yards
+575,0.056,0.83,10225,344,KXNCAAMBGAME-26JAN27UVAND-ND,Virginia at Notre Dame Winner?
+576,0.056,0.83,32826,346,KXNCAAMBGAME-26JAN27MIZZALA-MIZZ,Missouri at Alabama Winner?
+577,0.056,0.83,563,346,KXNCAAMBTOTAL-26JAN27PURIND-167,Purdue at Indiana: Total Points
+578,0.056,0.83,794,346,KXNCAAMBSPREAD-26JAN27UKVAN-VAN18,Vanderbilt wins by over 18.5 Points?
+579,0.056,0.73,22933,631,KXNFLANYTD-26FEB08SEANE-SEACKUPP10,Cooper Kupp: Anytime Touchdown
+580,0.056,0.83,714,346,KXNCAAMBSPREAD-26JAN27PURIND-PUR16,Purdue wins by over 16.5 Points?
+581,0.056,0.85,897,296,KXNBASPREAD-26JAN25DALMIL-DAL5,Dallas wins by over 5.5 Points?
+582,0.056,0.73,115,631,KXNFLRECYDS-26FEB08SEANE-NEKBOUTTE9-50,Kayshon Boutte: 50+ receiving yards
+583,0.056,0.82,494,370,KXNCAAMBGAME-26JAN28MINNWIS-MINN,Minnesota at Wisconsin Winner?
+584,0.055,0.94,1563,109,KXXRPMAXMON-XRP-26JAN31-260,"Will XRP trimmed mean be above $2.60 by 11:59 PM ET on Jan 31, 2026?"
+585,0.055,0.94,21003,109,KXXRPMAXMON-XRP-26JAN31-230,"Will XRP trimmed mean be above $2.30 by 11:59 PM ET on Jan 31, 2026?"
+586,0.055,0.85,39792,301,KXSUPERBOWLAD-SB2026-NVIDIA,Will NVIDIA run an ad during the Big Game 2026?
+587,0.055,0.94,3147,109,KXXRPMAXMON-XRP-26JAN31-270,"Will XRP trimmed mean be above $2.70 by 11:59 PM ET on Jan 31, 2026?"
+588,0.055,0.94,430,109,KXJUDGECOUNT-26JAN-2.0,Will between 1 to 3 judges be confirmed in Jan 2026?
+589,0.055,0.94,12712,109,KXTRUMPMEET-26JAN-XJIN,"Donald Trump and Xi Jinping meet before Feb 1, 2026?"
+590,0.055,0.94,1818,109,KXETHMINMON-ETH-26JAN31-2250,"Will ETH trimmed mean be below $2250.00 by 11:59 PM ET on Jan 31, 2026?"
+591,0.055,0.94,17066,109,KXRAINDALM-26JAN-1,Rain in Dallas in Jan 2026?
+592,0.055,0.94,213,109,KXRAINCHIM-26JAN-6,Rain in Chicago in Jan 2026?
+593,0.055,0.94,18315,109,KXRAINDALM-26JAN-3,Rain in Dallas in Jan 2026?
+594,0.055,0.79,1526,456,KXEPLGAME-26FEB01TOTMCI-TIE,Tottenham vs Manchester City Winner?
+595,0.054,0.88,11509,237,KXPAYROLLS-26JAN-T125000,Will above 125000 jobs be added in January 2026?
+596,0.054,0.75,104,580,KXEPLGAME-26FEB06LEENFO-TIE,Leeds United vs Nottingham Winner?
+597,0.054,0.80,564,433,KXEPLGAME-26JAN31CFCWHU-TIE,Chelsea vs West Ham Winner?
+598,0.054,0.81,346,412,KXLALIGAGAME-26JAN30ESPALA-ALA,Espanyol vs Alaves Winner?
+599,0.054,0.80,415,439,KXUFCFIGHT-26JAN31KIMFAN-KIM,"Will Sang Wook Kim win the Kim vs Fan professional MMA fight scheduled for Jan 31, 2026?"
+600,0.053,0.70,29618,767,KXTRUMPMENTION-26FEB28-CRYP,What will Donald Trump say during 2026 State of the Union?
+601,0.053,0.86,844,287,KXGRAMMYCOUNTBAD-26-1,How many awards will Bad Bunny win at the 2026 Grammy Awards?
+602,0.053,0.83,190,361,KXEUROCUPGAME-26JAN28HAPNEP-NEP,Hapoel Jerusalem at BC Neptunas Klaipeda Winner?
+603,0.053,0.83,129,364,KXUCLSPREAD-26JAN28PAFSLA-PAF1,Pafos wins by over 1.5 goals?
+604,0.053,0.87,100,267,KXNCAAWBGAME-26JAN24ETAMNWST-NWST,East Texas A&M at Northwestern St. Winner?
+605,0.053,0.78,11556,503,KXNBAALLSTARS-26-BADE,Will Bam Adebayo be selected as a Pro Basketball All Star
+606,0.053,0.74,5099,631,KXNFLANYTD-26FEB08SEANE-NEHHENRY85,Hunter Henry: Anytime Touchdown
+607,0.053,0.74,1165,631,KXNFL1HTOTAL-26FEB08SEANE-29,Seattle at New England: First Half Total Points?
+608,0.053,0.86,3472,287,KXGRAMMYCOUNTKEN-26-2,How many awards will Kendrick Lamar win at the 2026 Grammy Awards?
+609,0.053,0.74,7807,631,KXNFLSPREAD-26FEB08SEANE-SEA13,Seattle wins by over 13.5 points?
+610,0.053,0.84,616,339,KXNCAAMBTOTAL-26JAN27AAMUPV-165,Alabama A&M at Prairie View A&M: Total Points
+611,0.052,0.84,243,343,KXNCAAMBSPREAD-26JAN27WAKEPITT-WAKE8,Wake Forest wins by over 8.5 Points?
+612,0.052,0.84,238,345,KXNBAREB-26JAN27NOPOKC-NOPTMURPHY25-8,Trey Murphy III: 8+ rebounds
+613,0.052,0.84,660,344,KXNCAAMBSPREAD-26JAN27SYRNCST-NCST22,North Carolina St. wins by over 22.5 Points?
+614,0.052,0.85,380,320,KXATPEXACTMATCH-26JAN26MUSDJO-DJO32,Will Novak Djokovic win the Lorenzo Musetti vs Novak Djokovic match by a set score of 3-2
+615,0.052,0.84,34248,344,KXNCAAMBGAME-26JAN27SYRNCST-SYR,Syracuse at North Carolina St. Winner?
+616,0.052,0.84,260,346,KXNCAAWBGAME-26JAN27WVUUTAH-UTAH,West Virginia at Utah Winner?
+617,0.052,0.80,9012,456,KXEPLGAME-26FEB01TOTMCI-TOT,Tottenham vs Manchester City Winner?
+618,0.052,0.84,10758,345,KXNCAAMBGAME-26JAN27GWSLU-GW,George Washington at Saint Louis Winner?
+619,0.052,0.80,1489,454,KXEPLGAME-26FEB01MUNFUL-TIE,Manchester United vs Fulham Winner?
+620,0.052,0.84,474,347,KXNCAAMBGAME-26JAN27BSUSJSU-SJSU,Boise St. at San Jose St. Winner?
+621,0.052,0.86,5047,296,KXNBASPREAD-26JAN25DALMIL-MIL10,Milwaukee wins by over 10.5 Points?
+622,0.052,0.84,508,345,KXNBAPTS-26JAN27NOPOKC-NOPDQUEEN22-15,Derik Queen: 15+ points
+623,0.052,0.84,257,346,KXNBA2D-26JAN27BKNPHX-BKNMPORTER17,Michael Porter Jr.: Double Double
+624,0.052,0.84,178,346,KXNBA2D-26JAN27BKNPHX-BKNNCLAXTON33,Nic Claxton: Double Double
+625,0.051,0.86,23079,301,KXFIRSTSUPERBOWLSONG-26FEB09-NUE,Will NUEVAYoL be the first song performed by Bad Bunny during the 2026 Pro Football Championship halftime show?
+626,0.051,0.89,9130,229,KXNBATRADE-26FEB06-RBAR,"Will RJ Barrett be traded by Toronto before Feb 6, 2026"
+627,0.051,0.96,608,76,KXTNOTEW-26JAN30-T4.46,"Will the yield of 10-year U.S. treasury notes be above 4.46 on Jan 30, 2026?"
+628,0.05,0.96,1422,78,KXBTC-26JAN3017-B90000,"Bitcoin price range  on Jan 30, 2026?"
+629,0.05,0.75,848,631,KXNFLRSHYDS-26FEB08SEANE-NEDMAYE10-50,Drake Maye: 50+ rushing yards
+630,0.05,0.71,230,780,KXPGATOP20-FAIO26-KBRA,Will Keegan Bradley finish top 20 (including ties) in Farmers Insurance Open golf tournament?
+631,0.05,0.96,372,78,KXBTC-26JAN3017-B85500,"Bitcoin price range  on Jan 30, 2026?"
+632,0.05,0.96,12179,78,KXBTCD-26JAN3017-T93749.99,"Bitcoin price  on Jan 30, 2026?"
+633,0.05,0.75,1023,631,KXNFL1HSPREAD-26FEB08SEANE-NE9,Seattle wins by over 9.5 points?
+634,0.05,0.96,3355,78,KXBTC-26JAN3017-B89500,"Bitcoin price range  on Jan 30, 2026?"
+635,0.05,0.70,120,815,KXTRUMPMENTION-26MAR02-REAG,What will Donald Trump say during 2026 State of the Union?
+636,0.05,0.96,2712,78,KXETHD-26JAN3017-T3179.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+637,0.05,0.75,888,631,KXNFL1QSPREAD-26FEB08SEANE-SEA6,Seattle wins by over 6.5 points?
+638,0.05,0.96,446,78,KXBTC-26JAN3017-B85000,"Bitcoin price range  on Jan 30, 2026?"
+639,0.05,0.96,297,78,KXBTC-26JAN3017-B95500,"Bitcoin price range  on Jan 30, 2026?"
+640,0.049,0.93,3358,143,KXRT-SEN-92,Send Help Rotten Tomatoes score?
+641,0.049,0.81,753,455,KXLALIGAGAME-26FEB01RBBVCF-VCF,Real Betis vs Valencia Winner?
+642,0.049,0.84,136,366,KXBRASILEIROGAME-26JAN28FLUGPA-GPA,Fluminense vs Gremio Winner?
+643,0.049,0.84,116,369,KXNCAAMBGAME-26JAN28UABUTSA-UTSA,UAB at UTSA Winner?
+644,0.049,0.84,654,364,KXUCLSPREAD-26JAN28BENRMA-RMA2,Real Madrid wins by over 2.5 goals?
+645,0.049,0.86,184616,311,KXAOWOMEN-26-ERYB,Will Elena Rybakina win the Australian Open?
+646,0.049,0.84,29137,364,KXUCLGAME-26JAN28PSGNEW-NEW,PSG vs Newcastle Winner?
+647,0.049,0.83,1220,395,KXATPMATCH-26JAN29ALCZVE-ZVE,Will Alexander Zverev win the Alcaraz vs Zverev : Semifinal match?
+648,0.048,0.83,1392,402,KXCBDECISIONRUSSIA-26FEB13-C50,Will the Bank of Russia Cut 50 basis points at the February Bank of Russia Board of Directors’ key rate meeting?
+649,0.048,0.85,917,344,KXNCAAMBSPREAD-26JAN27NEBMICH-NEB2,Nebraska wins by over 2.5 Points?
+650,0.048,0.85,226,345,KXNBA2D-26JAN27NOPOKC-NOPDQUEEN22,Derik Queen: Double Double
+651,0.048,0.85,239,347,KXNHLSPREAD-26JAN27SJVAN-VAN2,Vancouver wins by over 2.5 goals?
+652,0.048,0.85,117,343,KXNCAAMBSPREAD-26JAN27WAKEPITT-PITT10,Pittsburgh wins by over 10.5 Points?
+653,0.048,0.85,862,344,KXNCAAMBSPREAD-26JAN27UVAND-ND4,Notre Dame wins by over 4.5 Points?
+654,0.047,0.97,179,61,KXSPOTIFYW-26JAN29-CHO,"Top Song on Weekly Top Songs USA on Jan 29, 2026?"
+655,0.047,0.97,422,61,KXALBUMSALES-HOW-40000,"Will How Did I Get Here? have At least 40000 album sales on the Hits Daily Double Top 50 Chart for January 30, 2026?"
+656,0.047,0.87,25528,301,KXFIRSTSUPERBOWLSONG-26FEB09-LAM,Will LA MuDANZA be the first song performed by Bad Bunny during the 2026 Pro Football Championship halftime show?
+657,0.047,0.76,6949,631,KXNFLANYTD-26FEB08SEANE-NESDIGGS8,Stefon Diggs: Anytime Touchdown
+658,0.047,0.76,12556,631,KXNFL2TD-26FEB08SEANE-SEAKWALKER9,Kenneth Walker III: 2+ Touchdowns
+659,0.047,0.76,5057,631,KXNFLANYTD-26FEB08SEANE-NEKBOUTTE9,Kayshon Boutte: Anytime Touchdown
+660,0.047,0.72,225,780,KXPGATOP10-FAIO26-LABE,Will Ludvig Aberg finish top 10 (including ties) in Farmers Insurance Open golf tournament?
+661,0.047,0.87,1796,301,KXSBADAPPEARANCES-26FEB09-HSTY,"Will Harry Styles appear in a big game ad before Feb 9, 2026?"
+662,0.047,0.76,1111,631,KXNFL1QTOTAL-26FEB08SEANE-13,Seattle at New England: First Quarter Total Points?
+663,0.046,0.73,1312,767,KXFEATUREJCOLE-26-KEN,"Will Kendrick Lamar be featured on ""The Fall-Off"" by J. Cole?"
+664,0.046,0.78,1425,575,KXMAMDANIMENTION-26FEB20-ECON,What will Zohran Mamdani say during next NYC Mayor's Office announcement?
+665,0.046,0.85,124,364,KXUCLSPREAD-26JAN28BRUOM-BRU1,Club Brugge wins by over 1.5 goals?
+666,0.046,0.84,3701,387,KXEUROLEAGUEGAME-26JAN29BAYHTA-BAY,Bayern Munich at Hapoel Tel-Aviv Winner?
+667,0.045,0.95,1151,109,KXMEDIARELEASEUPONLY-26FEB01-UPON,"Will A New Episode of the UpOnly Podcast be released in Worldwide before Feb 1, 2026?"
+668,0.045,0.95,3203,109,KXMEDIARELEASEADDTRAILER-26-FEB01,"Will the official trailer for Avengers: Doomsday be released Worldwide before Feb 1, 2026?"
+669,0.045,0.86,1237,341,KXNCAAMBSPREAD-26JAN27UNONICH-UNO3,New Orleans wins by over 3.5 Points?
+670,0.045,0.77,2554,631,KXNFLSPREAD-26FEB08SEANE-NE3,New England wins by over 3.5 points?
+671,0.045,0.95,230,109,KXTORNADO-26JAN-125,Will there be more than 125 tornadoes in January?
+672,0.045,0.75,627,695,KXATTENDSOTU-DELL,Will David Ellison attend the 2026 State of the Union Address?
+673,0.045,0.95,2109,109,KXEVENTTIMES-26-12,How many pro football games will Taylor Swift attend this season?
+674,0.045,0.88,4117,287,KXGRAMMYCOUNTKEN-26-5,How many awards will Kendrick Lamar win at the 2026 Grammy Awards?
+675,0.045,0.95,1592,109,KXTORNADO-26JAN-100,Will there be more than 100 tornadoes in January?
+676,0.045,0.90,444519,229,KXNEXTTEAMGIANNIS-26GANT-NYK,What will be Giannis Antetokounmpo's next team?
+677,0.045,0.88,790,287,KXGRAMMYCOUNTSAB-26-3,How many awards will Sabrina Carpenter win at the 2026 Grammy Awards?
+678,0.045,0.95,2462,109,KXXRPMAXMON-XRP-26JAN31-280,"Will XRP trimmed mean be above $2.80 by 11:59 PM ET on Jan 31, 2026?"
+679,0.045,0.88,2224,287,KXGRAMMYCOUNTLAD-26-3,How many awards will Lady Gaga win at the 2026 Grammy Awards?
+680,0.045,0.95,22824,109,KXSOLMAXMON-SOL-26JAN31-165,"Will SOL trimmed mean be above $165.00 by 11:59 PM ET on Jan 31, 2026?"
+681,0.045,0.95,137,109,KXZECMAXMON-ZEC-26JAN31-530,"Will ZEC trimmed mean be above $530.00 by 11:59 PM ET on Jan 31, 2026?"
+682,0.045,0.95,43245,109,KXSOLMAXMON-SOL-26JAN31-160,"Will SOL trimmed mean be above $160.00 by 11:59 PM ET on Jan 31, 2026?"
+683,0.045,0.95,163,109,KXZECMAXMON-ZEC-26JAN31-550,"Will ZEC trimmed mean be above $550.00 by 11:59 PM ET on Jan 31, 2026?"
+684,0.045,0.77,9158,631,KXNFLPASSTDS-26FEB08SEANE-SEASDARNOLD14-3,Sam Darnold: 3+ passing touchdowns
+685,0.045,0.95,738,109,KXLVL4WARNING-26FEB01,Will the U.S. State Department issue a Level 4 warning for any country not at Level 4 as of Issuance?
+686,0.045,0.95,17269,109,KXRAINCHIM-26JAN-3,Rain in Chicago in Jan 2026?
+687,0.045,0.95,208,109,KXDOGEMAXMON-DOGE-26JAN31-020,"Will DOGE trimmed mean be above $0.20 by 11:59 PM ET on Jan 31, 2026?"
+688,0.045,0.95,20465,109,KXBTCMINMON-BTC-26JAN31-77500,"Will BTC trimmed mean be below $77500.00 by 11:59 PM ET on Jan 31, 2026?"
+689,0.045,0.95,2770,109,KXDOGEMAXMON-DOGE-26JAN31-015,"Will DOGE trimmed mean be above $0.15 by 11:59 PM ET on Jan 31, 2026?"
+690,0.045,0.95,393,109,KXRAINMIAM-26JAN-7,Rain in Miami in Jan 2026?
+691,0.045,0.73,281,780,KXPGAMAKECUT-FAIO26-RCAM,Will Rafael Campos make the cut in Farmers Insurance Open golf tournament?
+692,0.044,0.86,1428,345,KXNBA2D-26JAN27NOPOKC-NOPZWILLIAMSON1,Zion Williamson: Double Double
+693,0.044,0.86,7675,344,KXNCAAMBGAME-26JAN27RICHVCU-RICH,Richmond at VCU Winner?
+694,0.044,0.86,1219,344,KXNBATOTAL-26JAN27PORWAS-248,Portland at Washington: Total Points
+695,0.044,0.86,177166,344,KXNBAGAME-26JAN27SACNYK-SAC,Sacramento at New York Winner?
+696,0.044,0.73,7832,791,KXRANKLISTSONGSPOTUSA-26MAR01-ELL,Will Ella Langley be #1 on Any Spotify Daily Top Songs USA chart in February?
+697,0.044,0.88,2805,291,KXNCAAWBGAME-26JAN25NEMONM-NE,Northeastern at Monmouth Winner?
+698,0.044,0.86,300,346,KXNBA3PT-26JAN27DETDEN-DETCCUNNINGHAM2-4,Cade Cunningham: 4+ threes
+699,0.044,0.88,618,292,KXNBASPREAD-26JAN25DENMEM-MEM11,Memphis wins by over 11.5 Points?
+700,0.044,0.88,3198,292,KXNBASPREAD-26JAN25DENMEM-MEM8,Memphis wins by over 8.5 Points?
+701,0.044,0.86,751,344,KXNCAAMBSPREAD-26JAN27NEBMICH-NEB5,Nebraska wins by over 5.5 Points?
+702,0.043,0.78,493,624,KXEPLGAME-26FEB08LFCMCI-TIE,Liverpool vs Manchester City Winner?
+703,0.043,0.76,1166,695,KXATTENDSOTU-VORB,Will Viktor Orbán attend the 2026 State of the Union Address?
+704,0.043,0.92,382,189,KXADP-26JAN-T100000,ADP employment change in Jan 2026?
+705,0.043,0.89,12964,270,KXNCAAWBGAME-26JAN24SIUBEL-SIU,Southern Illinois at Belmont Winner?
+706,0.043,0.76,1720,695,KXATTENDSOTU-BHOL,Will Brilyn Hollyhand attend the 2026 State of the Union Address?
+707,0.042,0.86,195,361,KXSAUDIPLGAME-26JAN28AASITT-TIE,Al Ahli Saudi vs Al-Ittifaq Winner?
+708,0.042,0.85,9917,397,KXALBUMSALES-FAL-150000,Will The Fall-Off have At least 150000 album sales on the Hits Daily Double Top 50 Chart for 02/13/2026?
+709,0.042,0.86,1809,364,KXUCLGAME-26JAN28ATMBOG-TIE,Atletico vs Bodoe/Glimt Winner?
+710,0.042,0.78,224,631,KXNFLTOTAL-26FEB08SEANE-55,Seattle at New England: Total Points
+711,0.042,0.88,88591,301,KXSUPERBOWLAD-SB2026-YEEZ,Will Yeezy run an ad during the Big Game 2026?
+712,0.042,0.94,2773,143,KXRT-MEL-45,Melania Rotten Tomatoes score?
+713,0.042,0.86,1830,360,KXVALORANTGAME-26JAN28PCFICGX-PCFIC,Will Pcific Esports win the Pcific Esports vs. GIANTX Valorant match?
+714,0.042,0.78,1259,631,KXNFLPASSYDS-26FEB08SEANE-SEASDARNOLD14-275,Sam Darnold: 275+ passing yards
+715,0.042,0.87,2828,336,KXEUROCUPGAME-26JAN27LIPTTS-LIP,BC Lietkabelis Panevezys at Turk Telekom Winner?
+716,0.042,0.86,292,364,KXUCLSPREAD-26JAN28BVBINT-BVB1,Dortmund wins by over 1.5 goals?
+717,0.042,0.78,31932,631,KXNFLANYTD-26FEB08SEANE-NEDMAYE10,Drake Maye: Anytime Touchdown
+718,0.042,0.78,934,631,KXNFLRSHYDS-26FEB08SEANE-SEAKWALKER9-100,Kenneth Walker III: 100+ rushing yards
+719,0.042,0.91,2426,219,KXCBDECISIONMEXICO-26FEB05-C25,Will the Bank of Mexico Cut 25 basis points at the Bank of Mexico February 2026 meeting?
+720,0.042,0.74,324,791,KXVISITMN-26MAR01-AOC,"Will Alexandria Ocasio-Cortez visit Minnesota before Mar 1, 2026?"
+721,0.041,0.74,966,815,KXTRUMPMENTION-26MAR02-ZOHR,What will Donald Trump say during 2026 State of the Union?
+722,0.041,0.95,39070,119,KXBILLSCOUNT-26JAN-9,Will 10 or above bills become law in Jan 2026?
+723,0.041,0.87,264184,345,KXNBAGAME-26JAN27NOPOKC-NOP,New Orleans at Oklahoma City Winner?
+724,0.041,0.87,506,344,KXNCAAMBSPREAD-26JAN27UVAND-UVA23,Virginia wins by over 23.5 Points?
+725,0.041,0.84,172,433,KXSERIEAGAME-26JAN31NAPFIO-FIO,Napoli vs Fiorentina Winner?
+726,0.041,0.75,4976,767,KXGOVSHUTLENGTH-26FEB28-25D,Will the federal government shut down for more than 25 days?
+727,0.041,0.95,8166,119,KXBILLSCOUNT-26JAN-9.0,Will 9 to 9 bills become law in Jan 2026?
+728,0.041,0.87,372,343,KXNCAAWBGAME-26JAN27TNTCTNST-TNST,Tennessee Tech at Tennessee St. Winner?
+729,0.041,0.95,140978,119,KXSPACEXCOUNT-26JAN-13,How many launches will SpaceX have in 2026?
+730,0.041,0.83,1683,469,KXHMONTHRANGE-26JAN-T1.03,Jan 2026 temperature increase?
+731,0.041,0.88,195838,311,KXAOWOMEN-26-ISWI,Will Iga Swiatek win the Australian Open?
+732,0.041,0.84,2609,441,KXBOXING-26JAN31ORTIZDAVIS-ORTIZ,Jamaine Ortiz vs Keyshawn Davis Winner?
+733,0.041,0.87,100,341,KXNCAAMBSPREAD-26JAN27NWSTSFA-SFA23,Stephen F. Austin wins by over 23.5 Points?
+734,0.041,0.87,112,343,KXNCAAMBTOTAL-26JAN27MSURUTG-150,Michigan St. at Rutgers: Total Points
+735,0.04,0.89,1183,292,KXNBASPREAD-26JAN25DENMEM-DEN4,Denver wins by over 4.5 Points?
+736,0.04,0.98,24545,47,KXGOVTFUND-26JAN29,"Will legislation that, upon becoming law, results in no lapse in federal appropriations on January 31, 2026 at 12:01am, for all twelve appropriations bills become law before Jan 29, 2026?"
+737,0.04,0.95,70518,123,KXDALSNOWM-26JAN-5.0,Snow in Dallas in Jan 2026?
+738,0.04,0.79,10774,631,KXNFLANYTD-26FEB08SEANE-SEARSHAHEED22,Rashid Shaheed: Anytime Touchdown
+739,0.04,0.79,202,631,KXNFLRECYDS-26FEB08SEANE-NERSTEVENSON38-40,Rhamondre Stevenson: 40+ receiving yards
+740,0.04,0.75,6881,791,KXRANKLISTSONGSPOTUSA-26MAR01-TAY,Will Taylor Swift be #1 on Any Spotify Daily Top Songs USA chart in February?
+741,0.04,0.89,150,293,KXNCAAMBSPREAD-26JAN25SIUEVAN-SIU6,Southern Illinois wins by over 6.5 Points?
+742,0.04,0.83,495,484,KXEPLGAME-26FEB02SUNBUR-BUR,Sunderland vs Burnley Winner?
+743,0.04,0.79,232,631,KXNFLRECYDS-26FEB08SEANE-SEACKUPP10-50,Cooper Kupp: 50+ receiving yards
+744,0.04,0.91,30049,229,KXNBATRADE-26FEB06-ZWIL,"Will Zion Williamson be traded by New Orleans before Feb 6, 2026"
+745,0.039,0.87,120,364,KXUCLSPREAD-26JAN28SGETOT-TOT2,Tottenham wins by over 2.5 goals?
+746,0.039,0.86,173,388,KXUELGAME-26JAN29NFOFTC-FTC,Nottingham vs Ferencvarosi Winner?
+747,0.039,0.76,720,767,KXFEATUREJCOLE-26-JAY,"Will Jay-Z be featured on ""The Fall-Off"" by J. Cole?"
+748,0.039,0.87,255,364,KXUCLSPREAD-26JAN28ATHSPO-SPO1,Sporting CP wins by over 1.5 goals?
+749,0.039,0.81,411511,573,KXGDPYEAR-25-B2.8,GDP growth in 2025?
+750,0.039,0.84,167,457,KXSERIEAGAME-26FEB01CREINT-TIE,Cremonese vs Inter Winner?
+751,0.039,0.85,157,430,KXBUNDESLIGAGAME-26JAN31RBLM05-M05,Leipzig vs Mainz Winner?
+752,0.039,0.84,2776,454,KXEPLGAME-26FEB01MUNFUL-FUL,Manchester United vs Fulham Winner?
+753,0.038,0.85,265,433,KXLALIGAGAME-26JAN31LEVATM-LEV,Levante vs Atletico Winner?
+754,0.038,0.88,127,335,KXATPCHALLENGERMATCH-26JAN27MENKES-KES,Will Mariano Kestelboim win the Mena vs Kestelboim : Qualification Final match?
+755,0.038,0.88,102,341,KXNCAAMBTOTAL-26JAN27NWSTSFA-154,Northwestern St. at Stephen F. Austin: Total Points
+756,0.038,0.97,1481,75,KXWTIW-26JAN30-B57.5,"Will the WTI front-month settle oil price  be Between 57 and 57.99 on Jan 30, 2026??"
+757,0.038,0.75,8511,839,KXTRUMPENDORSE-26SEP15-JCOR,"Will Donald Trump endorse John Cornyn in the 2026 Texas Senate Republican primary before Mar 3, 2026?"
+758,0.038,0.78,3718,695,KXATTENDSOTU-BNET,Will Benjamin Netanyahu attend the 2026 State of the Union Address?
+759,0.038,0.83,645,503,KXNBAALLSTARS-26-SSHA,Will Shaedon Sharpe be selected as a Pro Basketball All Star
+760,0.038,0.85,932,441,KXBOXING-26JAN31IBEHMILLER-IBEH,Kingsley Ibeh vs Jarrell Miller Winner?
+761,0.038,0.78,3022,695,KXATTENDSOTU-MCM,Will María Corina Machado attend the 2026 State of the Union Address?
+762,0.038,0.85,2252,436,KXLALIGAGAME-26JAN31ELCBAR-TIE,Elche vs Barcelona Winner?
+763,0.037,0.97,270,78,KXBTC-26JAN3017-B90500,"Bitcoin price range  on Jan 30, 2026?"
+764,0.037,0.85,549,453,KXLALIGAGAME-26FEB01RMARVC-TIE,Real Madrid vs Vallecano Winner?
+765,0.037,0.88,3289,344,KXNCAAMBGAME-26JAN27TOLAKR-TOL,Toledo at Akron Winner?
+766,0.037,0.88,102,343,KXNCAAMBSPREAD-26JAN27MSURUTG-MSU26,Michigan St. wins by over 26.5 Points?
+767,0.037,0.97,258,78,KXXRP-26JAN3017-B1.9099500,"Ripple price at Jan 30, 2026 at 5pm EST?"
+768,0.037,0.80,9005,631,KXNFL1QWINNER-26FEB08SEANE-TIE,Seattle at New England: First Quarter Winner
+769,0.037,0.84,1783,479,KXRT-WUT-85,Wuthering Heights Rotten Tomatoes score?
+770,0.037,0.87,214,377,KXLOLGAME-26JAN29NIPTT-TT,Will ThunderTalk Gaming win the Ninjas in Pyjamas vs. ThunderTalk Gaming League of Legends match?
+771,0.037,0.95,1142,133,KXTSAW-26FEB01-A2.15,Will more than 2150000 people be **screened by the TSA** on average this week?
+772,0.037,0.88,272,345,KXNBASPREAD-26JAN27NOPOKC-OKC29,Oklahoma City wins by over 29.5 Points?
+773,0.037,0.88,137,344,KXNHLSPREAD-26JAN27UTAFLA-UTA2,Utah wins by over 2.5 goals?
+774,0.037,0.97,440,78,KXETH-26JAN3017-B2720,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+775,0.037,0.88,115,347,KXNBASPREAD-26JAN27LACUTA-LAC22,Los Angeles C wins by over 22.5 Points?
+776,0.037,0.88,226,344,KXNBASPREAD-26JAN27PORWAS-WAS8,Washington wins by over 8.5 Points?
+777,0.037,0.88,405,344,KXNCAAWBGAME-26JAN27CHARUSF-CHAR,Charlotte at South Florida Winner?
+778,0.037,0.88,6952,346,KXNBASPREAD-26JAN27DETDEN-DET20,Detroit wins by over 20.5 Points?
+779,0.037,0.97,1260,78,KXBTC-26JAN3017-B91000,"Bitcoin price range  on Jan 30, 2026?"
+780,0.037,0.88,1564,345,KXNCAAMBSPREAD-26JAN27KSUWVU-WVU19,West Virginia wins by over 19.5 Points?
+781,0.037,0.88,300,345,KXNCAAMBSPREAD-26JAN27KSUWVU-WVU22,West Virginia wins by over 22.5 Points?
+782,0.037,0.80,1379,631,KXNFLSPREAD-26FEB08SEANE-SEA14,Seattle wins by over 14.5 points?
+783,0.037,0.88,642,344,KXNCAAMBSPREAD-26JAN27SYRNCST-SYR2,Syracuse wins by over 2.5 Points?
+784,0.037,0.88,465,346,KXNCAAMBSPREAD-26JAN27PURIND-IND11,Indiana wins by over 11.5 Points?
+785,0.037,0.97,415,78,KXBTC-26JAN3017-B84500,"Bitcoin price range  on Jan 30, 2026?"
+786,0.037,0.97,415,78,KXETHD-26JAN3017-T3459.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+787,0.037,0.97,265,78,KXBTC-26JAN3017-B78000,"Bitcoin price range  on Jan 30, 2026?"
+788,0.037,0.97,1258,78,KXBTCD-26JAN3017-T99249.99,"Bitcoin price  on Jan 30, 2026?"
+789,0.037,0.97,236,78,KXXRP-26JAN3017-B1.8899500,"Ripple price at Jan 30, 2026 at 5pm EST?"
+790,0.037,0.97,12240,78,KXBTCD-26JAN3017-T94249.99,"Bitcoin price  on Jan 30, 2026?"
+791,0.037,0.97,1415,78,KXBTCD-26JAN3017-T100749.99,"Bitcoin price  on Jan 30, 2026?"
+792,0.037,0.97,463,78,KXBTC-26JAN3017-T76750,"Bitcoin price range  on Jan 30, 2026?"
+793,0.037,0.88,275,344,KXNBA3PT-26JAN27SACNYK-NYKOANUNOBY8-4,OG Anunoby: 4+ threes
+794,0.037,0.97,116,78,KXBTC-26JAN3017-B98500,"Bitcoin price range  on Jan 30, 2026?"
+795,0.037,0.97,116,78,KXBTC-26JAN3017-B98000,"Bitcoin price range  on Jan 30, 2026?"
+796,0.037,0.97,266,78,KXBTC-26JAN3017-T100749.99,"Bitcoin price range  on Jan 30, 2026?"
+797,0.036,0.96,28650,109,KXRAINAUSM-26JAN-1,Rain in Austin in Jan 2026?
+798,0.036,0.96,120,109,KXRAINDENM-26JAN-6,Rain in Denver in Jan 2026?
+799,0.036,0.90,584,292,KXNBATOTAL-26JAN25DENMEM-241,Denver at Memphis: Total Points
+800,0.036,0.96,9021,109,KXEVENTTIMES-26-10,How many pro football games will Taylor Swift attend this season?
+801,0.036,0.96,5589,109,KXAIRDROPMEGA-26FEB01,"Will MegaETH conduct an airdrop before Feb 1, 2026?"
+802,0.036,0.96,352,109,KXRAINAUSM-26JAN-6,Rain in Austin in Jan 2026?
+803,0.036,0.96,16890,109,KXRAINSEAM-26JAN-7,Rain in Seattle in Jan 2026?
+804,0.036,0.96,119,109,KXUSUNSCVETO-26FEB01,"Will United States of America cast a UN Security Council veto before Feb 1, 2026?"
+805,0.036,0.96,476,109,KXTORNADO-26JAN-150,Will there be more than 150 tornadoes in January?
+806,0.036,0.96,117,109,KXIPORAMP-26FEB01,When will Ramp IPO?
+807,0.036,0.96,10335,109,KXXRPMAXMON-XRP-26JAN31-220,"Will XRP trimmed mean be above $2.20 by 11:59 PM ET on Jan 31, 2026?"
+808,0.036,0.96,5853,109,KXSOLMAXMON-SOL-26JAN31-170,"Will SOL trimmed mean be above $170.00 by 11:59 PM ET on Jan 31, 2026?"
+809,0.036,0.77,424,781,KXSCOTUSVRARELEASE-26MAR01,"Will the Supreme Court release its opinion for Louisiana v. Callais before Mar 1, 2026?"
+810,0.036,0.96,1179,109,KXZECMAXMON-ZEC-26JAN31-570,"Will ZEC trimmed mean be above $570.00 by 11:59 PM ET on Jan 31, 2026?"
+811,0.036,0.96,246,109,KXZECMAXMON-ZEC-26JAN31-560,"Will ZEC trimmed mean be above $560.00 by 11:59 PM ET on Jan 31, 2026?"
+812,0.036,0.77,2704,780,KXPGATOP20-FAIO26-JKNA,Will Jake Knapp finish top 20 (including ties) in Farmers Insurance Open golf tournament?
+813,0.036,0.77,2628,791,KXRANKLISTSONGSPOTUSA-26MAR01-JOJ,Will Joji be 1 on Any Spotify Daily Top Songs USA chart in February?
+814,0.036,0.88,1265,357,KXCPICOREYOY-26JAN-T2.9,Will the rate of core CPI inflation be above 2.9% for the year ending in January 2026?
+815,0.036,0.71,186,1068,KXALBUMSALES-KIS-450000,"Will Kiss All The Time. Disco, Occasionally. have At least 450000 album sales on the Hits Daily Double Top 50 Chart for Mar 13, 2026?"
+816,0.036,0.96,1252,109,KXRAINDALM-26JAN-6,Rain in Dallas in Jan 2026?
+817,0.036,0.77,546,791,KXTRUMPMENTION-26MAR01-ICEL,What will Donald Trump say during 2026 State of the Union?
+818,0.036,0.96,4258,109,KXRAINSFOM-26JAN-7,Rain in San Francisco in Jan 2026?
+819,0.036,0.96,14368,109,KXDOJEPSTEINOUT-26,Will it be reported that any employee of the DOJ has left their position directly attributable to the the December release of the Epstein files?
+820,0.036,0.96,22917,109,KXRAINSEAM-26JAN-6,Rain in Seattle in Jan 2026?
+821,0.036,0.92,103,229,KXNBATRADE-26FEB06-THER,"Will Tyler Herro be traded by Miami before Feb 6, 2026"
+822,0.036,0.90,482,292,KXNBATOTAL-26JAN25DENMEM-229,Denver at Memphis: Total Points
+823,0.036,0.89,6764,320,KXNCAAWBGAME-26JAN26TARLAC-TARL,Tarleton St. at Abilene Christian Winner?
+824,0.035,0.90,1248,296,KXNBATOTAL-26JAN25DALMIL-222,Dallas at Milwaukee: Total Points
+825,0.035,0.81,43860,631,KXNFLANYTD-26FEB08SEANE-SEADST,Seattle D/ST: Anytime Touchdown
+826,0.035,0.86,2364,433,KXEPLGAME-26JAN31CFCWHU-WHU,Chelsea vs West Ham Winner?
+827,0.035,0.88,401,368,KXNCAAWBGAME-26JAN28WASHMD-WASH,Washington at Maryland Winner?
+828,0.035,0.90,655,301,KXNEXTTEAMNFL-26OBJ-LA,What will be Odell Beckham Jr.'s next team?
+829,0.035,0.90,185,301,KXNEXTTEAMNFL-26OBJ-PIT,What will be Odell Beckham Jr.'s next team?
+830,0.035,0.88,7200,364,KXUCLGAME-26JAN28MCIGAL-TIE,Manchester City vs Galatasaray Winner?
+831,0.035,0.87,1246,402,KXCBDECISIONRUSSIA-26FEB13-C25,Will the Bank of Russia Cut 25 basis points at the February Bank of Russia Board of Directors’ key rate meeting?
+832,0.035,0.86,5450,431,KXEPLGAME-26JAN31LEEARS-LEE,Leeds United vs Arsenal Winner?
+833,0.035,0.88,307,364,KXUCLSPREAD-26JAN28PAFSLA-SLA1,Slavia Prague wins by over 1.5 goals?
+834,0.034,0.89,290,344,KXNCAAMBSPREAD-26JAN27NEBMICH-MICH25,Michigan wins by over 25.5 Points?
+835,0.034,0.80,1002,695,KXATTENDSOTU-CMUR,Will Chris Murphy attend the 2026 State of the Union Address?
+836,0.034,0.82,249,601,KXEPLGAME-26FEB07NEWBRE-BRE,Newcastle vs Brentford Winner?
+837,0.034,0.89,648,345,KXNBA2D-26JAN27MILPHI-PHITMAXEY0,Tyrese Maxey: Double Double
+838,0.034,0.86,120,444,KXLPGATOUR-HILGVTOC26-JEETHI,Will Jeeno Thitikul win the Hilton Grand Vacations Tournament of Champions?
+839,0.034,0.89,1474,344,KXNCAAMBGAME-26JAN27MCNSSELA-SELA,McNeese at Southeastern Louisiana Winner?
+840,0.033,0.90,2676,311,KXRT-STR-45,The Strangers – Chapter 3 Rotten Tomatoes score?
+841,0.033,0.70,1427,1246,KXMAKEMARMAD-26-FSU,Men's March Madness Round of 64 Qualifiers
+842,0.033,0.89,148,347,KXNBASPREAD-26JAN27LACUTA-LAC25,Los Angeles C wins by over 25.5 Points?
+843,0.033,0.89,400,346,KXNBASPREAD-26JAN27BKNPHX-PHX23,Phoenix wins by over 23.5 Points?
+844,0.033,0.82,284,631,KXNFLPASSYDS-26FEB08SEANE-NEDMAYE10-275,Drake Maye: 275+ passing yards
+845,0.033,0.82,186,631,KXNFLTOTAL-26FEB08SEANE-58,Seattle at New England: Total Points
+846,0.033,0.96,44556,119,KXSPACEXCOUNT-26JAN-14,How many launches will SpaceX have in 2026?
+847,0.033,0.90,367560,311,KXAOWOMEN-26-AANI,Will Amanda Anisimova win the Australian Open?
+848,0.033,0.82,1075,631,KXNFLSPREAD-26FEB08SEANE-NE6,New England wins by over 6.5 points?
+849,0.033,0.82,19047,631,KXNFLFIRSTTD-26FEB08SEANE-SEAKWALKER9,Kenneth Walker III: First Touchdown
+850,0.033,0.89,871,346,KXNCAAMBSPREAD-26JAN27PURIND-IND8,Indiana wins by over 8.5 Points?
+851,0.033,0.89,453,346,KXNCAAMBSPREAD-26JAN27PURIND-PUR19,Purdue wins by over 19.5 Points?
+852,0.033,0.82,406,631,KXNFLREC-26FEB08SEANE-SEAJSMITHNJIGBA11-9,Jaxon Smith-Njigba: 9+ receptions
+853,0.033,0.85,18705,503,KXNBAALLSTARS-26-JHAR,Will James Harden be selected as a Pro Basketball All Star
+854,0.032,0.96,32615,123,KXSEASNOWM-26JAN-0.1,Snow in Seattle in Jan 2026?
+855,0.032,0.87,4712,441,KXBOXING-26JAN31CASTROCARRIN-CASTRO,Carlos Castro vs Bruce Carrington Winner?
+856,0.032,0.74,106,1028,KXCPIYOY-26FEB-T2.4,Will the rate of CPI inflation be above 2.4% for the year ending in February 2026?
+857,0.032,0.91,1310,287,KXGRAMMYCOUNTLAD-26-0,How many awards will Lady Gaga win at the 2026 Grammy Awards?
+858,0.032,0.96,60215,123,KXHOUSNOWM-26JAN-0.1,Snow in Houston in Jan 2026?
+859,0.032,0.96,28454,123,KXDALSNOWM-26JAN-10.0,Snow in Dallas in Jan 2026?
+860,0.032,0.89,142,364,KXUCLSPREAD-26JAN28NAPCFC-NAP1,Napoli wins by over 1.5 goals?
+861,0.032,0.96,7116,123,KXSEASNOWM-26JAN-3.0,Snow in Seattle in Jan 2026?
+862,0.032,0.79,4387,791,KXRANKLISTSONGSPOTUSA-26MAR01-OLI,Will Olivia Dean be #1 on Any Spotify Daily Top Songs USA chart in February?
+863,0.032,0.79,2211,791,KXTRUMPMENTION-26MAR01-PALE,What will Donald Trump say during 2026 State of the Union?
+864,0.032,0.89,285,364,KXUCLSPREAD-26JAN28ASMJUV-ASM1,Monaco wins by over 1.5 goals?
+865,0.032,0.83,898,596,KXEPLGAME-26FEB07MUNTOT-TOT,Manchester United vs Tottenham Winner?
+866,0.032,0.79,345,780,KXPGATOP10-FAIO26-JSPA,Will J.J. Spaun finish top 10 (including ties) in Farmers Insurance Open golf tournament?
+867,0.032,0.79,309,780,KXPGATOP5-FAIO26-XSCH,Will Xander Schauffele finish top 5 (including ties) in Farmers Insurance Open golf tournament?
+868,0.032,0.88,265,400,KXLOLGAME-26JAN30GZGAM-GZ,Will Ground Zero Gaming win the Ground Zero Gaming vs. GAM Esports League of Legends match?
+869,0.032,0.79,155,780,KXPGATOP20-FAIO26-ABHA,Will Akshay Bhatia finish top 20 (including ties) in Farmers Insurance Open golf tournament?
+870,0.032,0.73,1077,1092,KXTOP10BILLBOARDSPOTSBRUNO-26MAR14-2,"How many spots on the Billboard Hot 100's top 10 will Bruno Mars hold for the week of Mar 14, 2026?"
+871,0.032,0.89,459,367,KXARGPREMDIVGAME-26JAN28RIVGLP-GLP,River Plate vs Gimnasia La Plata Winner?
+872,0.031,0.83,210,631,KXNFLRECYDS-26FEB08SEANE-SEAKWALKER9-40,Kenneth Walker III: 40+ receiving yards
+873,0.031,0.93,2186,229,KXNBATRADE-26FEB06-JHAR,"Will James Harden be traded by Los Angeles C before Feb 6, 2026"
+874,0.031,0.98,126,61,KXSPOTIFYW-26JAN29-ORD,"Top Song on Weekly Top Songs USA on Jan 29, 2026?"
+875,0.031,0.83,5431,631,KXNFLRSHYDS-26FEB08SEANE-SEASDARNOLD14-20,Sam Darnold: 20+ rushing yards
+876,0.031,0.76,3440,973,KXWO-SILVER-26-USA,Will United States have the most silver medals in the 2026 Winter Olympics?
+877,0.031,0.91,411,301,KXNEXTTEAMNFL-26OBJ-DEN,What will be Odell Beckham Jr.'s next team?
+878,0.031,0.93,5414,229,KXNBATRADE-26FEB06-KTHO,"Will Klay Thompson be traded by Dallas before Feb 6, 2026"
+879,0.031,0.70,15000,1318,KXAACREG-26-TLSA,Will Tulsa be the American Athletic Conference regular season champions?
+880,0.031,0.98,6659,61,KXSPOTIFYW-26JAN29-END,"Top Song on Weekly Top Songs USA on Jan 29, 2026?"
+881,0.031,0.90,302,337,KXATPCHALLENGERMATCH-26JAN27PAIBON-PAI,Will Benoit Paire win the Paire vs Bonzi : Round Of 32 match?
+882,0.03,0.90,322,346,KXNCAAMBSPREAD-26JAN27UKVAN-VAN21,Vanderbilt wins by over 21.5 Points?
+883,0.03,0.80,177,780,KXPGATOP10-FAIO26-WKIM,Will Si Woo Kim finish top 10 (including ties) in Farmers Insurance Open golf tournament?
+884,0.03,0.80,364,791,KXTRUMPMENTION-26MAR01-TAIW,What will Donald Trump say during 2026 State of the Union?
+885,0.03,0.80,312,780,KXPGATOP20-FAIO26-NHOJ,Will Nicolai Hojgaard finish top 20 (including ties) in Farmers Insurance Open golf tournament?
+886,0.03,0.89,896,388,KXUELGAME-26JAN29AVLRBS-RBS,Aston Villa vs Salzburg Winner?
+887,0.03,0.90,295,344,KXNCAAWBGAME-26JAN27FAUTLSA-FAU,Florida Atlantic at Tulsa Winner?
+888,0.03,0.90,316,344,KXNBASPREAD-26JAN27SACNYK-NYK28,New York wins by over 28.5 Points?
+889,0.03,0.90,187,345,KXNCAAMBSPREAD-26JAN27GTVT-VT21,Virginia Tech wins by over 21.5 Points?
+890,0.029,0.96,351,132,KXTOPALBUM-26FEB07-THEA,"Billboard Top 200 #1 on Feb 7, 2026 chart?"
+891,0.029,0.90,3011,364,KXUCLSPREAD-26JAN28ASMJUV-JUV2,Juventus wins by over 2.5 goals?
+892,0.029,0.85,7644,573,KXGDP-26JAN30-T5,Will **real GDP** increase by more than 5% in Q4 2025?
+893,0.029,0.89,23973,397,KXALBUMSALES-FAL-200000,Will The Fall-Off have At least 200000 album sales on the Hits Daily Double Top 50 Chart for 02/13/2026?
+894,0.029,0.88,396,444,KXLPGATOUR-HILGVTOC26-NELKOR,Will Nelly Korda win the Hilton Grand Vacations Tournament of Champions?
+895,0.029,0.90,2180,361,KXSAUDIPLGAME-26JAN28AASITT-ITT,Al Ahli Saudi vs Al-Ittifaq Winner?
+896,0.029,0.88,1407,436,KXLALIGAGAME-26JAN31ELCBAR-ELC,Elche vs Barcelona Winner?
+897,0.029,0.90,13353,364,KXUCLGAME-26JAN28ATMBOG-BOG,Atletico vs Bodoe/Glimt Winner?
+898,0.029,0.78,298,909,KXPAYROLLS-26FEB-T90000,Will above 90000 jobs be added in February 2026?
+899,0.028,0.92,1193,287,KXGRAMMYCOUNTLAD-26-4,How many awards will Lady Gaga win at the 2026 Grammy Awards?
+900,0.028,0.89,14144,407,KXSBGUESTS-26-JDV,Who will attend the Big Game?
+901,0.028,0.92,1963,287,KXGRAMMYCOUNTKEN-26-0,How many awards will Kendrick Lamar win at the 2026 Grammy Awards?
+902,0.028,0.94,20114,212,KXCBDECISIONENGLAND-26FEB05-C25,Will the Bank of England Cut 1-25 basis points at the Feb 2026 BOE meeting?
+903,0.028,0.81,1467,780,KXPGATOP20-FAIO26-BKOE,Will Brooks Koepka finish top 20 (including ties) in Farmers Insurance Open golf tournament?
+904,0.028,0.87,4860,503,KXNBAALLSTARS-26-FWAG,Will Franz Wagner be selected as a Pro Basketball All Star
+905,0.028,0.87,16306,503,KXNBAALLSTARS-26-LMAR,Will Lauri Markkanen be selected as a Pro Basketball All Star
+906,0.028,0.89,44900,407,KXSBGUESTS-26-TS,Who will attend the Big Game?
+907,0.028,0.72,105225,1318,KXBIG10REG-26-MICH,Will Michigan be the Big Ten regular season champions?
+908,0.028,0.81,244,780,KXPGATOP20-FAIO26-MHOM,Will Max Homa finish top 20 (including ties) in Farmers Insurance Open golf tournament?
+909,0.028,0.91,19437,333,KXATPCHALLENGERMATCH-26JAN27CARGEE-GEE,Will Michael Geerts win the Carballes Baena vs Geerts : Round Of 32 match?
+910,0.028,0.84,30878,631,KXNFLANYTD-26FEB08SEANE-NEDST,New England D/ST: Anytime Touchdown
+911,0.028,0.84,33511,631,KXNFL2TD-26FEB08SEANE-SEAJSMITHNJIGBA11,Jaxon Smith-Njigba: 2+ Touchdowns
+912,0.028,0.87,9102,503,KXNBAALLSTARS-26-EMOB,Will Evan Mobley be selected as a Pro Basketball All Star
+913,0.028,0.84,1989,631,KXNFLPASSTDS-26FEB08SEANE-NEDMAYE10-3,Drake Maye: 3+ passing touchdowns
+914,0.028,0.81,736,780,KXPGATOP10-FAIO26-CGOT,Will Chris Gotterup finish top 10 (including ties) in Farmers Insurance Open golf tournament?
+915,0.027,0.93,277,263,KXALBUMTRACKSJCOLE-26-20,Will The Fall-Off by J. Cole have At least 20 tracks?
+916,0.027,0.82,405,767,KXFEATUREJCOLE-26-ARI,"Will Ari Lennox be featured on ""The Fall-Off"" by J. Cole?"
+917,0.027,0.88,1758,479,KXRT-CRI-90,Crime 101 Rotten Tomatoes score?
+918,0.027,0.92,17753,301,KXFIRSTSUPERBOWLSONG-26FEB09-DTM,Will DtMF be the first song performed by Bad Bunny during the 2026 Pro Football Championship halftime show?
+919,0.027,0.70,378,1534,KXGOLIVEKAICENAT-26,Will KaiCenat go live on twitch before April?
+920,0.027,0.92,3876,296,KXNBASPREAD-26JAN25DALMIL-MIL16,Milwaukee wins by over 16.5 Points?
+921,0.027,0.91,477,345,KXNBASPREAD-26JAN27NOPOKC-NOP1,New Orleans wins by over 1.5 Points?
+922,0.027,0.91,296,344,KXNBASPREAD-26JAN27SACNYK-SAC2,Sacramento wins by over 2.5 Points?
+923,0.027,0.91,754,344,KXNCAAMBTOTAL-26JAN27ARKOKLA-183,Arkansas at Oklahoma: Total Points
+924,0.027,0.93,298,263,KXSCOTTISHPREMGAME-26JAN24DUUMIR-DUU,Dundee United vs St. Mirren Winner?
+925,0.027,0.91,731,339,KXDOTA2GAME-26JAN271WINAUR-1WIN,Will 1win win the 1win vs. Aurora Dota 2 match?
+926,0.027,0.91,236322,344,KXATPMATCH-26JAN27SHESIN-SHE,Will Ben Shelton win the Shelton vs Sinner : Quarterfinal match?
+927,0.027,0.92,321,301,KXNEXTTEAMNFL-26OBJ-BAL,What will be Odell Beckham Jr.'s next team?
+928,0.027,0.83,112,717,KXPCECORE-26JAN-T0.3,Will the rate of core PCE inflation be above 0.3% in January 2026?
+929,0.027,0.88,558,469,KXHMONTHRANGE-26JAN-B1.270,Jan 2026 temperature increase?
+930,0.027,0.92,251,301,KXNEXTTEAMNFL-26OBJ-DAL,What will be Odell Beckham Jr.'s next team?
+931,0.027,0.96,480,143,KXRT-SHE-90,Shelter Rotten Tomatoes score?
+932,0.027,0.82,340,767,KXFEATUREJCOLE-26-6LA,"Will 6LACK be featured on ""The Fall-Off"" by J. Cole?"
+933,0.026,0.89,30283,442,KXUFCFIGHT-26JAN31SALMUL-MUL,"Will Jamie Mullarkey win the Salkilld vs Mullarkey professional MMA fight scheduled for Jan 31, 2026?"
+934,0.026,0.97,3702,109,KXEVENTTIMES-26-11,How many pro football games will Taylor Swift attend this season?
+935,0.026,0.98,1317,72,KXAPRPOTUS-26JAN30-43.6,Will the President's approval rating be between 43.5 and 43.7 according to RealClearPolitics?
+936,0.026,0.95,362,189,KXADP-26JAN-T125000,ADP employment change in Jan 2026?
+937,0.026,0.94,20563,229,KXNEXTTEAMNBA-26ADAV-GSW,What will be Anthony Davis's next team?
+938,0.026,0.97,570692,109,KXBTCMAXMON-BTC-26JAN31-100000,"Will BTC trimmed mean be above $100000.00 by 11:59 PM ET on Jan 31, 2026?"
+939,0.026,0.97,78162,109,KXSOLMAXMON-SOL-26JAN31-155,"Will SOL trimmed mean be above $155.00 by 11:59 PM ET on Jan 31, 2026?"
+940,0.026,0.97,5160,109,KXETHMAXMON-ETH-26JAN31-4250,"Will ETH trimmed mean be above $4250.00 by 11:59 PM ET on Jan 31, 2026?"
+941,0.026,0.85,442,631,KXNFLRSHYDS-26FEB08SEANE-SEAKWALKER9-110,Kenneth Walker III: 110+ rushing yards
+942,0.026,0.92,507,311,KXRT-WHI-75,Whistle Rotten Tomatoes score?
+943,0.026,0.97,3735,109,KXRAINMIAM-26JAN-4,Rain in Miami in Jan 2026?
+944,0.026,0.91,10289,357,KXCPI-26JAN-T0.3,Will CPI rise more than 0.3% in January 2026?
+945,0.026,0.97,540,109,KXDOGEMAXMON-DOGE-26JAN31-021,"Will DOGE trimmed mean be above $0.21 by 11:59 PM ET on Jan 31, 2026?"
+946,0.026,0.85,14493,631,KXNFLSPREAD-26FEB08SEANE-NE7,New England wins by over 7.5 points?
+947,0.026,0.97,17189,109,KXRAINSFOM-26JAN-6,Rain in San Francisco in Jan 2026?
+948,0.026,0.97,18462,109,KXRAINSFOM-26JAN-5,Rain in San Francisco in Jan 2026?
+949,0.026,0.97,7353,109,KXTOKENLAUNCHOPENSEA-26FEB01,"Will OpenSea launch a token before Feb 1, 2026?"
+950,0.026,0.97,6436,109,KXXRPMAXMON-XRP-26JAN31-250,"Will XRP trimmed mean be above $2.50 by 11:59 PM ET on Jan 31, 2026?"
+951,0.026,0.97,8165,109,KXRAINHOUM-26JAN-4,Rain in Houston in Jan 2026?
+952,0.026,0.97,13758,109,KXTRUMPMEET-26JAN-JPOW,"Donald Trump and Jerome Powell meet before Feb 1, 2026?"
+953,0.026,0.97,21217,109,KXRAINMIAM-26JAN-3,Rain in Miami in Jan 2026?
+954,0.026,0.97,6738,109,KXRAINCHIM-26JAN-4,Rain in Chicago in Jan 2026?
+955,0.026,0.85,9542,631,KXNFLANYTD-26FEB08SEANE-NETHENDERSON32,TreVeyon Henderson: Anytime Touchdown
+956,0.026,0.97,43960,109,KXRAINDALM-26JAN-2,Rain in Dallas in Jan 2026?
+957,0.026,0.82,112,791,KXTRUMPMENTION-26MAR01-EL,What will Donald Trump say during 2026 State of the Union?
+958,0.026,0.97,2978,109,KXUNEMERGENCY-26FEB01-2,"Will it be reported that the UN Security Council has held an emergency meeting before Feb 1, 2026?"
+959,0.026,0.97,11300,109,KXRAINDENM-26JAN-1,Rain in Denver in Jan 2026?
+960,0.026,0.97,41915,109,KXRAINHOUM-26JAN-2,Rain in Houston in Jan 2026?
+961,0.026,0.97,680,109,KXRAINDENM-26JAN-7,Rain in Denver in Jan 2026?
+962,0.026,0.97,459,109,KXRAINDENM-26JAN-4,Rain in Denver in Jan 2026?
+963,0.026,0.91,205,355,KXCBAGAME-26JAN28JILGST-JIL,Jilin Northeast Tigers at Guangdong Southern Tigers Winner?
+964,0.026,0.94,224602,229,KXNEXTTEAMGIANNIS-26GANT-MIA,What will be Giannis Antetokounmpo's next team?
+965,0.025,0.94,1306,237,KXECONSTATU3-26JAN-T4.8,Unemployment rate in Jan 2026?
+966,0.025,0.98,751,75,KXWTIW-26JAN30-B56.5,"Will the WTI front-month settle oil price  be Between 56 and 56.99 on Jan 30, 2026??"
+967,0.025,0.75,8186,1246,KXMAKEMARMAD-26-UVM,Men's March Madness Round of 64 Qualifiers
+968,0.025,0.91,373,364,KXUCLSPREAD-26JAN28USGATA-ATA2,Atalanta wins by over 2.5 goals?
+969,0.025,0.92,194,320,KXATPEXACTMATCH-26JAN26MUSDJO-MUS32,Will Lorenzo Musetti win the Lorenzo Musetti vs Novak Djokovic match by a set score of 3-2
+970,0.025,0.92,400,320,KXATPEXACTMATCH-26JAN26MUSDJO-MUS31,Will Lorenzo Musetti win the Lorenzo Musetti vs Novak Djokovic match by a set score of 3-1
+971,0.025,0.93,324,287,KXGRAMMYCOUNTKEN-26-7,How many awards will Kendrick Lamar win at the 2026 Grammy Awards?
+972,0.025,0.92,227,320,KXNHLSPREAD-26JAN26LACBJ-LA1,Los Angeles wins by over 1.5 goals?
+973,0.025,0.91,22576,364,KXUCLGAME-26JAN28BARFCC-TIE,Barcelona vs Copenhagen Winner?
+974,0.025,0.91,419,363,KXVALORANTGAME-26JAN28ULFTH-ULF,Will ULF Esports win the ULF Esports vs. Team Heretics Valorant match?
+975,0.025,0.98,605,75,KXWTIW-26JAN30-T51,"Will the WTI front-month settle oil price  be <51 on Jan 30, 2026??"
+976,0.025,0.83,168,767,KXMRBEASTMENTION-26FEB28-SAUD,What will MrBeast say during Next MrBeast Youtube Video?
+977,0.025,0.89,103,459,KXSERIEAGAME-26FEB01PARJUV-PAR,Parma Calcio vs Juventus Winner?
+978,0.025,0.93,2636,287,KXGRAMMYCOUNTBAD-26-4,How many awards will Bad Bunny win at the 2026 Grammy Awards?
+979,0.024,0.92,250,345,KXNBAPTS-26JAN27NOPOKC-NOPZWILLIAMSON1-30,Zion Williamson: 30+ points
+980,0.024,0.92,364,344,KXNCAAMBSPREAD-26JAN27UVAND-ND7,Notre Dame wins by over 7.5 Points?
+981,0.024,0.92,298,344,KXNBA2D-26JAN27SACNYK-SACRWESTBROOK18,Russell Westbrook: Double Double
+982,0.024,0.92,2404,344,KXNCAAMBSPREAD-26JAN27NEBMICH-MICH22,Michigan wins by over 22.5 Points?
+983,0.024,0.83,9829,791,KXNEWGLENN-26B-MAR,Will Blue Origin's New Glenn rocket launch before Mar 2026?
+984,0.024,0.83,512,815,KXTRUMPMENTION-26MAR02-PRIN,What will Donald Trump say during 2026 State of the Union?
+985,0.024,0.83,125,791,KXTRUMPMENTION-26MAR01-SAUD,What will Donald Trump say during 2026 State of the Union?
+986,0.024,0.98,261,78,KXBTCD-26JAN3017-T100249.99,"Bitcoin price  on Jan 30, 2026?"
+987,0.024,0.98,1522,78,KXBTC-26JAN3017-B91500,"Bitcoin price range  on Jan 30, 2026?"
+988,0.024,0.98,541,78,KXETH-26JAN3017-T1940,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+989,0.024,0.98,9807,78,KXBTCD-26JAN3017-T93249.99,"Bitcoin price  on Jan 30, 2026?"
+990,0.024,0.98,1272,78,KXBTC-26JAN3017-B77000,"Bitcoin price range  on Jan 30, 2026?"
+991,0.024,0.87,2724,575,KXWPL-26-MUM,Will Mumbai Indians win the Cricket Women's Premier League Championship?
+992,0.024,0.98,12060,78,KXBTCD-26JAN3017-T95249.99,"Bitcoin price  on Jan 30, 2026?"
+993,0.024,0.98,5157,78,KXETHD-26JAN3017-T3219.99,"Ethereum price at Jan 30, 2026 at 5pm EST?"
+994,0.024,0.97,13000,119,KXSPOTIFYALBUMRELEASEDATEDRAKE-26-FEB01,"Will Drake release Iceman before Feb 1, 2026?"
+995,0.024,0.98,12847,78,KXBTCD-26JAN3017-T94749.99,"Bitcoin price  on Jan 30, 2026?"
+996,0.024,0.98,120,78,KXBTC-26JAN3017-B99000,"Bitcoin price range  on Jan 30, 2026?"
+997,0.024,0.76,8324,1246,KXMAKEMARMAD-26-WAKE,Men's March Madness Round of 64 Qualifiers
+998,0.024,0.98,586,78,KXBTC-26JAN3017-B99500,"Bitcoin price range  on Jan 30, 2026?"
+999,0.024,0.72,3998,1538,KXARCTICICEMAX-26APR01-T14.4,"Will the extent of the arctic sea ice be above 14.4 million square km between December 18, 2025 and April 01, 2026?"
+1000,0.024,0.97,4680,119,KXPARDONSTRUMP-26JAN-63,"Will Trump pardon between 26 and 100 people before Feb 1, 2026?"
+1001,0.024,0.93,9155,291,KXNCAAWBGAME-26JAN25UNCWCAMP-UNCW,UNC Wilmington at Campbell Winner?
+1002,0.024,0.83,323,791,KXBILLCONTEMPTVOTE-26MAR01-259,Will between 250 and 269 Representatives vote Yea on a resolution finding Bill Clinton in contempt of Congress?
+1003,0.024,0.86,1283,631,KXNFLPASSYDS-26FEB08SEANE-SEASDARNOLD14-300,Sam Darnold: 300+ passing yards
+1004,0.024,0.86,434,631,KXNFLRECYDS-26FEB08SEANE-SEARSHAHEED22-50,Rashid Shaheed: 50+ receiving yards
+1005,0.024,0.86,670,631,KXNFLRECYDS-26FEB08SEANE-SEACKUPP10-60,Cooper Kupp: 60+ receiving yards
+1006,0.024,0.92,24028,343,KXNCAAMBGAME-26JAN27MSURUTG-RUTG,Michigan St. at Rutgers Winner?
+1007,0.024,0.86,297,631,KXNFLRECYDS-26FEB08SEANE-NERSTEVENSON38-50,Rhamondre Stevenson: 50+ receiving yards
+1008,0.024,0.92,4157,344,KXNCAAWBGAME-26JAN27PROVVILL-PROV,Providence at Villanova Winner?
+1009,0.024,0.83,307,791,KXVISITMN-26MAR01-DJT,"Will Donald Trump visit Minnesota before Mar 1, 2026?"
+1010,0.024,0.83,761,791,KXVISITMN-26MAR01-KNOE,"Will Kristi Noem visit Minnesota before Mar 1, 2026?"
+1011,0.024,0.98,1235,78,KXSOLE-26JAN3017-B127,"SOL price  on Jan 30, 2026?"
+1012,0.024,0.97,14095,120,KXLEADERCOMBOOUT-26JAN31,Will anyone leave in this set before February 2026?
+1013,0.023,0.92,365,347,KXNBAAST-26JAN27LACUTA-LACJHARDEN1-12,James Harden: 12+ assists
+1014,0.023,0.92,3516,357,KXCPICOREYOY-26JAN-T3.1,Will the rate of core CPI inflation be above 3.1% for the year ending in January 2026?
+1015,0.023,0.84,404082,791,KXKHAMENEIOUT-AKHA-26MAR01,Will Ali Khamenei leave office before 2026-03-01T15:00:00.000Z?
+1016,0.023,0.92,1480,357,KXCPICORE-26JAN-T0.5,Will CPI Core rise more than 0.5% in January?
+1017,0.023,0.97,26680,123,KXCHISNOWM-26JAN-12.0,Snow in Chicago in Jan 2026?
+1018,0.023,0.84,279,791,KXTRUMPMENTION-26MAR01-PORT,What will Donald Trump say during 2026 State of the Union?
+1019,0.023,0.73,19627,1524,KXSP500ADDQ-26MAR31-CIEN,"Will Ciena be added to S&P 500 before Mar 31, 2026?"
+1020,0.023,0.91,10075,407,KXSBGUESTS-26-BO,Who will attend the Big Game?
+1021,0.023,0.77,4084,1246,KXMAKEMARMAD-26-MURR,Men's March Madness Round of 64 Qualifiers
+1022,0.023,0.97,3715,123,KXHOUSNOWM-26JAN-5.0,Snow in Houston in Jan 2026?
+1023,0.023,0.97,15917,123,KXAUSSNOWM-26JAN-1.0,Snow in Austin in Jan 2026?
+1024,0.023,0.97,248333,123,KXNYCSNOWM-26JAN-20.0,Snow in New York City in Jan 2026?
+1025,0.023,0.97,1556,123,KXSEASNOWM-26JAN-6.0,Snow in Seattle in Jan 2026?
+1026,0.023,0.84,134,780,KXPGATOP10-FAIO26-RGER,Will Ryan Gerard finish top 10 (including ties) in Farmers Insurance Open golf tournament?
+1027,0.023,0.84,2380,780,KXPGATOP5-FAIO26-LABE,Will Ludvig Aberg finish top 5 (including ties) in Farmers Insurance Open golf tournament?
+1028,0.023,0.97,170209,123,KXDCSNOWM-26JAN-15.0,Snow in Washington DC in Jan 2026?
+1029,0.023,0.97,8133,123,KXHOUSNOWM-26JAN-3.0,Snow in Houston in Jan 2026?
+1030,0.023,0.79,104,1092,KXTOP10BILLBOARDSPOTSBRUNO-26MAR14-1,"How many spots on the Billboard Hot 100's top 10 will Bruno Mars hold for the week of Mar 14, 2026?"
+1031,0.023,0.93,24440,301,KXSUPERBOWLAD-SB2026-ZYN,Will Zyn run an ad during the Big Game 2026?
+1032,0.023,0.77,3245,1246,KXMAKEMARMAD-26-BUT,Men's March Madness Round of 64 Qualifiers
+1033,0.022,0.87,2594,631,KXNFLTEAMTOTAL-26FEB08SEANE-SEA37,Seattle at New England: Team Totals: Seattle
+1034,0.022,0.87,630,631,KXNFL1HSPREAD-26FEB08SEANE-NE10,Seattle wins by over 10.5 points?
+1035,0.022,0.92,547,364,KXUCLSPREAD-26JAN28NAPCFC-CFC2,Chelsea wins by over 2.5 goals?
+1036,0.022,0.87,30707,631,KXNFLFIRSTTD-26FEB08SEANE-SEAJSMITHNJIGBA11,Jaxon Smith-Njigba: First Touchdown
+1037,0.022,0.74,1828581,1534,KXKHAMENEIOUT-AKHA-26APR01,Will Ali Khamenei leave office before 2026-04-01T14:00:00.000Z?
+1038,0.022,0.87,225,624,KXEPLSPREAD-26FEB08LFCMCI-MCI1,Manchester City wins by over 1.5 goals?
+1039,0.022,0.92,85992,364,KXUCLGAME-26JAN28MCIGAL-GAL,Manchester City vs Galatasaray Winner?
+1040,0.022,0.84,263,815,KXTRUMPMENTION-26MAR02-PELO,What will Donald Trump say during 2026 State of the Union?
+1041,0.022,0.87,13447,631,KXNFLSPREAD-26FEB08SEANE-SEA17,Seattle wins by over 17.5 points?
+1042,0.022,0.97,654,132,KXTOPSONG-THE,Will The Fate Of Ophelia be the #1 song on the Billboard Hot 100 charts this week?
+1043,0.022,0.98,42943,85,KXAAAGASM-26JAN31-3.30,Will average **gas prices** be above $3.30?
+1044,0.022,0.93,620,320,KXNHLTOTAL-26JAN26LACBJ-7,Los Angeles at Columbus: Total Points
+1045,0.022,0.92,28308,364,KXUCLGAME-26JAN28LFCQAR-TIE,Liverpool vs Qarabag Winner?
+1046,0.022,0.97,500,132,KXTOPSONG-26FEB07-IJU,Will I Just Might be the #1 song on the Billboard Hot 100 charts this week?
+1047,0.022,0.96,1158,179,KXCBDECISIONAUSTRALIA-26FEB03-H25P,Will the Reserve Bank of Australia Hike more than 25bp at the Feb 2025 RBA meeting?
+1048,0.021,0.91,516,433,KXBUNDESLIGAGAME-26JAN31HSVBMU-HSV,Hamburg vs Bayern Munich Winner?
+1049,0.021,0.95,9127,229,KXNBATRADE-26FEB06-JJAC,"Will Jaren Jackson Jr. be traded by Memphis before Feb 6, 2026"
+1050,0.021,0.95,10306,229,KXNBATRADE-26FEB06-TMUR,"Will Trey Murphy III be traded by New Orleans before Feb 6, 2026"
+1051,0.021,0.94,3480,287,KXGRAMMYCOUNTSAB-26-0,How many awards will Sabrina Carpenter win at the 2026 Grammy Awards?
+1052,0.021,0.82,3162,973,KXWO-BRONZE-26-USA,Will United States have the most bronze medals in the 2026 Winter Olympics?
+1053,0.021,0.95,5760,229,KXNEXTTEAMNBA-26ADAV-MIL,What will be Anthony Davis's next team?
+1054,0.021,0.82,705,973,KXWO-BRONZE-26-DEU,Will Germany have the most bronze medals in the 2026 Winter Olympics?
+1055,0.021,0.94,338,287,KXGRAMMYCOUNTBAD-26-6,How many awards will Bad Bunny win at the 2026 Grammy Awards?
+1056,0.021,0.85,616,780,KXPGATOP10-FAIO26-JDAY,Will Jason Day finish top 10 (including ties) in Farmers Insurance Open golf tournament?
+1057,0.021,0.93,470716,331,KXATPCHALLENGERMATCH-26JAN27ZHAVIR-ZHA,Will Zhizhen Zhang win the Zhang vs Virtanen : Round Of 32 match?
+1058,0.021,0.95,6799,237,KXU3-26JAN-T4.6,Will the unemployment rate (U-3) be above 4.6% in January?
+1059,0.021,0.95,304,229,KXNEXTTEAMNBA-26JMOR-LAC,What will be Ja Morant's next team?
+1060,0.021,0.76,200,1404,KXALBUMSALES-WAY-60000,"Will The Way I Am have At least 60000 album sales on the Hits Daily Double Top 50 Chart for March 27, 2026?"
+1061,0.021,0.95,1502,229,KXNBATRADE-26FEB06-KLEO,"Will Kawhi Leonard be traded by Los Angeles C before Feb 6, 2026"
+1062,0.021,0.85,1528,780,KXPGATOP10-FAIO26-JKNA,Will Jake Knapp finish top 10 (including ties) in Farmers Insurance Open golf tournament?
+1063,0.021,0.88,511,599,KXEPLGAME-26FEB07ARSSUN-TIE,Arsenal vs Sunderland Winner?
+1064,0.021,0.93,5054,343,KXNCAAWBGAME-26JAN27WICHECU-WICH,Wichita St. at East Carolina Winner?
+1065,0.021,0.75,1064,1534,KXTRUMPSAYNICKNAME-26APR01-PIGG,"Will Trump say ""Piggy"" before Apr 1, 2026?"
+1066,0.021,0.93,27794,341,KXNCAAMBGAME-26JAN27NWSTSFA-NWST,Northwestern St. at Stephen F. Austin Winner?
+1067,0.021,0.93,39128,332,KXATPCHALLENGERMATCH-26JAN27ANDROS-AND,Will Andres Andrade win the Andrade vs Rosenkranz : Round Of 32 match?
+1068,0.021,0.95,26162,229,KXNBATRADE-26FEB06-LBAL,"Will LaMelo Ball be traded by Charlotte before Feb 6, 2026"
+1069,0.02,0.98,217959,97,KXTOPMONTHLY-26JAN-BAD,Artist with the most monthly Spotify listeners at the end of Jan 2026?
+1070,0.02,0.93,511,346,KXNBA3D-26JAN27DETDEN-DETCCUNNINGHAM2,Cade Cunningham: Triple Double
+1071,0.02,0.93,113550,357,KXCPIYOY-26JAN-T2.6,Will the rate of CPI inflation be above 2.6% for the year ending in January 2026?
+1072,0.02,0.84,520,909,KXPAYROLLS-26FEB-T100000,Will above 100000 jobs be added in February 2026?
+1073,0.02,0.92,8763,407,KXSBGUESTS-26-KN,Who will attend the Big Game?
+1074,0.02,0.86,119,767,KXFEATUREJCOLE-26-FUT,"Will Future be featured on ""The Fall-Off"" by J. Cole?"
+1075,0.02,0.86,272,767,KXFEATUREJCOLE-26-AND,"Will André 3000 be featured on ""The Fall-Off"" by J. Cole?"
+1076,0.02,0.97,539,143,KXRT-MEL-90,Melania Rotten Tomatoes score?
+1077,0.02,0.93,177,344,KXNBAPTS-26JAN27SACNYK-NYKJBRUNSON11-40,Jalen Brunson: 40+ points
+1078,0.02,0.98,233901,97,KXTOPMONTHLY-26JAN-WEE,Artist with the most monthly Spotify listeners at the end of Jan 2026?
+1079,0.02,0.96,114,194,KXFIBAECUPGAME-26JAN21ZARPEA-PEA,Basket Zaragoza 2002 at Peristeri Athens Winner?
+1080,0.02,0.86,144,780,KXPGATOP10-FAIO26-WCLA,Will Wyndham Clark finish top 10 (including ties) in Farmers Insurance Open golf tournament?
+1081,0.02,0.84,1101,901,KXALBUMSALES-ROM-200000,"Will The Romantic by Bruno Mars have At least 200000 album sales the Hits Daily Double Top 50 Chart for March 06, 2026?"
+1082,0.02,0.86,140,780,KXPGATOP10-FAIO26-KBRA,Will Keegan Bradley finish top 10 (including ties) in Farmers Insurance Open golf tournament?
+1083,0.02,0.79,18494,1246,KXMAKEMARMAD-26-MIZZ,Men's March Madness Round of 64 Qualifiers
+1084,0.02,0.86,4075,781,KXFEDCHAIRCONFIRMED-26MAR01,"Will Trump’s first officially announced pick for Chairman of the Federal Reserve be confirmed as Chairman of the Federal Reserve before Mar 1, 2026?"
+1085,0.02,0.78,55978,1318,KXBIG10REG-26-NEB,Will Nebraska be the Big Ten regular season champions?
+1086,0.02,0.93,5199,344,KXNCAAMBGAME-26JAN27MVSUSOU-MVSU,Mississippi Valley St. at Southern University Winner?
+1087,0.02,0.86,2548,780,KXPGATOP5-FAIO26-HMAT,Will Hideki Matsuyama finish top 5 (including ties) in Farmers Insurance Open golf tournament?
+1088,0.02,0.79,864,1246,KXMAKEMARMAD-26-WIN,Men's March Madness Round of 64 Qualifiers
+1089,0.02,0.88,1484,631,KXNFLANYTD-26FEB08SEANE-NEDDOUGLAS3,DeMario Douglas: Anytime Touchdown
+1090,0.02,0.88,140,631,KXNFL1QSPREAD-26FEB08SEANE-NE6,New England wins by over 6.5 points?
+1091,0.02,0.86,476,780,KXPGATOP20-FAIO26-ANOV,Will Andrew Novak finish top 20 (including ties) in Farmers Insurance Open golf tournament?
+1092,0.02,0.93,128,344,KXNBAAST-26JAN27SACNYK-NYKJBRUNSON11-12,Jalen Brunson: 12+ assists
+1093,0.019,0.93,331,364,KXUCLSPREAD-26JAN28BRUOM-OM2,Marseille wins by over 2.5 goals?
+1094,0.019,0.80,950,1246,KXMAKEMARMAD-26-IONA,Men's March Madness Round of 64 Qualifiers
+1095,0.019,0.80,2777,1246,KXMAKEMARMAD-26-OSU,Men's March Madness Round of 64 Qualifiers
+1096,0.019,0.94,1144888,311,KXAOMEN-26-NDJO,Will Novak Djokovic win the Australian Open?
+1097,0.019,0.83,195,1028,KXCPIYOY-26FEB-T2.7,Will the rate of CPI inflation be above 2.7% for the year ending in February 2026?
+1098,0.019,0.80,13629,1246,KXMAKEMARMAD-26-HALL,Men's March Madness Round of 64 Qualifiers
+1099,0.019,0.79,15077,1318,KXT20WORLDCUP-26-AUS,Will Australia win the 2026 ICC Men's T20 World Cup?
+1100,0.019,0.77,1185,1524,KXNDPLEADER-26APR01-HMCP,"Will Heather McPherson become the next leader of New Democratic Party before Apr 1, 2026?"
+1101,0.019,0.76,629,1534,KXTRUMPSAYNICKNAME-26APR01-BIDE,"Will Trump say ""Biden Crime Family"" before Apr 1, 2026?"
+1102,0.019,0.93,387,364,KXUCLSPREAD-26JAN28AJAOLY-OLY2,Olympiacos wins by over 2.5 goals?
+1103,0.019,0.94,245533,311,KXAOWOMEN-26-ESVI,Will Elina Svitolina win the Australian Open?
+1104,0.019,0.79,6332,1318,KXAACREG-26-FAU,Will Florida Atlantic be the American Athletic Conference regular season champions?
+1105,0.019,0.92,158,431,KXEPLSPREAD-26JAN31WOLBOU-WOL1,Wolverhampton wins by over 1.5 goals?
+1106,0.018,0.83,334,1092,KXTOP10BILLBOARDSPOTSBRUNO-26MAR14-3,"How many spots on the Billboard Hot 100's top 10 will Bruno Mars hold for the week of Mar 14, 2026?"
+1107,0.018,0.84,13128,973,KXWO-GOLD-26-USA,Will United States have the most gold medals in the 2026 Winter Olympics?
+1108,0.018,0.92,446,457,KXSERIEAGAME-26FEB01CREINT-CRE,Cremonese vs Inter Winner?
+1109,0.018,0.91,2748,503,KXNBAALLSTARS-26-ATHO,Will Amen Thompson be selected as a Pro Basketball All Star
+1110,0.018,0.92,3031,453,KXLALIGAGAME-26FEB01RMARVC-RVC,Real Madrid vs Vallecano Winner?
+1111,0.018,0.87,342,791,KXHILLARYCONTEMPTVOTE-26MAR01-259,Will between 250 and 269 House vote Yea on a resolution finding Hillary Clinton in contempt of Congress?
+1112,0.018,0.73,6533,1990,KXLEADERNBAAST-26-CCUN,Will Cade Cunningham lead Pro Basketball in Assists Per Game for the 2025-26 Regular Season?
+1113,0.018,0.98,193905,105,KXMNDAYCARECHARGE-26FEB01,"Will any individual in connection with the Minnesota daycare fraud investigations be charged with a fraud, theft, embezzlement, bribery, money laundering, or conspiracy crime before Feb 1, 2026?"
+1114,0.018,0.91,1402,503,KXNBAALLSTARS-26-JWIL,Will Jalen Williams be selected as a Pro Basketball All Star
+1115,0.018,0.96,101,219,KXCBDECISIONMEXICO-26FEB05-C50P,Will the Bank of Mexico Cut more than 50bp at the Bank of Mexico February 2026 meeting?
+1116,0.018,0.94,873,337,KXATPCHALLENGERMATCH-26JAN27MIDVIL-VIL,Will Nicolas Villalon Valdes win the Midon vs Villalon Valdes : Round Of 32 match?
+1117,0.018,0.80,20703,1318,KXMWREG-26-UNM,Will New Mexico be the Mountain West Conference regular season champions?
+1118,0.018,0.86,120691,829,KXCBVOLUME-26-Q4-270,Coinbase trading volume this quarter?
+1119,0.018,0.80,104,1294,KXOSCARCOUNT-26-MAR-0,How many awards will Marty Supreme win at the Oscars?
+1120,0.018,0.83,1466,1068,KXALBUMSALES-KIS-500000,"Will Kiss All The Time. Disco, Occasionally. have At least 500000 album sales on the Hits Daily Double Top 50 Chart for Mar 13, 2026?"
+1121,0.018,0.89,26660,631,KXNFL1HWINNER-26FEB08SEANE-TIE,Seattle at New England: First Half Winner
+1122,0.018,0.89,1689,631,KXNFLRSHYDS-26FEB08SEANE-NETHENDERSON32-40,TreVeyon Henderson: 40+ rushing yards
+1123,0.017,0.98,9996,109,KXRAINNYCM-26JAN-4,Rain in NYC in Jan 2026?
+1124,0.017,0.94,1117,344,KXNBA3D-26JAN27SACNYK-SACDSABONISC,Domantas Sabonis: Triple Double
+1125,0.017,0.94,2424,347,KXNBA2D-26JAN27LACUTA-LACKLEONARD2,Kawhi Leonard: Double Double
+1126,0.017,0.75,254,1822,KXMARMADROUND-26F4-HOU,Will Houston qualify for the Men's March Madness Final Four?
+1127,0.017,0.94,316,344,KXATPTOTALSETS-26JAN27SHESIN-5,Over 4.5 total sets played in the Ben Shelton vs Jannik Sinner match
+1128,0.017,0.96,149416,229,KXNEXTTEAMGIANNIS-26GANT-GSW,What will be Giannis Antetokounmpo's next team?
+1129,0.017,0.98,2924,109,KXETHMINMON-ETH-26JAN31-1500,"Will ETH trimmed mean be below $1500.00 by 11:59 PM ET on Jan 31, 2026?"
+1130,0.017,0.80,883,1356,KXNEXTTEAMMLB-26FVALDEZ-NYY,What will be Framber Valdez's next team?
+1131,0.017,0.94,420,344,KXNCAAMBSPREAD-26JAN27SYRNCST-NCST25,North Carolina St. wins by over 25.5 Points?
+1132,0.017,0.98,147497,109,KXZELENSKYPUTIN-29-FEB26,"Volodymyr Zelenskyy and Vladimir Putin meet before Feb 1, 2026?"
+1133,0.017,0.94,32241,357,KXCPIYOY-26JAN-T2.7,Will the rate of CPI inflation be above 2.7% for the year ending in January 2026?
+1134,0.017,0.98,7610,109,KXRAINDENM-26JAN-2,Rain in Denver in Jan 2026?
+1135,0.017,0.98,3264,109,KXRAINHOUM-26JAN-5,Rain in Houston in Jan 2026?
+1136,0.017,0.81,19975,1318,KXBIGEASTREG-26-SJU,Will St. John's be the Big East regular season champions?
+1137,0.017,0.96,583,223,KXNCAAWBGAME-26JAN22UMESNCCU-NCCU,Maryland-Eastern Shore at North Carolina Central Winner?
+1138,0.017,0.98,1037,109,KXRAINAUSM-26JAN-5,Rain in Austin in Jan 2026?
+1139,0.017,0.98,1298,109,KXRAINAUSM-26JAN-4,Rain in Austin in Jan 2026?
+1140,0.017,0.98,40796,109,KXRAINLAXM-26JAN-3,Rain in Los Angeles in Jan 2026?
+1141,0.017,0.98,191,109,KXTORNADO-26JAN-200,Will there be more than 200 tornadoes in January?
+1142,0.017,0.93,322020,407,KXSBGUESTS-26-DJT,Who will attend the Big Game?
+1143,0.017,0.98,4363,109,KXRAINLAXM-26JAN-6,Rain in Los Angeles in Jan 2026?
+1144,0.017,0.98,10605,109,KXXRPMAXMON-XRP-26JAN31-240,"Will XRP trimmed mean be above $2.40 by 11:59 PM ET on Jan 31, 2026?"
+1145,0.017,0.95,579,292,KXNBASPREAD-26JAN25DENMEM-DEN10,Denver wins by over 10.5 Points?
+1146,0.017,0.95,131,287,KXGRAMMYCOUNTLAD-26-6,How many awards will Lady Gaga win at the 2026 Grammy Awards?
+1147,0.017,0.95,859,287,KXGRAMMYCOUNTSAB-26-5,How many awards will Sabrina Carpenter win at the 2026 Grammy Awards?
+1148,0.017,0.98,8288,109,KXIPOSTARLINK-26FEB01,When will Starlink IPO?
+1149,0.017,0.78,177,1534,KXTRUMPSAYNICKNAME-26APR01-CRAZ,"Will Trump say ""Crazy Bernie"" before Apr 1, 2026?"
+1150,0.017,0.94,14380,344,KXNCAAMBGAME-26JAN27PROVCONN-PROV,Providence at UConn Winner?
+1151,0.017,0.94,2967,352,KXNBLGAME-26JAN28A36BRI-BRI,Adelaide 36ers at Brisbane Bullets Winner?
+1152,0.017,0.98,105708,109,KXETHMAXMON-ETH-26JAN31-3500,"Will ETH trimmed mean be above $3500.00 by 11:59 PM ET on Jan 31, 2026?"
+1153,0.017,0.98,55766,109,KXETHMAXMON-ETH-26JAN31-3750,"Will ETH trimmed mean be above $3750.00 by 11:59 PM ET on Jan 31, 2026?"
+1154,0.017,0.98,12558,109,KXSOLMAXMON-SOL-26JAN31-175,"Will SOL trimmed mean be above $175.00 by 11:59 PM ET on Jan 31, 2026?"
+1155,0.017,0.98,4284,109,KXRAINLAXM-26JAN-5,Rain in Los Angeles in Jan 2026?
+1156,0.017,0.98,1639,109,KXETHMINMON-ETH-26JAN31-2000,"Will ETH trimmed mean be below $2000.00 by 11:59 PM ET on Jan 31, 2026?"
+1157,0.017,0.82,10495,1246,KXMAKEMARMAD-26-GC,Men's March Madness Round of 64 Qualifiers
+1158,0.017,0.98,6476,109,KXTORNADO-26JAN-50,Will there be more than 50 tornadoes in January?
+1159,0.017,0.98,1724,109,KXRAINMIAM-26JAN-5,Rain in Miami in Jan 2026?
+1160,0.017,0.98,1256,109,KXETHMINMON-ETH-26JAN31-1250,"Will ETH trimmed mean be below $1250.00 by 11:59 PM ET on Jan 31, 2026?"
+1161,0.017,0.98,2910,109,KXRAINDALM-26JAN-5,Rain in Dallas in Jan 2026?
+1162,0.017,0.77,11946,1702,KXTGLCHAMPION-26-BC,Will Boston Common Golf win the Tomorrow's Golf League Championship?
+1163,0.017,0.74,11982,1990,KXLEADERNBASTL-26-CWAL,Will Cason Wallace lead Pro Basketball in Steals Per Game for the 2025-26 Regular Season?
+1164,0.017,0.98,565,109,KXRAINMIAM-26JAN-6,Rain in Miami in Jan 2026?
+1165,0.017,0.98,1773,109,KXRAINDALM-26JAN-7,Rain in Dallas in Jan 2026?
+1166,0.017,0.98,76328,109,KXBTCMAXMON-BTC-26JAN31-110000,"Will BTC trimmed mean be above $110000.00 by 11:59 PM ET on Jan 31, 2026?"
+1167,0.017,0.95,1364,292,KXNBASPREAD-26JAN25DENMEM-MEM17,Memphis wins by over 17.5 Points?
+1168,0.017,0.78,226,1534,KXTRUMPSAYNICKNAME-26APR01-MARJ,"Will Trump say ""Marjorie Traitor Greene"" before Apr 1, 2026?"
+1169,0.017,0.98,137989,109,KXBTCMAXMON-BTC-26JAN31-105000,"Will BTC trimmed mean be above $105000.00 by 11:59 PM ET on Jan 31, 2026?"
+1170,0.017,0.81,38280,1318,KXBIG12REG-26-HOU,Will Houston be the Big 12 regular season champions?
+1171,0.017,0.98,133254,109,KXSOLMAXMON-SOL-26JAN31-150,"Will SOL trimmed mean be above $150.00 by 11:59 PM ET on Jan 31, 2026?"
+1172,0.017,0.98,176090,109,KXBTCMAXMON-BTC-26JAN31-102500,"Will BTC trimmed mean be above $102500.00 by 11:59 PM ET on Jan 31, 2026?"
+1173,0.016,0.95,299,301,KXNEXTTEAMNFL-26OBJ-SF,What will be Odell Beckham Jr.'s next team?
+1174,0.016,0.96,411,239,KXATTENDGRAMMYS-BEY,Will Beyoncé attend The 68th Grammy Awards?
+1175,0.016,0.98,9912,119,KXSPACEXCOUNT-26JAN-16,How many launches will SpaceX have in 2026?
+1176,0.016,0.95,116,301,KXNEXTTEAMNFL-26OBJ-MIN,What will be Odell Beckham Jr.'s next team?
+1177,0.016,0.98,369214,119,KXINSURRECTION-29-FEB26,Will Trump invoke the Insurrection Act during his Presidency?
+1178,0.016,0.94,100,364,KXUCLSPREAD-26JAN28LEVVIL-VIL1,Villarreal wins by over 1.5 goals?
+1179,0.016,0.95,103,301,KXNEXTTEAMNFL-26OBJ-NE,What will be Odell Beckham Jr.'s next team?
+1180,0.016,0.93,107,431,KXEPLSPREAD-26JAN31BRIEVE-BRI2,Brighton wins by over 2.5 goals?
+1181,0.016,0.95,128,301,KXNEXTTEAMNFL-26OBJ-IND,What will be Odell Beckham Jr.'s next team?
+1182,0.016,0.95,251,301,KXNEXTTEAMNFL-26OBJ-LAC,What will be Odell Beckham Jr.'s next team?
+1183,0.016,0.82,878,1294,KXOSCARCOUNT-26-ONE-4,How many awards will One Battle After Another win at the Oscars?
+1184,0.016,0.92,110,503,KXNBAALLSTARS-26-DDAN,Will Dyson Daniels be selected as a Pro Basketball All Star
+1185,0.016,0.98,8248481,119,KXKHAMENEIOUT-AKHA-26FEB01,Will Ali Khamenei leave office before 2026-02-01T15:00:00.000Z?
+1186,0.016,0.90,273,631,KXNFLTEAMTOTAL-26FEB08SEANE-SEA34,Seattle at New England: Team Totals: Seattle
+1187,0.016,0.90,1643,631,KXNFL1QSPREAD-26FEB08SEANE-SEA7,Seattle wins by over 7.5 points?
+1188,0.016,0.90,172,631,KXNFLREC-26FEB08SEANE-SEACKUPP10-5,Cooper Kupp: 5+ receptions
+1189,0.016,0.82,141963,1318,KXBIG10REG-26-ILL,Will Illinois be the Big Ten regular season champions?
+1190,0.016,0.96,385,237,KXECONSTATU3-26JAN-T4.9,Unemployment rate in Jan 2026?
+1191,0.016,0.98,52410,119,KXTRUMPVISITGREENLAND-26FEB01,"Will Donald Trump visit Greenland before Feb 1, 2026?"
+1192,0.016,0.96,163,237,KXECONSTATU3-26JAN-T3.7,Unemployment rate in Jan 2026?
+1193,0.016,0.96,233,237,KXECONSTATU3-26JAN-T3.8,Unemployment rate in Jan 2026?
+1194,0.016,0.96,116,237,KXECONSTATU3-26JAN-T3.5,Unemployment rate in Jan 2026?
+1195,0.016,0.96,789,237,KXECONSTATU3-26JAN-T4.2,Unemployment rate in Jan 2026?
+1196,0.016,0.96,343,237,KXECONSTATU3-26JAN-T5.3,Unemployment rate in Jan 2026?
+1197,0.016,0.88,337,791,KXHILLARYCONTEMPTVOTE-26MAR01-294,Will between 290 and 299 House vote Yea on a resolution finding Hillary Clinton in contempt of Congress?
+1198,0.016,0.88,342,791,KXHILLARYCONTEMPTVOTE-26MAR01-279,Will between 270 and 289 House vote Yea on a resolution finding Hillary Clinton in contempt of Congress?
+1199,0.016,0.79,7040,1534,KXTRUMPSAYNICKNAME-26APR01-TAMP,"Will Trump say ""Tampon Tim"" before Apr 1, 2026?"
+1200,0.016,0.90,248,631,KXNFLPASSYDS-26FEB08SEANE-NEDMAYE10-300,Drake Maye: 300+ passing yards
+1201,0.016,0.90,528,631,KXNFLRECYDS-26FEB08SEANE-SEAKWALKER9-50,Kenneth Walker III: 50+ receiving yards
+1202,0.016,0.94,113,364,KXUCLSPREAD-26JAN28ATHSPO-ATH2,Bilbao wins by over 2.5 goals?
+1203,0.016,0.98,2293,119,KXPARDONSTRUMP-26JAN-100,"Will Trump pardon above 100 people before Feb 1, 2026?"
+1204,0.016,0.94,343,364,KXUCLSPREAD-26JAN28PSVBMU-PSV1,Eindhoven wins by over 1.5 goals?
+1205,0.016,0.88,532,780,KXPGATOP5-FAIO26-CGOT,Will Chris Gotterup finish top 5 (including ties) in Farmers Insurance Open golf tournament?
+1206,0.016,0.81,100,1412,KXPCECORE-26FEB-T0.3,Will the rate of core PCE inflation be above 0.3% in February 2026?
+1207,0.016,0.97,2186,179,KXCBDECISIONAUSTRALIA-26FEB03-C25P,Will the Reserve Bank of Australia Cut more than 25bp at the Feb 2026 RBA meeting?
+1208,0.015,0.84,63352,1202,KXFEDDECISION-26MAR-C25,Will the Federal Reserve Cut rates by 25bps at their March 2026 meeting?
+1209,0.015,0.89,2316,791,KXVOTESHUTDOWNS-MAR26-RPAU,"Will Rand Paul vote for the next omnibus spending bill, minibus, any of the 12 annual appropriations bills, or government-wide continuing resolution (CR)?"
+1210,0.015,0.93,318,456,KXBUNDESLIGAGAME-26FEB01BVBFCH-FCH,Dortmund vs Heidenheim Winner?
+1211,0.015,0.89,476,780,KXPGATOP5-FAIO26-JSPA,Will J.J. Spaun finish top 5 (including ties) in Farmers Insurance Open golf tournament?
+1212,0.015,0.91,31779,631,KXNFLANYTD-26FEB08SEANE-SEASDARNOLD14,Sam Darnold: Anytime Touchdown
+1213,0.015,0.89,9576,791,KXDIAZOUT-MDC-26MAR01,Will Miguel Díaz-Canel leave office before 2026-03-01T15:00:00.000Z?
+1214,0.015,0.89,134,780,KXPGATOP10-FAIO26-ANOR,Will Alex Noren finish top 10 (including ties) in Farmers Insurance Open golf tournament?
+1215,0.015,0.98,28853,123,KXMIASNOWM-26JAN-0.5,Snow in Miami in Jan 2026?
+1216,0.015,0.98,231963,123,KXMIASNOWM-26JAN-0.1,Snow in Miami in Jan 2026?
+1217,0.015,0.89,291100,791,KXINSURRECTION-29-26MAR,Will Trump invoke the Insurrection Act during his Presidency?
+1218,0.015,0.83,1128,1294,KXOSCARCOUNT-26-5,How many awards will Sinners win at the Oscars?
+1219,0.015,0.83,474,1294,KXOSCARCOUNT-26-3,How many awards will Sinners win at the Oscars?
+1220,0.015,0.91,9318,631,KXNFLFIRSTTD-26FEB08SEANE-NERSTEVENSON38,Rhamondre Stevenson: First Touchdown
+1221,0.015,0.93,3303,479,KXRT-WUT-90,Wuthering Heights Rotten Tomatoes score?
+1222,0.015,0.98,3010,123,KXDENSNOWMB-26JAN-15.0,Snow in Denver Area in Jan 2026?
+1223,0.015,0.98,1741,123,KXDENSNOWMB-26JAN-20.0,Snow in Denver Area in Jan 2026?
+1224,0.015,0.98,344,123,KXDENSNOWMB-26JAN-35.0,Snow in Denver Area in Jan 2026?
+1225,0.015,0.98,22824,123,KXDENSNOWMB-26JAN-10.0,Snow in Denver Area in Jan 2026?
+1226,0.015,0.98,36486,123,KXSLCSNOWM-26JAN-0.5,Snow in Salt Lake City in Jan 2026?
+1227,0.015,0.98,76525,123,KXPHILSNOWM-26JAN-20.0,Snow in Philadelphia in Jan 2026?
+1228,0.015,0.98,1428,123,KXSEASNOWM-26JAN-10.0,Snow in Seattle in Jan 2026?
+1229,0.015,0.98,49300,123,KXHOUSNOWM-26JAN-1.0,Snow in Houston in Jan 2026?
+1230,0.015,0.98,79896,123,KXLAXSNOWM-26JAN-0.1,Snow in Los Angeles in Jan 2026?
+1231,0.015,0.98,20660,123,KXLAXSNOWM-26JAN-0.5,Snow in Los Angeles in Jan 2026?
+1232,0.015,0.98,23755,123,KXSFOSNOWM-26JAN-0.1,Snow in San Francisco in Jan 2026?
+1233,0.015,0.98,10173,123,KXSFOSNOWM-26JAN-0.5,Snow in San Francisco in Jan 2026?
+1234,0.015,0.83,315,1294,KXOSCARCOUNT-26-FRA-2,How many awards will Frankenstein win at the Oscars?
+1235,0.015,0.94,110,409,KXSAUDIPLGAME-26JAN30AKHALN-AKH,Al-Kholood vs Al Nassr Winner?
+1236,0.015,0.94,4628,407,KXSBGUESTS-26-JB,Who will attend the Big Game?
+1237,0.015,0.80,117,1534,KXALBUMRELEASEDATETRAVIS-APR01-26,"Will Travis Scott release a new album before Apr 1, 2026?"
+1238,0.015,0.98,24460,123,KXMIASNOWM-26JAN-1.0,Snow in Miami in Jan 2026?
+1239,0.015,0.81,5718,1524,KXSP500ADDQ-26MAR31-ALNY,"Will Alnylam Pharmaceuticals be added to S&P 500 before Mar 31, 2026?"
+1240,0.014,0.90,735,767,KXRANKLIST1SONG-26FEB28B-BAI,Will BAILE INoLVIDABLE be 1 on the Billboard Hot 100 in February 2026?
+1241,0.014,0.79,188,1822,KXMARMADROUND-26F4-PUR,Will Purdue qualify for the Men's March Madness Final Four?
+1242,0.014,0.95,6918,359,KXCPICOMBO-26JAN-01226,Will CPI be Above 0.2% AND YOYCPI be Above 2.6% for Jan 2026?
+1243,0.014,0.97,16357,213,KXCBDECISIONEU-26FEB05-H25,Will the European Central Bank Hike 1-25 basis points at the Feb 2026 ECB meeting?
+1244,0.014,0.97,6061,213,KXCBDECISIONEU-26FEB05-C25P,Will the European Central Bank Cut more than 25bp at the Feb 2026 ECB meeting?
+1245,0.014,0.98,965,132,KXTOPSONG-CHO,Will Choosin' Texas be the #1 song on the Billboard Hot 100 charts this week?
+1246,0.014,0.82,7110,1524,KXSP500ADDQ-26MAR31-AFRM,"Will Affirm Holdings be added to S&P 500 before Mar 31, 2026?"
+1247,0.014,0.81,109,1534,KXTRUMPSAYNICKNAME-26APR01-FAT,"Will Trump say ""Fat Slob"" before Apr 1, 2026?"
+1248,0.014,0.87,5012,973,KXWO-MEDALS-26-DEU,Will Germany have the most total medals in the 2026 Winter Olympics?
+1249,0.014,0.83,1881,1356,KXNEXTTEAMMLB-26KMAR-TB,What will be Ketel Marte's next team?
+1250,0.014,0.93,420,503,KXNBAALLSTARS-26-DSAB,Will Domantas Sabonis be selected as a Pro Basketball All Star
+1251,0.014,0.95,142,344,KXNBAPTS-26JAN27SACNYK-NYKJHART3-25,Josh Hart: 25+ points
+1252,0.014,0.95,142,344,KXNBA3PT-26JAN27SACNYK-NYKJBRUNSON11-5,Jalen Brunson: 5+ threes
+1253,0.014,0.95,507,344,KXNBA3PT-26JAN27SACNYK-NYKJHART3-3,Josh Hart: 3+ threes
+1254,0.014,0.81,8914,1534,KXDIAZOUT-MDC-26APR01,Will Miguel Díaz-Canel leave office before 2026-04-01T14:00:00.000Z?
+1255,0.014,0.98,700,132,KXBILLBOARDRUNNERUPSONG-26FEB07-APE,"Billboard Hot 100 #2 on Feb 7, 2026 chart?"
+1256,0.014,0.89,934,839,KXTRUMPENDORSE-26SEP15-WHUN,"Will Donald Trump endorse Wesley Hunt in the 2026 Texas Senate Republican primary before Mar 3, 2026?"
+1257,0.014,0.95,106,344,KXNBAPTS-26JAN27SACNYK-SACDDEROZAN10-25,DeMar DeRozan: 25+ points
+1258,0.014,0.85,500,1202,KXFED-26MAR-T5.00,"Will the upper bound of the federal funds rate be above 5.00% following the Fed's Mar 18, 2026 meeting?"
+1259,0.014,0.95,377,345,KXNBA2D-26JAN27NOPOKC-NOPTMURPHY25,Trey Murphy III: Double Double
+1260,0.014,0.98,2862,132,KXTOPALBUM-26FEB07-KPO,"Billboard Top 200 #1 on Feb 7, 2026 chart?"
+1261,0.013,0.92,1220,631,KXNFLPASSYDS-26FEB08SEANE-SEASDARNOLD14-325,Sam Darnold: 325+ passing yards
+1262,0.013,0.96,123,296,KXNBATOTAL-26JAN25DALMIL-228,Dallas at Milwaukee: Total Points
+1263,0.013,0.96,590,296,KXNBATOTAL-26JAN25DALMIL-225,Dallas at Milwaukee: Total Points
+1264,0.013,0.83,126,1534,KXTRUMPSAYNICKNAME-26APR01-COMR,"Will Trump say ""Comrade Kamala"" before Apr 1, 2026?"
+1265,0.013,0.96,78291,293,KXNCAAWBGAME-26JAN25TEXARK-ARK,Texas at Arkansas Winner?
+1266,0.013,0.95,332,364,KXUCLSPREAD-26JAN28BRUOM-BRU2,Club Brugge wins by over 2.5 goals?
+1267,0.013,0.91,8825,695,KXATTENDSOTU-GNEW,Will Gavin Newsom attend the 2026 State of the Union Address?
+1268,0.013,0.95,1076,364,KXUCLSPREAD-26JAN28PSGNEW-NEW1,Newcastle wins by over 1.5 goals?
+1269,0.013,0.95,564,388,KXUELGAME-26JAN29FCPRFC-RFC,Porto vs Rangers Winner?
+1270,0.013,0.89,1303,901,KXALBUMSALES-ROM-250000,"Will The Romantic by Bruno Mars have At least 250000 album sales the Hits Daily Double Top 50 Chart for March 06, 2026?"
+1271,0.013,0.78,20773,1990,KXLEADERNBAPTS-26-SGAL,Will Shai Gilgeous-Alexander lead Pro Basketball in Points Per Game for the 2025-26 Regular Season?
+1272,0.013,0.92,7478,631,KXNFL2TD-26FEB08SEANE-NERSTEVENSON38,Rhamondre Stevenson: 2+ Touchdowns
+1273,0.013,0.90,590,780,KXPGATOP20-FAIO26-TKIM,Will Tom Kim finish top 20 (including ties) in Farmers Insurance Open golf tournament?
+1274,0.013,0.85,92925,1318,KXBIG10REG-26-MSU,Will Michigan St. be the Big Ten regular season champions?
+1275,0.013,0.96,296,292,KXNBATOTAL-26JAN25DENMEM-232,Denver at Memphis: Total Points
+1276,0.013,0.88,1906,973,KXWO-GOLD-26-DEU,Will Germany have the most gold medals in the 2026 Winter Olympics?
+1277,0.013,0.86,30660,1150,KXNCAAMBUNDEFEATED-25-ARIZ,Will Arizona go Undefeated in the Men's College Basketball 2025-26 Regular Season?
+1278,0.013,0.96,18120,301,KXFIRSTSUPERBOWLSONG-26FEB09-DAK,Will DÁKITI be the first song performed by Bad Bunny during the 2026 Pro Football Championship halftime show?
+1279,0.013,0.97,8762,229,KXNEXTTEAMNBA-26JMOR-MIL,What will be Ja Morant's next team?
+1280,0.013,0.92,285,631,KXNFLRSHYDS-26FEB08SEANE-SEASDARNOLD14-30,Sam Darnold: 30+ rushing yards
+1281,0.013,0.91,1993,695,KXATTENDSOTU-GSAN,Will George Santos attend the 2026 State of the Union Address?
+1282,0.013,0.96,272,292,KXNBASPREAD-26JAN25DENMEM-DEN7,Denver wins by over 7.5 Points?
+1283,0.013,0.83,20809,1511,KXSOLAR-25-50,Will at least 50 GWdc of solar capacity be installed in 2025?
+1284,0.013,0.98,10792,143,KXTRUMPUFC-325,Will Donald Trump attend UFC 325?
+1285,0.013,0.92,375,631,KXNFL1HSPREAD-26FEB08SEANE-NE13,Seattle wins by over 13.5 points?
+1286,0.013,0.94,1866,469,KXHMONTHRANGE-26JAN-T1.30,Jan 2026 temperature increase?
+1287,0.013,0.92,210,631,KXNFLTOTAL-26FEB08SEANE-64,Seattle at New England: Total Points
+1288,0.013,0.96,266,301,KXNEXTTEAMNFL-26OBJ-PHI,What will be Odell Beckham Jr.'s next team?
+1289,0.013,0.97,5945,229,KXNBATRADE-26FEB06-PSIA,"Will Pascal Siakam be traded by Indiana before Feb 6, 2026"
+1290,0.013,0.96,1454,301,KXNEXTTEAMNFL-26OBJ-BUF,What will be Odell Beckham Jr.'s next team?
+1291,0.013,0.95,107,367,KXNCAAWBGAME-26JAN28TROYMRSH-MRSH,Troy at Marshall Winner?
+1292,0.013,0.85,928,1294,KXOSCARCOUNT-26-SEN-0,How many awards will Sentimental Value win at the Oscars?
+1293,0.013,0.94,345,454,KXEPLSPREAD-26FEB01AVLBRE-BRE1,Brentford wins by over 1.5 goals?
+1294,0.013,0.90,71143,781,KXUKBANGROK-26MAR01,"Will the United Kingdom announce a ban on Grok or its image generation capabilities before Mar 1, 2026?"
+1295,0.013,0.82,112,1534,KXTRUMPSAYNICKNAME-26APR01-LOWE,"Will Trump say ""Low Energy"" before Apr 1, 2026?"
+1296,0.013,0.97,8442,229,KXNEXTTEAMNBA-26ADAV-NYK,What will be Anthony Davis's next team?
+1297,0.013,0.94,143389,444,KXPGATOUR-FAIO26-XSCH,Will Xander Schauffele win the Farmers Insurance Open?
+1298,0.012,0.91,148349,781,KXACQUANNOUNCEPARAMOUNT-WARN-MAR,"Will Paramount Skydance Corporation announce acquisition of Warner Bros. Discovery before Dec 1, 2026?"
+1299,0.012,0.91,287,781,KXIPOBREX-26MAR01,When will Brex IPO?
+1300,0.012,0.83,9653,1620,KXTESLA-26-Q1-370000,How many Tesla deliveries will there be this quarter?
+1301,0.012,0.97,459,237,KXECONSTATU3-26JAN-T5.4,Unemployment rate in Jan 2026?
+1302,0.012,0.86,563,1246,KXMAKEMARMAD-26-WKU,Men's March Madness Round of 64 Qualifiers
+1303,0.012,0.97,257,237,KXECONSTATU3-26JAN-T3.9,Unemployment rate in Jan 2026?
+1304,0.012,0.97,147,237,KXECONSTATU3-26JAN-T5.2,Unemployment rate in Jan 2026?
+1305,0.012,0.97,186,237,KXECONSTATU3-26JAN-T5.1,Unemployment rate in Jan 2026?
+1306,0.012,0.98,15501,157,KXPGARETURN-26FEB03-JRAH,"Will Jon Rahm rejoin, apply to rejoin, or announce that he will rejoin the PGA Tour before Feb 3, 2026?"
+1307,0.012,0.98,15575,157,KXPGARETURN-26FEB03-BDEC,"Will Bryson DeChambeau rejoin, apply to rejoin, or announce that he will rejoin the PGA Tour before Feb 3, 2026?"
+1308,0.012,0.94,10104,503,KXNBAALLSTARS-26-JRAN,Will Julius Randle be selected as a Pro Basketball All Star
+1309,0.012,0.93,425748,573,KXGDPYEAR-25-B3.3,GDP growth in 2025?
+1310,0.012,0.86,610,1294,KXOSCARCOUNT-26-ONE-6,How many awards will One Battle After Another win at the Oscars?
+1311,0.012,0.84,15499,1534,KXCRYPTOSTRUCTURE-26JAN-APR,"Will a crypto market structure bill becomes law before Apr 1, 2026?"
+1312,0.012,0.96,165288,311,KXAOWOMEN-26-JPEG,Will Jessica Pegula win the Australian Open?
+1313,0.012,0.96,2974,311,KXRT-STR-60,The Strangers – Chapter 3 Rotten Tomatoes score?
+1314,0.012,0.97,616,237,KXECONSTATU3-26JAN-T3.4,Unemployment rate in Jan 2026?
+1315,0.012,0.86,3900,1246,KXMAKEMARMAD-26-TEX,Men's March Madness Round of 64 Qualifiers
+1316,0.012,0.97,879,237,KXECONSTATU3-26JAN-T3.3,Unemployment rate in Jan 2026?
+1317,0.012,0.83,5535,1620,KXTESLA-26-Q1-390000,How many Tesla deliveries will there be this quarter?
+1318,0.012,0.91,201,780,KXPGATOP10-FAIO26-STHE,Will Sahith Theegala finish top 10 (including ties) in Farmers Insurance Open golf tournament?
+1319,0.012,0.91,799,780,KXPGATOP5-FAIO26-JDAY,Will Jason Day finish top 5 (including ties) in Farmers Insurance Open golf tournament?
+1320,0.012,0.89,44067,973,KXWO-MEDALS-26-USA,Will United States have the most total medals in the 2026 Winter Olympics?
+1321,0.012,0.89,557,973,KXWO-SILVER-26-DEU,Will Germany have the most silver medals in the 2026 Winter Olympics?
+1322,0.011,0.93,4250,631,KXNFLFIRSTTD-26FEB08SEANE-SEAABARNER88,AJ Barner: First Touchdown
+1323,0.011,0.81,8201,1990,KXLEADERNBASTL-26-TMAX,Will Tyrese Maxey lead Pro Basketball in Steals Per Game for the 2025-26 Regular Season?
+1324,0.011,0.95,22235,444,KXDPWORLDTOUR-BAC26-AAYO,Will Angel Ayora Fanegas win the Bahrain Championship?
+1325,0.011,0.96,103,364,KXUCLSPREAD-26JAN28BVBINT-BVB2,Dortmund wins by over 2.5 goals?
+1326,0.011,0.83,14282,1702,KXTGLCHAMPION-26-AD,Will Atlanta Drive GC win the Tomorrow's Golf League Championship?
+1327,0.011,0.93,1315,631,KXNFLRSHYDS-26FEB08SEANE-NETHENDERSON32-50,TreVeyon Henderson: 50+ rushing yards
+1328,0.011,0.96,339,364,KXUCLSPREAD-26JAN28AJAOLY-AJA2,Ajax wins by over 2.5 goals?
+1329,0.011,0.95,28374,444,KXDPWORLDTOUR-BAC26-JSCH,Will Jayden Trey Schaper win the Bahrain Championship?
+1330,0.011,0.96,12618,364,KXUCLGAME-26JAN28ARSALM-TIE,Arsenal vs Kairat Winner?
+1331,0.011,0.96,68642,364,KXUCLGAME-26JAN28BARFCC-FCC,Barcelona vs Copenhagen Winner?
+1332,0.011,0.92,108,767,KXFEATUREJCOLE-26-JOE,"Will Joey Bada$$ be featured on ""The Fall-Off"" by J. Cole?"
+1333,0.011,0.93,1242,631,KXNFLTOTAL-26FEB08SEANE-67,Seattle at New England: Total Points
+1334,0.011,0.96,1004,357,KXCPICOREYOY-26JAN-T2.8,Will the rate of core CPI inflation be above 2.8% for the year ending in January 2026?
+1335,0.011,0.96,6562,357,KXCPI-26JAN-T0.4,Will CPI rise more than 0.4% in January 2026?
+1336,0.011,0.96,385,364,KXUCLSPREAD-26JAN28ATHSPO-SPO2,Sporting CP wins by over 2.5 goals?
+1337,0.011,0.93,1820,631,KXNFLPASSTDS-26FEB08SEANE-SEASDARNOLD14-4,Sam Darnold: 4+ passing touchdowns
+1338,0.011,0.98,3013,179,KXCBDECISIONAUSTRALIA-26FEB03-C25,Will the Reserve Bank of Australia Cut 1-25 basis points at the Feb 2025 RBA meeting?
+1339,0.011,0.96,580,346,KXNCAAMBSPREAD-26JAN27UKVAN-UK9,Kentucky wins by over 9.5 Points?
+1340,0.011,0.81,1812,1990,KXLEADERNBASTL-26-KLEO,Will Kawhi Leonard lead Pro Basketball in Steals Per Game for the 2025-26 Regular Season?
+1341,0.011,0.87,108,1294,KXOSCARCOUNT-26-ONE-3,How many awards will One Battle After Another win at the Oscars?
+1342,0.01,0.97,348,275,KXTNCBASKETBALL-26JAN24TAIQEL-QEL,Will Qel win the BRP x TNC 1v1 between Qel and Taishaun?
+1343,0.01,0.86,39177,1524,KXACAEXT-26JAN-APR,"Will legislation extending or reinstating (if expired) enhanced ACA premium tax credits becomes law before Apr 1, 2026?"
+1344,0.01,0.97,222,301,KXNEXTTEAMNFL-26OBJ-CIN,What will be Odell Beckham Jr.'s next team?
+1345,0.01,0.84,122,1822,KXMARMADROUND-26F4-FLA,Will Florida qualify for the Men's March Madness Final Four?
+1346,0.01,0.85,8107,1702,KXTGLCHAMPION-26-LA,Will Los Angeles Golf Club win the Tomorrow's Golf League Championship?
+1347,0.01,0.88,25004,1246,KXMAKEMARMAD-26-KSU,Men's March Madness Round of 64 Qualifiers
+1348,0.01,0.85,15043,1620,KXTESLA-26-Q1-400000,How many Tesla deliveries will there be this quarter?
+1349,0.01,0.88,1177,1246,KXMAKEMARMAD-26-OAK,Men's March Madness Round of 64 Qualifiers
+1350,0.01,0.88,208,1246,KXMAKEMARMAD-26-YSU,Men's March Madness Round of 64 Qualifiers
+1351,0.01,0.92,184,781,KXCAFRAUD-26MAR01,"Will California statewide elected official or Governor's cabinet member be charged with a fraud crime before Mar 1, 2026?"
+1352,0.01,0.97,111,301,KXNEXTTEAMNFL-26OBJ-LV,What will be Odell Beckham Jr.'s next team?
+1353,0.01,0.94,2922,575,KXWPL-26-ROY,Will Royal Challengers Bangalore win the Cricket Women's Premier League Championship?
+1354,0.01,0.94,122,575,KXMAMDANIMENTION-26FEB20-CRIS,What will Zohran Mamdani say during next NYC Mayor's Office announcement?
+1355,0.01,0.97,309,301,KXNEXTTEAMNFL-26OBJ-KC,What will be Odell Beckham Jr.'s next team?
+1356,0.01,0.88,337,1294,KXOSCARCOUNT-26-MAR-2,How many awards will Marty Supreme win at the Oscars?
+1357,0.01,0.97,1414,287,KXGRAMMYCOUNTKEN-26-1,How many awards will Kendrick Lamar win at the 2026 Grammy Awards?
+1358,0.01,0.97,111,301,KXNEXTTEAMNFL-26OBJ-ATL,What will be Odell Beckham Jr.'s next team?
+1359,0.01,0.95,10150,503,KXNBAALLSTARS-26-LBAL,Will LaMelo Ball be selected as a Pro Basketball All Star
+1360,0.01,0.92,6744,791,KXCRYPTOSTRUCTURE-26JAN-MAR,"Will a crypto market structure bill becomes law before Mar 1, 2026?"
+1361,0.01,0.92,2776,780,KXPGATOP5-FAIO26-JKNA,Will Jake Knapp finish top 5 (including ties) in Farmers Insurance Open golf tournament?
+1362,0.01,0.97,3577,287,KXGRAMMYCOUNTSAB-26-4,How many awards will Sabrina Carpenter win at the 2026 Grammy Awards?
+1363,0.01,0.97,339,287,KXGRAMMYCOUNTSAB-26-6,How many awards will Sabrina Carpenter win at the 2026 Grammy Awards?
+1364,0.01,0.92,928,781,KXIPOANDURIL-26MAR01,When will Anduril IPO?
+1365,0.01,0.97,362,292,KXNBATOTAL-26JAN25DENMEM-238,Denver at Memphis: Total Points
+1366,0.01,0.97,202,292,KXNBASPREAD-26JAN25DENMEM-DEN13,Denver wins by over 13.5 Points?
+1367,0.01,0.97,576,292,KXNBASPREAD-26JAN25DENMEM-MEM14,Memphis wins by over 14.5 Points?
+1368,0.01,0.92,291,780,KXPGATOP20-FAIO26-KVIL,Will Karl Vilips finish top 20 (including ties) in Farmers Insurance Open golf tournament?
+1369,0.01,0.88,633,1318,KXA10REG-26-DAV,Will Davidson be the Atlantic 10 Conference regular season champions?
+1370,0.01,0.97,6009,287,KXGRAMMYCOUNTBAD-26-5,How many awards will Bad Bunny win at the 2026 Grammy Awards?
+1371,0.01,0.88,22301,1318,KXSECREG-26-TXAM,Will Texas A&M be the SEC regular season champions?
+1372,0.009,0.93,2626,791,KXACAHSAFSA-MAR26,"Will legislation that channels government funds directly into HSAs and/or FSAs become law before Mar 1, 2026?"
+1373,0.009,0.93,112,780,KXPGATOP20-FAIO26-APUT,Will Andrew Putnam finish top 20 (including ties) in Farmers Insurance Open golf tournament?
+1374,0.009,0.96,45646,444,KXPGATOUR-FAIO26-LABE,Will Ludvig Aberg win the Farmers Insurance Open?
+1375,0.009,0.96,38140,444,KXDPWORLDTOUR-BAC26-PREE,Will Patrick Reed win the Bahrain Championship?
+1376,0.009,0.94,207,631,KXNFLPASSYDS-26FEB08SEANE-NEDMAYE10-350,Drake Maye: 350+ passing yards
+1377,0.009,0.85,1434,1822,KXMARMADROUND-26F4-MSU,Will Michigan St. qualify for the Men's March Madness Final Four?
+1378,0.009,0.98,734,215,KXMC-CAI-84,Cairn Metacritic score?
+1379,0.009,0.98,800,215,KXMC-CAI-79,Cairn Metacritic score?
+1380,0.009,0.97,200,311,KXRT-WHI-90,Whistle Rotten Tomatoes score?
+1381,0.009,0.98,1273,215,KXMC-CAI-89,Cairn Metacritic score?
+1382,0.009,0.89,8381,1318,KXT20WORLDCUP-26-RSA,Will South Africa win the 2026 ICC Men's T20 World Cup?
+1383,0.009,0.95,3415,573,KXGDP-26JAN30-T5.5,Will **real GDP** increase by more than 5.5% in Q4 2025?
+1384,0.009,0.94,3441,631,KXNFLANYTD-26FEB08SEANE-NEAHOOPER81,Austin Hooper: Anytime Touchdown
+1385,0.009,0.94,264,631,KXNFLPASSYDS-26FEB08SEANE-SEASDARNOLD14-350,Sam Darnold: 350+ passing yards
+1386,0.009,0.93,153,791,KXBILLCONTEMPTVOTE-26MAR01-349,Will between 340 and 359 Representatives vote Yea on a resolution finding Bill Clinton in contempt of Congress?
+1387,0.009,0.94,10032,631,KXNFLFIRSTTD-26FEB08SEANE-NESDIGGS8,Stefon Diggs: First Touchdown
+1388,0.009,0.94,12874,631,KXNFLFIRSTTD-26FEB08SEANE-SEACKUPP10,Cooper Kupp: First Touchdown
+1389,0.009,0.84,3235,1990,KXLEADERNBASTL-26-DDAN,Will Dyson Daniels lead Pro Basketball in Steals Per Game for the 2025-26 Regular Season?
+1390,0.009,0.96,58052,444,KXDPWORLDTOUR-BAC26-DHIL,Will Daniel Hillier win the Bahrain Championship?
+1391,0.009,0.89,2144,1356,KXNEXTTEAMMLB-26KMAR-BOS,What will be Ketel Marte's next team?
+1392,0.009,0.94,288,631,KXNFLPASSYDS-26FEB08SEANE-NEDMAYE10-325,Drake Maye: 325+ passing yards
+1393,0.009,0.93,1221,780,KXPGATOP10-FAIO26-NHOJ,Will Nicolai Hojgaard finish top 10 (including ties) in Farmers Insurance Open golf tournament?
+1394,0.009,0.98,2670,212,KXCBDECISIONENGLAND-26FEB05-H25,Will the Bank of England Hike 1-25 basis points at the Feb 2026 BOE meeting?
+1395,0.009,0.98,1237,212,KXCBDECISIONENGLAND-26FEB05-C25P,Will the Bank of England Cut more than 25bp at the Feb 2026 BOE meeting?
+1396,0.009,0.98,3554,219,KXCBDECISIONMEXICO-26FEB05-H25P,Will the Bank of Mexico Hike 25 basis points at the Bank of Mexico February 2026 meeting?
+1397,0.009,0.97,310628,311,KXAOMEN-26-AZVE,Will Alexander Zverev win the Australian Open?
+1398,0.009,0.93,290,780,KXPGATOP5-FAIO26-WZAL,Will Will Zalatoris finish top 5 (including ties) in Farmers Insurance Open golf tournament?
+1399,0.009,0.96,301,412,KXLALIGASPREAD-26JAN30ESPALA-ESP2,Espanyol wins by over 2.5 goals?
+1400,0.009,0.85,737,1822,KXMARMADROUND-26F4-ILL,Will Illinois qualify for the Men's March Madness Final Four?
+1401,0.009,0.93,239,780,KXPGATOP5-FAIO26-GHIG,Will Garrick Higgo finish top 5 (including ties) in Farmers Insurance Open golf tournament?
+1402,0.009,0.96,294,411,KXSERIEASPREAD-26JAN30LAZGEN-LAZ2,Lazio wins by over 2.5 goals?
+1403,0.009,0.98,1063,213,KXCBDECISIONEU-26FEB05-H25P,Will the European Central Bank Hike more than 25bp at the Feb 2026 ECB meeting?
+1404,0.009,0.93,290,767,KXFEATUREJCOLE-26-BIG,"Will Big Sean be featured on ""The Fall-Off"" by J. Cole?"
+1405,0.009,0.98,2107,212,KXCBDECISIONENGLAND-26FEB05-H25P,Will the Bank of England Hike more than 25bp at the Feb 2026 BOE meeting?
+1406,0.009,0.94,20250,631,KXNFLFIRSTTD-26FEB08SEANE-NEHHENRY85,Hunter Henry: First Touchdown
+1407,0.009,0.94,691,631,KXNFLSPREAD-26FEB08SEANE-NE9,New England wins by over 9.5 points?
+1408,0.009,0.94,1612,631,KXNFLSPREAD-26FEB08SEANE-NE13,New England wins by over 13.5 points?
+1409,0.009,0.93,3465,815,KXBARIWEISSOUT-25DEC23-BWEI-26MAR01,Will Bari Weiss leave CBS before March 2026?
+1410,0.008,0.89,285,1538,KXARCTICICEMAX-26APR01-T15.2,"Will the extent of the arctic sea ice be above 15.2 million square km between December 18, 2025 and April 01, 2026?"
+1411,0.008,0.98,17824,229,KXNBATRADE-26FEB06-IZUB,"Will Ivica Zubac be traded by Los Angeles C before Feb 6, 2026"
+1412,0.008,0.94,166,781,KXIPOBEASTINDUSTRIES-26MAR01,When will Beast Industries IPO?
+1413,0.008,0.92,1856,973,KXWO-BRONZE-26-CAN,Will Canada have the most bronze medals in the 2026 Winter Olympics?
+1414,0.008,0.94,335,791,KXBILLCONTEMPTVOTE-26MAR01-309,Will between 300 and 319 Representatives vote Yea on a resolution finding Bill Clinton in contempt of Congress?
+1415,0.008,0.94,130,781,KXSTRIPEIPO-26MAR01,When will Stripe IPO?
+1416,0.008,0.97,352,364,KXUCLSPREAD-26JAN28NAPCFC-NAP2,Napoli wins by over 2.5 goals?
+1417,0.008,0.90,5973,1246,KXMAKEMARMAD-26-STAN,Men's March Madness Round of 64 Qualifiers
+1418,0.008,0.98,132,237,KXECONSTATU3-26JAN-T5.5,Unemployment rate in Jan 2026?
+1419,0.008,0.98,9145,229,KXNEXTTEAMNBA-26JMOR-BKN,What will be Ja Morant's next team?
+1420,0.008,0.90,28958,1246,KXMAKEMARMAD-26-SYR,Men's March Madness Round of 64 Qualifiers
+1421,0.008,0.86,8824,1990,KXLEADERNBABLK-26-ASAR,Will Alex Sarr lead Pro Basketball in Blocks Per Game for the 2025-26 Regular Season?
+1422,0.008,0.86,4811,1990,KXLEADERNBAREB-26-KATO,Will Karl-Anthony Towns lead Pro Basketball in Rebounds Per Game for the 2025-26 Regular Season?
+1423,0.008,0.94,148,791,KXVISITMN-26MAR01-BOBA,"Will Barack Obama visit Minnesota before Mar 1, 2026?"
+1424,0.008,0.95,7130,631,KXNFLANYTD-26FEB08SEANE-NEKWILLIAMS18,Kyle Williams: Anytime Touchdown
+1425,0.008,0.97,489,364,KXUCLSPREAD-26JAN28PAFSLA-SLA2,Slavia Prague wins by over 2.5 goals?
+1426,0.008,0.92,3327,958,KXTRUMPUFC-UFC326,Will Donald Trump attend UFC 326?
+1427,0.008,0.97,352,344,KXNBA2D-26JAN27SACNYK-NYKMBRIDGES25,Mikal Bridges: Double Double
+1428,0.008,0.90,20611,1246,KXMAKEMARMAD-26-ND,Men's March Madness Round of 64 Qualifiers
+1429,0.008,0.98,6195,229,KXNEXTTEAMNBA-26JMOR-NOP,What will be Ja Morant's next team?
+1430,0.008,0.95,4990,599,KXEPLGAME-26FEB07ARSSUN-SUN,Arsenal vs Sunderland Winner?
+1431,0.008,0.97,179,364,KXUCLSPREAD-26JAN28USGATA-USG2,Union Gilloise wins by over 2.5 goals?
+1432,0.008,0.85,5261,1990,KXLEADERNBASTL-26-KPOR,Will Kevin Porter Jr. lead Pro Basketball in Steals Per Game for the 2025-26 Regular Season?
+1433,0.008,0.89,247,1534,KXFEATUREHARRYSTYLES-26-ZAY,"Will Zayn Malik be featured on ""Kiss All The Time. Disco, Occasionally."" by Harry Styles?"
+1434,0.008,0.90,2527,1318,KXT20WORLDCUP-26-ENG,Will England win the 2026 ICC Men's T20 World Cup?
+1435,0.008,0.95,123,631,KXNFL1QSPREAD-26FEB08SEANE-NE7,New England wins by over 7.5 points?
+1436,0.008,0.89,200,1534,KXFEATUREHARRYSTYLES-26-NIA,"Will Niall Horan be featured on ""Kiss All The Time. Disco, Occasionally."" by Harry Styles?"
+1437,0.008,0.90,373,1294,KXOSCARCOUNT-26-ONE-2,How many awards will One Battle After Another win at the Oscars?
+1438,0.008,0.95,16677,631,KXNFLFIRSTTD-26FEB08SEANE-NEDMAYE10,Drake Maye: First Touchdown
+1439,0.008,0.97,3271,368,KXNCAAWBGAME-26JAN28UCLAILL-ILL,UCLA at Illinois Winner?
+1440,0.008,0.89,160,1534,KXFEATUREHARRYSTYLES-26-LOU,"Will Louis Tomlinson be featured on ""Kiss All The Time. Disco, Occasionally."" by Harry Styles?"
+1441,0.008,0.95,258,631,KXNFLTEAMTOTAL-26FEB08SEANE-NE32,Seattle at New England: Team Totals: New England
+1442,0.008,0.97,272,361,KXNCAAWBGAME-26JAN28MOHNIU-NIU,Miami (OH) at Northern Illinois Winner?
+1443,0.008,0.97,51378,364,KXUCLGAME-26JAN28LFCQAR-QAR,Liverpool vs Qarabag Winner?
+1444,0.008,0.94,376,767,KXRANKLIST1SONG-26FEB28B-GOL,Will Golden be 1 on the Billboard Hot 100 in February 2026?
+1445,0.008,0.94,3483,781,KXFOLLOWERCOUNTISHOWSPEED-26MAR01,"Will IShowSpeed reach 5 million Twitch followers before Mar 1, 2026?"
+1446,0.008,0.96,14327,503,KXNBAALLSTARS-26-KGEO,Will Keyonte George be selected as a Pro Basketball All Star
+1447,0.008,0.89,1697,1510,KXALBUMTRACKSHARRY-26-13,"Will Kiss All The Time. Disco, Occasionally. by Harry Styles have At least 13 tracks?"
+1448,0.008,0.91,1929,1150,KXNCAAMBUNDEFEATED-25-MOH,Will Miami (OH) go Undefeated in the Men's College Basketball 2025-26 Regular Season?
+1449,0.008,0.90,283,1294,KXOSCARCOUNT-26-HAM-0,How many awards will Hamnet win at the Oscars?
+1450,0.008,0.98,5269,229,KXNBATRADE-26FEB06-THAR,"Will Tobias Harris be traded by Detroit before Feb 6, 2026"
+1451,0.008,0.93,76875,829,KXCBVOLUME-26-Q4-280,Coinbase trading volume this quarter?
+1452,0.008,0.98,3007,229,KXNBATRADE-26FEB06-PGEO,"Will Paul George be traded by Philadelphia before Feb 6, 2026"
+1453,0.008,0.98,162798,229,KXNEXTTEAMGIANNIS-26GANT-ATL,What will be Giannis Antetokounmpo's next team?
+1454,0.008,0.97,6534,344,KXNBA3D-26JAN27SACNYK-SACRWESTBROOK18,Russell Westbrook: Triple Double
+1455,0.008,0.89,4694,1524,KXSP500ADDQ-26MAR31-PSTG,"Will Pure Storage be added to S&P 500 before Mar 31, 2026?"
+1456,0.008,0.97,1322,344,KXNBA3D-26JAN27SACNYK-NYKJHART3,Josh Hart: Triple Double
+1457,0.008,0.97,186,345,KXNBAPTS-26JAN27MILPHI-PHIVEDGECOMBE77-20,VJ Edgecombe: 20+ points
+1458,0.007,0.97,139,430,KXBUNDESLIGASPREAD-26JAN31TSGUNI-UNI1,Union Berlin wins by over 1.5 goals?
+1459,0.007,0.92,663,1246,KXMAKEMARMAD-26-RMU,Men's March Madness Round of 64 Qualifiers
+1460,0.007,0.91,21002,1246,KXMAKEMARMAD-26-SBON,Men's March Madness Round of 64 Qualifiers
+1461,0.007,0.92,8099,1246,KXMAKEMARMAD-26-QUIN,Men's March Madness Round of 64 Qualifiers
+1462,0.007,0.92,100,1246,KXMAKEMARMAD-26-FAIR,Men's March Madness Round of 64 Qualifiers
+1463,0.007,0.94,859,901,KXALBUMSALES-ROM-225000,"Will The Romantic by Bruno Mars have At least 225000 album sales the Hits Daily Double Top 50 Chart for March 06, 2026?"
+1464,0.007,0.88,379,1822,KXMARMADROUND-26F4-GONZ,Will Gonzaga qualify for the Men's March Madness Final Four?
+1465,0.007,0.97,1119,407,KXSBGUESTS-26-TH,Who will attend the Big Game?
+1466,0.007,0.97,387,402,KXCBDECISIONRUSSIA-26FEB13-H25P,Will the Bank of Russia Hike 25 basis points at the February Bank of Russia Board of Directors’ key rate meeting?
+1467,0.007,0.97,293,402,KXCBDECISIONRUSSIA-26FEB13-H50P,Will the Bank of Russia Hike more than 50bp at the February Bank of Russia Board of Directors’ key rate meeting?
+1468,0.007,0.91,3801,1318,KXBIGEASTREG-26-MARQ,Will Marquette be the Big East regular season champions?
+1469,0.007,0.94,6215,829,KXCBVOLUME-26-Q4-330,Coinbase trading volume this quarter?
+1470,0.007,0.90,1835,1538,KXARCTICICEMAX-26APR01-T14.6,"Will the extent of the arctic sea ice be above 14.6 million square km between December 18, 2025 and April 01, 2026?"
+1471,0.007,0.98,131214,292,KXNCAAWBGAME-26JAN25HOUBAY-HOU,Houston at Baylor Winner?
+1472,0.007,0.90,253,1524,KXIPOWHOOP-26APR01,"When will WHOOP, Inc. officially announce an IPO?"
+1473,0.007,0.92,6463,1246,KXMAKEMARMAD-26-XAV,Men's March Madness Round of 64 Qualifiers
+1474,0.007,0.91,6027,1246,KXMAKEMARMAD-26-CIN,Men's March Madness Round of 64 Qualifiers
+1475,0.007,0.98,584,287,KXGRAMMYCOUNTBAD-26-0,How many awards will Bad Bunny win at the 2026 Grammy Awards?
+1476,0.007,0.98,796,263,KXALBUMTRACKSJCOLE-26-16,Will The Fall-Off by J. Cole have At least 16 tracks?
+1477,0.006,0.98,442,341,KXNCAAMBTOTAL-26JAN27UNONICH-173,New Orleans at Nicholls St.: Total Points
+1478,0.006,0.93,491,1246,KXMAKEMARMAD-26-SF,Men's March Madness Round of 64 Qualifiers
+1479,0.006,0.95,4233,781,KXIPODISCORD-26MAR01,When will Discord IPO?
+1480,0.006,0.98,819,345,KXNBA3D-26JAN27NOPOKC-NOPDQUEEN22,Derik Queen: Triple Double
+1481,0.006,0.93,500,1202,KXFED-26MAR-T4.50,"Will the upper bound of the federal funds rate be above 4.50% following the Fed's Mar 18, 2026 meeting?"
+1482,0.006,0.98,496,341,KXNCAAMBTOTAL-26JAN27NWSTSFA-157,Northwestern St. at Stephen F. Austin: Total Points
+1483,0.006,0.98,266,345,KXNBAPTS-26JAN27MILPHI-PHITMAXEY0-25,Tyrese Maxey: 25+ points
+1484,0.006,0.98,1103,345,KXNBA2D-26JAN27MILPHI-PHIVEDGECOMBE77,VJ Edgecombe: Double Double
+1485,0.006,0.98,1774,339,KXNCAAMBTOTAL-26JAN27ALSTTXSO-168,Alabama St. at Texas Southern: Total Points
+1486,0.006,0.98,190,296,KXNBASPREAD-26JAN25DALMIL-DAL8,Dallas wins by over 8.5 Points?
+1487,0.006,0.98,663,296,KXNBASPREAD-26JAN25DALMIL-DAL11,Dallas wins by over 11.5 Points?
+1488,0.006,0.97,1726,469,KXHMONTHRANGE-26JAN-B1.200,Jan 2026 temperature increase?
+1489,0.006,0.95,3047,791,KXRANKLISTSONGSPOTUSA-26MAR01-ASA,Will A$AP Rocky be #1 on Any Spotify Daily Top Songs USA chart in February?
+1490,0.006,0.97,1029,503,KXNBAALLSTARS-26-TYOU,Will Trae Young be selected as a Pro Basketball All Star
+1491,0.006,0.97,2500,503,KXNBAALLSTARS-26-OANU,Will OG Anunoby be selected as a Pro Basketball All Star
+1492,0.006,0.96,10245,695,KXATTENDSOTU-DROD,Will Delcy Rodriguez attend the 2026 State of the Union Address?
+1493,0.006,0.97,324,503,KXNBAALLSTARS-26-ZLAV,Will Zach LaVine be selected as a Pro Basketball All Star
+1494,0.006,0.96,12522,631,KXNFL2TD-26FEB08SEANE-NESDIGGS8,Stefon Diggs: 2+ Touchdowns
+1495,0.006,0.96,27008,631,KXNFLFIRSTTD-26FEB08SEANE-SEARSHAHEED22,Rashid Shaheed: First Touchdown
+1496,0.006,0.92,231,1318,KXA10REG-26-DUQ,Will Duquesne be the Atlantic 10 Conference regular season champions?
+1497,0.006,0.98,1220,344,KXATPEXACTMATCH-26JAN27SHESIN-SHE32,Will Ben Shelton win the Ben Shelton vs Jannik Sinner match by a set score of 3-2
+1498,0.006,0.92,125,1356,KXNEXTTEAMMLB-26CBEL-ATL,What will be Cody Bellinger's next team?
+1499,0.006,0.96,13149,631,KXNFLFIRSTTD-26FEB08SEANE-NEKBOUTTE9,Kayshon Boutte: First Touchdown
+1500,0.006,0.92,81303,1318,KXSECREG-26-ARK,Will Arkansas be the SEC regular season champions?
+1501,0.006,0.96,5664,631,KXNFL2TD-26FEB08SEANE-NEHHENRY85,Hunter Henry: 2+ Touchdowns
+1502,0.006,0.96,8368,631,KXNFL2TD-26FEB08SEANE-SEAABARNER88,AJ Barner: 2+ Touchdowns
+1503,0.006,0.98,287,296,KXNBASPREAD-26JAN25DALMIL-MIL13,Milwaukee wins by over 13.5 Points?
+1504,0.006,0.95,3047,757,KXROLEATGRAMMYS-26FEB28-LLC,Will LL Cool J be the Host at the 68th Grammy Awards?
+1505,0.006,0.98,333,301,KXNEXTTEAMNFL-26OBJ-WAS,What will be Odell Beckham Jr.'s next team?
+1506,0.006,0.97,26204,444,KXPGATOUR-FAIO26-WKIM,Will Si Woo Kim win the Farmers Insurance Open?
+1507,0.006,0.94,198,1028,KXCPIYOY-26FEB-T2.6,Will the rate of CPI inflation be above 2.6% for the year ending in February 2026?
+1508,0.006,0.98,2709,301,KXFIRSTSUPERBOWLSONG-26FEB09-NEV,Will Neverita be the first song performed by Bad Bunny during the 2026 Pro Football Championship halftime show?
+1509,0.006,0.97,10560,444,KXDPWORLDTOUR-BAC26-TDET,Will Thomas Detry win the Bahrain Championship?
+1510,0.006,0.98,1575,301,KXFIRSTSUPERBOWLSONG-26FEB09-TOB,Will Te Boté - Remix be the first song performed by Bad Bunny during the 2026 Pro Football Championship halftime show?
+1511,0.006,0.98,1558,301,KXFIRSTSUPERBOWLSONG-26FEB09-EFE,Will Efecto be the first song performed by Bad Bunny during the 2026 Pro Football Championship halftime show?
+1512,0.006,0.98,262,320,KXNHLSPREAD-26JAN26LACBJ-LA2,Los Angeles wins by over 2.5 goals?
+1513,0.006,0.98,100,320,KXNHLSPREAD-26JAN26LACBJ-CBJ2,Columbus wins by over 2.5 goals?
+1514,0.006,0.98,50819,344,KXNCAAWBGAME-26JAN27WADVCOPP-WADV,Washington Adventist at Coppin St. Winner?
+1515,0.006,0.98,1597,301,KXFIRSTSUPERBOWLSONG-26FEB09-OJI,Will Ojitos Lindos be the first song performed by Bad Bunny during the 2026 Pro Football Championship halftime show?
+1516,0.006,0.98,9696,301,KXFIRSTSUPERBOWLSONG-26FEB09-MEP,Will Me Porto Bonito be the first song performed by Bad Bunny during the 2026 Pro Football Championship halftime show?
+1517,0.006,0.98,10094,301,KXFIRSTSUPERBOWLSONG-26FEB09-LIK,Will I Like It be the first song performed by Bad Bunny during the 2026 Pro Football Championship halftime show?
+1518,0.006,0.98,9221,301,KXFIRSTSUPERBOWLSONG-26FEB09-LAC,Will LA CANCIÓN be the first song performed by Bad Bunny during the 2026 Pro Football Championship halftime show?
+1519,0.006,0.98,469,301,KXFIRSTSUPERBOWLSONG-26FEB09-LAJ,Will La Jumpa be the first song performed by Bad Bunny during the 2026 Pro Football Championship halftime show?
+1520,0.006,0.98,232,301,KXNEXTTEAMNFL-26OBJ-TEN,What will be Odell Beckham Jr.'s next team?
+1521,0.006,0.98,2339,301,KXNEXTTEAMNFL-26OBJ-ARI,What will be Odell Beckham Jr.'s next team?
+1522,0.006,0.92,273,1356,KXNEXTTEAMMLB-26FVALDEZ-LAD,What will be Framber Valdez's next team?
+1523,0.006,0.88,9036,1990,KXLEADERNBA3PT-26-DMIT,Will Donovan Mitchell lead Pro Basketball in Three Pointers Made Per Game for the 2025-26 Regular Season?
+1524,0.006,0.97,66858,444,KXPGATOUR-FAIO26-CAME,Will Cameron Young win the Farmers Insurance Open?
+1525,0.006,0.95,21013,781,KXACAEXT-26JAN-MAR,"Will legislation extending or reinstating (if expired) enhanced ACA premium tax credits becomes law before Mar 1, 2026?"
+1526,0.006,0.91,306038,1532,KXGAMBLINGREPEAL-26JAN-APR,"Will bill that removes/changes the gambling tax provision in the One Big Beautiful Bill Act (""OBBB"") becomes law before Apr 1, 2026?"
+1527,0.006,0.97,19254,503,KXNBAALLSTARS-26-AREA,Will Austin Reaves be selected as a Pro Basketball All Star
+1528,0.006,0.95,5449,767,KXRANKLIST1SONG-26FEB28B-IJU,Will I Just Might be 1 on the Billboard Hot 100 in February 2026?
+1529,0.006,0.98,411,344,KXNBA2D-26JAN27SACNYK-NYKOANUNOBY8,OG Anunoby: Double Double
+1530,0.006,0.98,232,344,KXNBA3PT-26JAN27SACNYK-NYKMBRIDGES25-5,Mikal Bridges: 5+ threes
+1531,0.006,0.91,11275,1620,KXTESLA-26-Q1-380000,How many Tesla deliveries will there be this quarter?
+1532,0.006,0.91,274349,1534,KXGREENTERRITORY-29-26APR,"Will the United States acquire any part of Greenland before Apr 1, 2026?"
+1533,0.006,0.97,20199,444,KXPGATOUR-FAIO26-PCAN,Will Patrick Cantlay win the Farmers Insurance Open?
+1534,0.006,0.95,3217,757,KXROLEATGRAMMYS-26FEB28-JIM,Will Jimmy Fallon be the Host at the 68th Grammy Awards?
+1535,0.006,0.97,36042,444,KXPGATOUR-FAIO26-HMAT,Will Hideki Matsuyama win the Farmers Insurance Open?
+1536,0.006,0.92,691,1294,KXOSCARCOUNT-26-ONE-7,How many awards will One Battle After Another win at the Oscars?
+1537,0.006,0.92,129,1356,KXNEXTTEAMMLB-26KMAR-KC,What will be Ketel Marte's next team?
+1538,0.006,0.90,243,1822,KXMARMADROUND-26F4-BYU,Will BYU qualify for the Men's March Madness Final Four?
+1539,0.005,0.92,844,1524,KXNDPLEADER-26APR01-RASH,"Will Rob Ashton become the next leader of New Democratic Party before Apr 1, 2026?"
+1540,0.005,0.92,561,1524,KXIPOANDURIL-26APR01,When will Anduril IPO?
+1541,0.005,0.94,500,1202,KXFED-26MAR-T4.75,"Will the upper bound of the federal funds rate be above 4.75% following the Fed's Mar 18, 2026 meeting?"
+1542,0.005,0.98,8143,407,KXVOTEBONDIIMPEACH-26-FEB13,Will the House vote on any resolution impeaching Pamela Bondi?
+1543,0.005,0.93,84370,1318,KXSECREG-26-VAN,Will Vanderbilt be the SEC regular season champions?
+1544,0.005,0.98,455,364,KXUCLSPREAD-26JAN28ATMBOG-BOG1,Bodoe/Glimt wins by over 1.5 goals?
+1545,0.005,0.98,32994,364,KXUCLGAME-26JAN28ARSALM-ALM,Arsenal vs Kairat Winner?
+1546,0.005,0.97,3517,573,KXGDP-26JAN30-T6,Will **real GDP** increase by more than 6% in Q4 2025?
+1547,0.005,0.97,520,631,KXNFLPASSTDS-26FEB08SEANE-NEDMAYE10-4,Drake Maye: 4+ passing touchdowns
+1548,0.005,0.94,1059,1318,KXBIGEASTREG-26-BUT,Will Butler be the Big East regular season champions?
+1549,0.005,0.97,15809,631,KXNFLFIRSTTD-26FEB08SEANE-NETHENDERSON32,TreVeyon Henderson: First Touchdown
+1550,0.005,0.93,668,1294,KXOSCARCOUNT-26-6,How many awards will Sinners win at the Oscars?
+1551,0.005,0.93,4169,1318,KXWCCREG-26-ORST,Will Oregon St. be the West Coast Conference regular season champions?
+1552,0.005,0.92,642,1538,KXARCTICICEMAX-26APR01-T15.0,"Will the extent of the arctic sea ice be above 15.0 million square km between December 18, 2025 and April 01, 2026?"
+1553,0.005,0.97,5315,631,KXNFL2TD-26FEB08SEANE-NEKBOUTTE9,Kayshon Boutte: 2+ Touchdowns
+1554,0.005,0.96,350,791,KXHILLARYCONTEMPTVOTE-26MAR01-239,Will between 230 and 249 House vote Yea on a resolution finding Hillary Clinton in contempt of Congress?
+1555,0.005,0.94,776,1294,KXOSCARCOUNT-26-7,How many awards will Sinners win at the Oscars?
+1556,0.005,0.96,992,780,KXPGATOP5-FAIO26-MHOM,Will Max Homa finish top 5 (including ties) in Farmers Insurance Open golf tournament?
+1557,0.005,0.96,219,780,KXPGATOP5-FAIO26-ECOL,Will Eric Cole finish top 5 (including ties) in Farmers Insurance Open golf tournament?
+1558,0.005,0.96,4997,829,KXCBVOLUME-26-Q4-320,Coinbase trading volume this quarter?
+1559,0.005,0.96,13091,829,KXCBVOLUME-26-Q4-350,Coinbase trading volume this quarter?
+1560,0.005,0.93,49099,1524,KXSP500ADDQ-26MAR31-MSTR,"Will Strategy(MicroStrategy) be added to S&P 500 before Mar 31, 2026?"
+1561,0.005,0.96,122,780,KXPGATOP10-FAIO26-TFIN,Will Tony Finau finish top 10 (including ties) in Farmers Insurance Open golf tournament?
+1562,0.005,0.94,4936,1318,KXMWREG-26-WYO,Will Wyoming be the Mountain West Conference regular season champions?
+1563,0.005,0.92,30340,1534,KXESDEEKID-26,Will Timothée Chalamet claim he is secretly the English rapper EsDeeKid before Apr 2026?
+1564,0.005,0.94,111837,1318,KXBIG10REG-26-PUR,Will Purdue be the Big Ten regular season champions?
+1565,0.005,0.94,45773,1318,KXSECREG-26-ALA,Will Alabama be the SEC regular season champions?
+1566,0.005,0.94,23901,1318,KXACCREG-26-UVA,Will Virginia be the ACC regular season champions?
+1567,0.005,0.94,11589,1318,KXACCREG-26-CLEM,Will Clemson be the ACC regular season champions?
+1568,0.005,0.95,100,973,KXWO-BRONZE-26-AUS,Will Australia have the most bronze medals in the 2026 Winter Olympics?
+1569,0.005,0.95,464,973,KXWO-SILVER-26-CAN,Will Canada have the most silver medals in the 2026 Winter Olympics?
+1570,0.005,0.96,355,757,KXROLEATGRAMMYS-26FEB28-BEY,Will Beyoncé be the Host at the 68th Grammy Awards?
+1571,0.005,0.94,10437,1318,KXAACREG-26-WICH,Will Wichita St. be the American Athletic Conference regular season champions?
+1572,0.005,0.96,241,757,KXROLEATGRAMMYS-26FEB28-BIL,Will Billie Eilish be the Host at the 68th Grammy Awards?
+1573,0.005,0.94,6285,1318,KXAACREG-26-MEM,Will Memphis be the American Athletic Conference regular season champions?
+1574,0.005,0.93,458,1534,KXFEATUREHARRYSTYLES-26-PHO,"Will Phoebe Bridgers be featured on ""Kiss All The Time. Disco, Occasionally."" by Harry Styles?"
+1575,0.005,0.94,971,1246,KXMAKEMARMAD-26-FUR,Men's March Madness Round of 64 Qualifiers
+1576,0.005,0.96,13265,781,KXFREYOUT-26MAR01,Will Jacob Frey leave as Mayor of Minneapolis before March 2026?
+1577,0.005,0.96,1791,757,KXROLEATGRAMMYS-26FEB28-KEN,Will Kenan Thompson be the Host at the 68th Grammy Awards?
+1578,0.005,0.96,616,757,KXROLEATGRAMMYS-26FEB28-LIZ,Will Lizzo be the Host at the 68th Grammy Awards?
+1579,0.005,0.98,13830,357,KXCPIYOY-26JAN-T2.8,Will the rate of CPI inflation be above 2.8% for the year ending in January 2026?
+1580,0.005,0.94,2103,1246,KXMAKEMARMAD-26-DAY,Men's March Madness Round of 64 Qualifiers
+1581,0.005,0.94,2823,1246,KXMAKEMARMAD-26-MEM,Men's March Madness Round of 64 Qualifiers
+1582,0.005,0.98,3260,357,KXCPIYOY-26JAN-T3.0,Will the rate of CPI inflation be above 3.0% for the year ending in January 2026?
+1583,0.005,0.98,11502,357,KXCPIYOY-26JAN-T2.9,Will the rate of CPI inflation be above 2.9% for the year ending in January 2026?
+1584,0.005,0.93,256,1356,KXNEXTTEAMMLB-26FVALDEZ-PHI,What will be Framber Valdez's next team?
+1585,0.005,0.94,296,1246,KXMAKEMARMAD-26-WASH,Men's March Madness Round of 64 Qualifiers
+1586,0.005,0.96,29762,791,KXVETOOVERRIDE-29JAN20-26MAR,Will Congress override Trump's veto before March 2026?
+1587,0.005,0.96,205043,791,KXUSAEXPANDTERRITORY-26MAR01,"Will the United States acquire any territory not under its sovereignty (as of Issuance) before Mar 1, 2026?"
+1588,0.005,0.90,8199,1966,KXWMARMAD-26-SCAR,Will South Carolina win the Women's College Basketball National Championship?
+1589,0.005,0.96,800,780,KXPGATOP10-FAIO26-BKOE,Will Brooks Koepka finish top 10 (including ties) in Farmers Insurance Open golf tournament?
+1590,0.005,0.97,479,575,KXWPL-26-DEL,Will Delhi Capitals win the Cricket Women's Premier League Championship?
+1591,0.005,0.94,164,1092,KXTOP10BILLBOARDSPOTSBRUNO-26MAR14-0,"How many spots on the Billboard Hot 100's top 10 will Bruno Mars hold for the week of Mar 14, 2026?"
+1592,0.005,0.94,3667,1246,KXMAKEMARMAD-26-UCSB,Men's March Madness Round of 64 Qualifiers
+1593,0.005,0.91,5023,1966,KXWMARMAD-26-UCLA,Will UCLA win the Women's College Basketball National Championship?
+1594,0.005,0.98,52346,353,KXCRICKETODIMATCH-26JAN27ENGSRI-SRI,Sri Lanka vs England Winner?
+1595,0.005,0.94,307,1294,KXOSCARCOUNT-26-MAR-3,How many awards will Marty Supreme win at the Oscars?
+1596,0.005,0.94,306,1294,KXOSCARCOUNT-26-HAM-2,How many awards will Hamnet win at the Oscars?
+1597,0.005,0.93,698,1356,KXNEXTTEAMMLB-26CBEL-LAA,What will be Cody Bellinger's next team?
+1598,0.005,0.93,9354,1511,KXSOLAR-25-60,Will at least 60 GWdc of solar capacity be installed in 2025?
+1599,0.005,0.96,26307,781,KXBOATSTRIKERELEASE-26MAR01,"Will a U.S. government release of the full recording of the September 2, 2025 strike on a small boat in the Caribbean Sea be released in None before Mar 1, 2026?"
+1600,0.004,0.95,100,1356,KXNEXTTEAMMLB-26CBEL-CWS,What will be Cody Bellinger's next team?
+1601,0.004,0.97,116,780,KXPGATOP5-FAIO26-TFIN,Will Tony Finau finish top 5 (including ties) in Farmers Insurance Open golf tournament?
+1602,0.004,0.97,117,781,KXIPOCLUELY-26MAR01,When will Cluely officially announce an IPO?
+1603,0.004,0.95,1846,1202,KXFED-26MAR-T4.00,"Will the upper bound of the federal funds rate be above 4.00% following the Fed's Mar 18, 2026 meeting?"
+1604,0.004,0.98,3760,445,KXPOILIEVREOUT-26FEB15,"Will Pierre Poilievre resign as the conservative party leader before Feb 15, 2026?"
+1605,0.004,0.95,2143,1356,KXNEXTTEAMMLB-26CBEL-CHC,What will be Cody Bellinger's next team?
+1606,0.004,0.95,178,1356,KXNEXTTEAMMLB-26CBEL-HOU,What will be Cody Bellinger's next team?
+1607,0.004,0.98,30152,444,KXDPWORLDTOUR-BAC26-GFOR,Will Grant Forrest win the Bahrain Championship?
+1608,0.004,0.98,33651,444,KXDPWORLDTOUR-BAC26-ADEL,Will Alejandro Del Rey win the Bahrain Championship?
+1609,0.004,0.98,349,444,KXDPWORLDTOUR-BAC26-JGUE,Will Julien Guerrier win the Bahrain Championship?
+1610,0.004,0.93,26550,1846,KXNCAAMBNAISMITH-26-ADYB,Who will win College Basketball Naismith Player of the Year?
+1611,0.004,0.95,15697,1318,KXACCREG-26-MIA,Will Miami (FL) be the ACC regular season champions?
+1612,0.004,0.95,104,1356,KXNEXTTEAMMLB-26CBEL-BOS,What will be Cody Bellinger's next team?
+1613,0.004,0.98,500,444,KXDPWORLDTOUR-BAC26-MLIN,Will Mikael Lindberg win the Bahrain Championship?
+1614,0.004,0.98,3693,444,KXDPWORLDTOUR-BAC26-SGAR,Will Sergio Garcia win the Bahrain Championship?
+1615,0.004,0.92,5080,1966,KXWMARMAD-26-TEX,Will Texas win the Women's College Basketball National Championship?
+1616,0.004,0.93,4032,1966,KXWMARMAD-26-TCU,Will TCU win the Women's College Basketball National Championship?
+1617,0.004,0.97,863,791,KXRANKLISTSONGSPOTUSA-26MAR01-MOR,Will Morgan Wallen be #1 on Any Spotify Daily Top Songs USA chart in February?
+1618,0.004,0.95,3616,1246,KXMAKEMARMAD-26-VCU,Men's March Madness Round of 64 Qualifiers
+1619,0.004,0.95,2377,1246,KXMAKEMARMAD-26-UCI,Men's March Madness Round of 64 Qualifiers
+1620,0.004,0.93,15081,1846,KXNCAAMBNAISMITH-26-BSMI,Who will win College Basketball Naismith Player of the Year?
+1621,0.004,0.98,1630,503,KXNBAALLSTARS-26-KKNU,Will Kon Knueppel be selected as a Pro Basketball All Star
+1622,0.004,0.98,3923,503,KXNBAALLSTARS-26-DBRO,Will Dillon Brooks be selected as a Pro Basketball All Star
+1623,0.004,0.94,3536,1702,KXTGLCHAMPION-26-NY,Will New York Golf Club win the Tomorrow's Golf League Championship?
+1624,0.004,0.93,2681,1702,KXTGLCHAMPION-26-TB,Will The Bay Golf Club win the Tomorrow's Golf League Championship?
+1625,0.004,0.95,410,1294,KXOSCARCOUNT-26-SEN-3,How many awards will Sentimental Value win at the Oscars?
+1626,0.004,0.93,259,1822,KXMARMADROUND-26F4-KU,Will Kansas qualify for the Men's March Madness Final Four?
+1627,0.004,0.97,138,791,KXRANKLISTSONGSPOTUSA-26MAR01-ALE,Will Alex Warren be #1 on Any Spotify Daily Top Songs USA chart in February?
+1628,0.004,0.97,459,791,KXRANKLISTSONGSPOTUSA-26MAR01-CHA,Will Chappell Roan be #1 on Any Spotify Daily Top Songs USA chart in February?
+1629,0.004,0.95,598,1246,KXMAKEMARMAD-26-INST,Men's March Madness Round of 64 Qualifiers
+1630,0.004,0.94,249,1534,KXFEATUREHARRYSTYLES-26-STE,"Will Stevie Nicks be featured on ""Kiss All The Time. Disco, Occasionally."" by Harry Styles?"
+1631,0.004,0.94,513,1534,KXFEATUREHARRYSTYLES-26-HAI,"Will HAIM be featured on ""Kiss All The Time. Disco, Occasionally."" by Harry Styles?"
+1632,0.004,0.95,3661,1246,KXMAKEMARMAD-26-DRKE,Men's March Madness Round of 64 Qualifiers
+1633,0.004,0.95,2282,1246,KXMAKEMARMAD-26-L-IL,Men's March Madness Round of 64 Qualifiers
+1634,0.004,0.95,5643,1246,KXMAKEMARMAD-26-PROV,Men's March Madness Round of 64 Qualifiers
+1635,0.004,0.98,943,503,KXNBAALLSTARS-26-SCAS,Will Stephon Castle be selected as a Pro Basketball All Star
+1636,0.004,0.94,500,1356,KXNEXTTEAMMLB-26FVALDEZ-CHC,What will be Framber Valdez's next team?
+1637,0.004,0.98,748,503,KXNBAALLSTARS-26-JJAC,Will Jaren Jackson Jr. be selected as a Pro Basketball All Star
+1638,0.004,0.94,3612,1524,KXGROK-GROK5-26APR01,"Will xAI release Grok 5 before Apr 1, 2026?"
+1639,0.004,0.94,2219,1524,KXIPHONERELEASE-IPHONE18-26APR01,"Will Apple Inc. release iPhone 18 before Apr 1, 2026?"
+1640,0.004,0.93,16106,1846,KXNCAAMBNAISMITH-26-JTOP,Who will win College Basketball Naismith Player of the Year?
+1641,0.004,0.98,34025,503,KXNBAALLSTARS-26-RWES,Will Russell Westbrook be selected as a Pro Basketball All Star
+1642,0.004,0.98,181,433,KXSERIEASPREAD-26JAN31NAPFIO-FIO1,Fiorentina wins by over 1.5 goals?
+1643,0.004,0.93,1719,1990,KXLEADERNBABLK-26-ISTE,Will Isaiah Stewart lead Pro Basketball in Blocks Per Game for the 2025-26 Regular Season?
+1644,0.004,0.93,8420,1990,KXLEADERNBAREB-26-VWEM,Will Victor Wembanyama lead Pro Basketball in Rebounds Per Game for the 2025-26 Regular Season?
+1645,0.004,0.97,604,757,KXROLEATGRAMMYS-26FEB28-TAY,Will Taylor Swift be the Host at the 68th Grammy Awards?
+1646,0.004,0.95,840,1246,KXMAKEMARMAD-26-BC,Men's March Madness Round of 64 Qualifiers
+1647,0.004,0.95,6871,1246,KXMAKEMARMAD-26-BAY,Men's March Madness Round of 64 Qualifiers
+1648,0.004,0.95,1694,1356,KXNEXTTEAMSKUBAL-26-SF,What will be Tarik Skubal's next team?
+1649,0.004,0.98,4815,444,KXPGATOUR-FAIO26-MMCN,Will Maverick McNealy win the Farmers Insurance Open?
+1650,0.004,0.98,11455,444,KXPGATOUR-FAIO26-RGER,Will Ryan Gerard win the Farmers Insurance Open?
+1651,0.004,0.98,46343,444,KXPGATOUR-FAIO26-TPEN,Will Taylor Pendrith win the Farmers Insurance Open?
+1652,0.004,0.94,24753,1356,KXNEXTTEAMSKUBAL-26-LAD,What will be Tarik Skubal's next team?
+1653,0.004,0.96,318,973,KXWO-GOLD-26-ROC,Will Russian Olympic Committee have the most gold medals in the 2026 Winter Olympics?
+1654,0.004,0.98,53878,444,KXPGATOUR-FAIO26-CGOT,Will Chris Gotterup win the Farmers Insurance Open?
+1655,0.004,0.98,92720,444,KXPGATOUR-FAIO26-JDAY,Will Jason Day win the Farmers Insurance Open?
+1656,0.004,0.98,9699,444,KXPGATOUR-FAIO26-HENG,Will Harris English win the Farmers Insurance Open?
+1657,0.004,0.98,23511,444,KXPGATOUR-FAIO26-JSPA,Will J.J. Spaun win the Farmers Insurance Open?
+1658,0.004,0.98,34637,444,KXPGATOUR-FAIO26-KBRA,Will Keegan Bradley win the Farmers Insurance Open?
+1659,0.004,0.95,11208,1246,KXMAKEMARMAD-26-ORE,Men's March Madness Round of 64 Qualifiers
+1660,0.004,0.95,6031,1246,KXMAKEMARMAD-26-ORU,Men's March Madness Round of 64 Qualifiers
+1661,0.004,0.98,1666,469,KXHMONTHRANGE-26JAN-B1.130,Jan 2026 temperature increase?
+1662,0.004,0.94,3146,1511,KXSOLAR-25-70,Will at least 70 GWdc of solar capacity be installed in 2025?
+1663,0.004,0.95,638,1356,KXNEXTTEAMMLB-26KMAR-STL,What will be Ketel Marte's next team?
+1664,0.004,0.95,4102,1304,KXEFLCUP-26-CHE,Will Chelsea win the EFL Carabao Cup in 2026?
+1665,0.004,0.95,373,1356,KXNEXTTEAMMLB-26CBEL-PIT,What will be Cody Bellinger's next team?
+1666,0.004,0.93,483,1822,KXMARMADROUND-26F4-TTU,Will Texas Tech qualify for the Men's March Madness Final Four?
+1667,0.004,0.92,149,1822,KXMARMADROUND-26F4-UCLA,Will UCLA qualify for the Men's March Madness Final Four?
+1668,0.004,0.93,138,1822,KXMARMADROUND-26F4-WIS,Will Wisconsin qualify for the Men's March Madness Final Four?
+1669,0.004,0.95,112,1356,KXNEXTTEAMMLB-26KMAR-CIN,What will be Ketel Marte's next team?
+1670,0.004,0.95,143,1356,KXNEXTTEAMMLB-26KMAR-DET,What will be Ketel Marte's next team?
+1671,0.004,0.97,111,780,KXPGATOP5-FAIO26-APUT,Will Andrew Putnam finish top 5 (including ties) in Farmers Insurance Open golf tournament?
+1672,0.004,0.98,153900,469,KXHMONTH-26JAN,Will  Jan 2026 be the hottest Jan ever?
+1673,0.004,0.95,362,1197,KXCBDECISIONCANADA-26MAR-H25,Will Bank of Canada Hike rates by 25bps at their March 2026 meeting?
+1674,0.004,0.95,896,1318,KXA10REG-26-GW,Will George Washington be the Atlantic 10 Conference regular season champions?
+1675,0.004,0.95,956,1294,KXOSCARCOUNT-26-2,How many awards will Sinners win at the Oscars?
+1676,0.004,0.95,319,1294,KXOSCARCOUNT-26-ONE-1,How many awards will One Battle After Another win at the Oscars?
+1677,0.004,0.98,526,454,KXEPLSPREAD-26FEB01MUNFUL-FUL1,Fulham wins by over 1.5 goals?
+1678,0.004,0.98,3126,527,KXJOINMESSI-26-GALA,Will Messi join Galatasaray?
+1679,0.004,0.93,3815,1990,KXLEADERNBA3PT-26-KKNU,Will Kon Knueppel lead Pro Basketball in Three Pointers Made Per Game for the 2025-26 Regular Season?
+1680,0.004,0.98,116,433,KXEPLSPREAD-26JAN31CFCWHU-WHU1,West Ham wins by over 1.5 goals?
+1681,0.004,0.93,935,1990,KXLEADERNBAAST-26-LDON,Will Luka Doncic lead Pro Basketball in Assists Per Game for the 2025-26 Regular Season?
+1682,0.003,0.98,155874,573,KXGDPYEAR-25-B3.8,GDP growth in 2025?
+1683,0.003,0.96,14067,1198,KXELEANORRUN-26MAR18,Will Eleanor Holmes Norton announce a run for Delegate to the U.S. House of Representatives from the District of Columbia's at-large district in 2026?
+1684,0.003,0.96,1223115,1524,KXBTCMAX150-25-26MAR31-149999.99,When will Bitcoin hit $150k?
+1685,0.003,0.96,11834,1246,KXMAKEMARMAD-26-CSU,Men's March Madness Round of 64 Qualifiers
+1686,0.003,0.95,907,1846,KXNCAAMBNAISMITH-26-CWIL,Who will win College Basketball Naismith Player of the Year?
+1687,0.003,0.98,134112,573,KXGDPYEAR-25-B1.8,GDP growth in 2025?
+1688,0.003,0.98,111702,573,KXGDPYEAR-25-B1.3,GDP growth in 2025?
+1689,0.003,0.98,182,704,KXUCLRO16-26-QAR,UCL Round of 16 Qualifiers
+1690,0.003,0.95,55565,1524,KXTARIFFCHECKS-26-APR,Will it be reported that at least one million Americans have received checks of at least $1000 directly attributable to tariff revenue?
+1691,0.003,0.97,134,1092,KXTOP10BILLBOARDSPOTSBRUNO-26MAR14-10,"How many spots on the Billboard Hot 100's top 10 will Bruno Mars hold for the week of Mar 14, 2026?"
+1692,0.003,0.96,2926,1246,KXMAKEMARMAD-26-WVU,Men's March Madness Round of 64 Qualifiers
+1693,0.003,0.96,1358,1246,KXMAKEMARMAD-26-PITT,Men's March Madness Round of 64 Qualifiers
+1694,0.003,0.96,2601,1246,KXMAKEMARMAD-26-SDST,Men's March Madness Round of 64 Qualifiers
+1695,0.003,0.96,3192,1246,KXMAKEMARMAD-26-HOF,Men's March Madness Round of 64 Qualifiers
+1696,0.003,0.96,1530,1246,KXMAKEMARMAD-26-HOW,Men's March Madness Round of 64 Qualifiers
+1697,0.003,0.96,710,1246,KXMAKEMARMAD-26-MONT,Men's March Madness Round of 64 Qualifiers
+1698,0.003,0.96,2132,1246,KXMAKEMARMAD-26-COFC,Men's March Madness Round of 64 Qualifiers
+1699,0.003,0.98,186,575,KXWPL-26-GUJ,Will Gujarat Giants win the Cricket Women's Premier League Championship?
+1700,0.003,0.96,1835,1246,KXMAKEMARMAD-26-NEV,Men's March Madness Round of 64 Qualifiers
+1701,0.003,0.98,22245,631,KXNFL2TD-26FEB08SEANE-SEARSHAHEED22,Rashid Shaheed: 2+ Touchdowns
+1702,0.003,0.96,2443,1246,KXMAKEMARMAD-26-BSU,Men's March Madness Round of 64 Qualifiers
+1703,0.003,0.96,2232,1246,KXMAKEMARMAD-26-CHAT,Men's March Madness Round of 64 Qualifiers
+1704,0.003,0.94,222,1990,KXLEADERNBAAST-26-JHAR,Will James Harden lead Pro Basketball in Assists Per Game for the 2025-26 Regular Season?
+1705,0.003,0.96,2300,1246,KXMAKEMARMAD-26-NORF,Men's March Madness Round of 64 Qualifiers
+1706,0.003,0.96,4502,1246,KXMAKEMARMAD-26-OKLA,Men's March Madness Round of 64 Qualifiers
+1707,0.003,0.96,2163,1318,KXAACREG-26-UAB,Will UAB be the American Athletic Conference regular season champions?
+1708,0.003,0.96,15061,1356,KXNEXTTEAMSKUBAL-26-NYM,What will be Tarik Skubal's next team?
+1709,0.003,0.94,130,1822,KXMARMADROUND-26F4-XAV,Will Xavier qualify for the Men's March Madness Final Four?
+1710,0.003,0.96,5923,1318,KXA10REG-26-RICH,Will Richmond be the Atlantic 10 Conference regular season champions?
+1711,0.003,0.97,11313,829,KXCBVOLUME-26-Q4-310,Coinbase trading volume this quarter?
+1712,0.003,0.95,471,1538,KXARCTICICEMAX-26APR01-T14.8,"Will the extent of the arctic sea ice be above 14.8 million square km between December 18, 2025 and April 01, 2026?"
+1713,0.003,0.98,12068,631,KXNFLFIRSTTD-26FEB08SEANE-SEASDARNOLD14,Sam Darnold: First Touchdown
+1714,0.003,0.98,38202,631,KXNFLFIRSTTD-26FEB08SEANE-SEADST,Seattle D/ST: First Touchdown
+1715,0.003,0.96,679,1524,KXZELENSKYYOUT-26APR01,"Will Volodymyr Zelenskyy leave President of Ukraine before Apr 1, 2026?"
+1716,0.003,0.98,9001,631,KXNFLANYTD-26FEB08SEANE-NOTD,No Touchdown: Anytime Touchdown
+1717,0.003,0.96,268,1294,KXOSCARCOUNT-26-8,How many awards will Sinners win at the Oscars?
+1718,0.003,0.98,27875,631,KXNFLFIRSTTD-26FEB08SEANE-NEDST,New England D/ST: First Touchdown
+1719,0.003,0.95,346,1822,KXMARMADROUND-26F4-UVA,Will Virginia qualify for the Men's March Madness Final Four?
+1720,0.003,0.94,208,1822,KXMARMADROUND-26F4-SDSU,Will San Diego St. qualify for the Men's March Madness Final Four?
+1721,0.003,0.96,1975,1304,KXEFLCUP-26-WXH,Will Wrexham win the EFL Carabao Cup in 2026?
+1722,0.003,0.96,199,1356,KXNEXTTEAMMLB-26KMAR-SF,What will be Ketel Marte's next team?
+1723,0.003,0.96,3174869,1511,KXGOVTCUTS-25-1,Will government spending decrease by 1 before 2025?
+1724,0.003,0.96,825143,1511,KXGOVTCUTS-25-25,Will government spending decrease by 25 before 2025?
+1725,0.002,0.97,819,1356,KXNEXTTEAMMLB-26KMAR-NYM,What will be Ketel Marte's next team?
+1726,0.002,0.97,1354,1304,KXEFLCUP-26-NEW,Will Newcastle win the EFL Carabao Cup in 2026?
+1727,0.002,0.97,2951,1304,KXEFLCUP-26-LFC,Will Liverpool win the EFL Carabao Cup in 2026?
+1728,0.002,0.97,119595,1535,KXGOVTSPEND-26-1000B,Will government spending increase by 1000000000000 before 2026?
+1729,0.002,0.97,99176,1318,KXBIG12REG-26-BYU,Will BYU be the Big 12 regular season champions?
+1730,0.002,0.97,2612,1318,KXA10REG-26-SBON,Will St. Bonaventure be the Atlantic 10 Conference regular season champions?
+1731,0.002,0.97,475,1318,KXA10REG-26-L-IL,Will Loyola Chicago be the Atlantic 10 Conference regular season champions?
+1732,0.002,0.97,8203,1318,KXA10REG-26-GMU,Will George Mason be the Atlantic 10 Conference regular season champions?
+1733,0.002,0.98,37881,829,KXCBVOLUME-26-Q4-300,Coinbase trading volume this quarter?
+1734,0.002,0.98,180,780,KXPGATOP5-FAIO26-DWU,Will Dylan Wu finish top 5 (including ties) in Farmers Insurance Open golf tournament?
+1735,0.002,0.97,249,1822,KXMARMADROUND-26F4-USC,Will USC qualify for the Men's March Madness Final Four?
+1736,0.002,0.97,473,1304,KXEFLCUP-26-CAR,Will Cardiff City win the EFL Carabao Cup in 2026?
+1737,0.002,0.96,100,1990,KXLEADERNBASTL-26-JJOH,Will Jalen Johnson lead Pro Basketball in Steals Per Game for the 2025-26 Regular Season?
+1738,0.002,0.96,343,1990,KXLEADERNBABLK-26-RGOB,Will Rudy Gobert lead Pro Basketball in Blocks Per Game for the 2025-26 Regular Season?
+1739,0.002,0.96,2132,1990,KXLEADERNBAPTS-26-GANT,Will Giannis Antetokounmpo lead Pro Basketball in Points Per Game for the 2025-26 Regular Season?
+1740,0.002,0.96,404,1990,KXLEADERNBAPTS-26-JBRU,Will Jalen Brunson lead Pro Basketball in Points Per Game for the 2025-26 Regular Season?
+1741,0.002,0.98,3553,781,KXIPOOPENAI-26MAR01,When will OpenAI IPO?
+1742,0.002,0.98,13843,781,KXIPOSPACEX-26MAR01,When will SpaceX IPO?
+1743,0.002,0.97,24719,1524,KXIPOSPACEX-26APR01,When will SpaceX IPO?
+1744,0.002,0.97,488,1197,KXCBDECISIONCANADA-26MAR-C25,Will Bank of Canada Cut rates by 25bps at their March 2026 meeting?
+1745,0.002,0.98,192,780,KXPGATOP5-FAIO26-LCLA,Will Luke Clanton finish top 5 (including ties) in Farmers Insurance Open golf tournament?
+1746,0.002,0.98,106,780,KXPGATOP5-FAIO26-TKIM,Will Tom Kim finish top 5 (including ties) in Farmers Insurance Open golf tournament?
+1747,0.002,0.98,13091,1202,KXFED-26MAR-T3.75,"Will the upper bound of the federal funds rate be above 3.75% following the Fed's Mar 18, 2026 meeting?"
+1748,0.002,0.98,267,781,KXEDVACONF-26MAR01,"Will Lindsey Halligan be confirmed as United States Attorney for the Eastern District of Virginia before Mar 1, 2026?"
+1749,0.002,0.98,53381,781,KXTARIFFCHECKS-26-MAR,Will it be reported that at least one million Americans have received checks of at least $1000 directly attributable to tariff revenue?
+1750,0.002,0.97,123,1846,KXNCAAMBNAISMITH-26-JFEA,Who will win College Basketball Naismith Player of the Year?
+1751,0.002,0.97,32935,1318,KXBIG12REG-26-TTU,Will Texas Tech be the Big 12 regular season champions?
+1752,0.002,0.97,2454,1318,KXMWREG-26-GC,Will Grand Canyon be the Mountain West Conference regular season champions?
+1753,0.002,0.96,5463,1990,KXLEADERNBAREB-26-JDUR,Will Jalen Duren lead Pro Basketball in Rebounds Per Game for the 2025-26 Regular Season?
+1754,0.002,0.96,100,1990,KXLEADERNBAAST-26-LBAL,Will LaMelo Ball lead Pro Basketball in Assists Per Game for the 2025-26 Regular Season?
+1755,0.002,0.96,166,1990,KXLEADERNBAAST-26-TMAX,Will Tyrese Maxey lead Pro Basketball in Assists Per Game for the 2025-26 Regular Season?
+1756,0.002,0.96,166,1990,KXLEADERNBA3PT-26-LMAR,Will Lauri Markkanen lead Pro Basketball in Three Pointers Made Per Game for the 2025-26 Regular Season?
+1757,0.002,0.96,818,1990,KXLEADERNBABLK-26-EMOB,Will Evan Mobley lead Pro Basketball in Blocks Per Game for the 2025-26 Regular Season?
+1758,0.002,0.95,7706,1990,KXLEADERNBAREB-26-RGOB,Will Rudy Gobert lead Pro Basketball in Rebounds Per Game for the 2025-26 Regular Season?
+1759,0.002,0.97,107,1846,KXNCAAMBNAISMITH-26-TKRE,Who will win College Basketball Naismith Player of the Year?
+1760,0.002,0.97,144,1534,KXFEATUREHARRYSTYLES-26-KAC,"Will Kacey Musgraves be featured on ""Kiss All The Time. Disco, Occasionally."" by Harry Styles?"
+1761,0.002,0.98,239,1246,KXMAKEMARMAD-26-PRIN,Men's March Madness Round of 64 Qualifiers
+1762,0.002,0.97,17849,1246,KXMAKEMARMAD-26-MISS,Men's March Madness Round of 64 Qualifiers
+1763,0.002,0.98,11976,1246,KXMAKEMARMAD-26-GTWN,Men's March Madness Round of 64 Qualifiers
+1764,0.002,0.97,7954,1318,KXT20WORLDCUP-26-PAK,Will Pakistan win the 2026 ICC Men's T20 World Cup?
+1765,0.002,0.98,3422,973,KXWO-GOLD-26-CHN,Will China PR have the most gold medals in the 2026 Winter Olympics?
+1766,0.002,0.98,781,1246,KXMAKEMARMAD-26-RICH,Men's March Madness Round of 64 Qualifiers
+1767,0.002,0.97,21950,1318,KXAACREG-26-TULN,Will Tulane be the American Athletic Conference regular season champions?
+1768,0.002,0.97,4475,1318,KXAACREG-26-TEM,Will Temple be the American Athletic Conference regular season champions?
+1769,0.002,0.98,357,973,KXWO-MEDALS-26-CHE,Will Switzerland have the most total medals in the 2026 Winter Olympics?
+1770,0.002,0.98,3783,973,KXWO-MEDALS-26-CAN,Will Canada have the most total medals in the 2026 Winter Olympics?
+1771,0.002,0.98,104,973,KXWO-GOLD-26-SWE,Will Sweden have the most gold medals in the 2026 Winter Olympics?
+1772,0.002,0.97,1880,1356,KXNEXTTEAMSKUBAL-26-NYY,What will be Tarik Skubal's next team?
+1773,0.002,0.97,774,1510,KXALBUMTRACKSHARRY-26-14,"Will Kiss All The Time. Disco, Occasionally. by Harry Styles have At least 14 tracks?"
+1774,0.002,0.97,985,1356,KXNEXTTEAMSKUBAL-26-SD,What will be Tarik Skubal's next team?
+1775,0.002,0.98,1564,973,KXWO-GOLD-26-CAN,Will Canada have the most gold medals in the 2026 Winter Olympics?
+1776,0.002,0.96,999,1990,KXLEADERNBAAST-26-JGID,Will Josh Giddey lead Pro Basketball in Assists Per Game for the 2025-26 Regular Season?
+1777,0.002,0.98,299,1028,KXCPIYOY-26FEB-T2.8,Will the rate of CPI inflation be above 2.8% for the year ending in February 2026?
+1778,0.002,0.96,147,1846,KXNCAAMBNAISMITH-26-BFLA,Who will win College Basketball Naismith Player of the Year?
+1779,0.002,0.97,7160,1318,KXBIGEASTREG-26-HALL,Will Seton Hall be the Big East regular season champions?
+1780,0.002,0.97,39353,1318,KXSECREG-26-UK,Will Kentucky be the SEC regular season champions?
+1781,0.002,0.97,9737,1318,KXACCREG-26-SMU,Will SMU be the ACC regular season champions?
+1782,0.002,0.97,77374,1318,KXBIG12REG-26-ISU,Will Iowa St. be the Big 12 regular season champions?
+1783,0.002,0.97,42678,1534,KXELECTVENEZUELA-26APR01,"Will Venezuela hold a presidential election before Apr 1, 2026?"
+1784,0.002,0.95,4201,1966,KXWMARMAD-26-LSU,Will LSU win the Women's College Basketball National Championship?
+1785,0.002,0.97,337,1356,KXNEXTTEAMMLB-26CBEL-DET,What will be Cody Bellinger's next team?
+1786,0.002,0.98,16218,791,KXLEAVELISACOOK-26JAN-MAR01,Lisa DeNell Cook out as Federal Reserve Governor before Mar 2026?
+1787,0.002,0.97,34493,1318,KXBIG12REG-26-KU,Will Kansas be the Big 12 regular season champions?
+1788,0.002,0.96,21896,1836,KXWINSTREAKOKC-26-20,Will the Oklahoma City Pro Basketball win at least 20 games in a row this season?
+1789,0.002,0.96,6147,1836,KXWINSTREAKOKC-26-33,Will the Oklahoma City Pro Basketball win at least 33 games in a row this season?
+1790,0.002,0.97,5399,1836,KXWINSTREAKOKC-26-34,Will the Oklahoma City Pro Basketball win at least 34 games in a row this season?
+1791,0.002,0.98,197,791,KXRANKLISTSONGSPOTUSA-26MAR01-HUN,Will HUNTR/X be #1 on Any Spotify Daily Top Songs USA chart in February?
+1792,0.002,0.96,3228,1966,KXWMARMAD-26-OKLA,Will Oklahoma win the Women's College Basketball National Championship?
+1793,0.002,0.97,130,1822,KXMARMADROUND-26F4-LOU,Will Louisville qualify for the Men's March Madness Final Four?
+1794,0.002,0.97,100,1654,KXMARMADROUND-26S16-GTWN,Will Georgetown qualify for the Men's March Madness Sweet Sixteen?
+1795,0.002,0.97,326,1246,KXMAKEMARMAD-26-UCSD,Men's March Madness Round of 64 Qualifiers
+1796,0.002,0.98,772,791,KXVOTESHUTDOWNS-MAR26-BSAN,"Will Bernie Sanders vote for the next omnibus spending bill, minibus, any of the 12 annual appropriations bills, or government-wide continuing resolution (CR)?"
+1797,0.002,0.98,166,1246,KXMAKEMARMAD-26-UTU,Men's March Madness Round of 64 Qualifiers
+1798,0.002,0.98,201,1246,KXMAKEMARMAD-26-WEB,Men's March Madness Round of 64 Qualifiers
+1799,0.002,0.97,519,1846,KXNCAAMBNAISMITH-26-SBAL,Who will win College Basketball Naismith Player of the Year?
+1800,0.002,0.97,311,1846,KXNCAAMBNAISMITH-26-TIE,Who will win College Basketball Naismith Player of the Year?
+1801,0.002,0.96,1695,1966,KXWMARMAD-26-MICH,Will Michigan win the Women's College Basketball National Championship?
+1802,0.002,0.97,422,1846,KXNCAAMBNAISMITH-26-DDEN,Who will win College Basketball Naismith Player of the Year?
+1803,0.002,0.97,624,1846,KXNCAAMBNAISMITH-26-DWIL,Who will win College Basketball Naismith Player of the Year?
+1804,0.002,0.97,556,1846,KXNCAAMBNAISMITH-26-JGIL,Who will win College Basketball Naismith Player of the Year?
+1805,0.002,0.97,776,1846,KXNCAAMBNAISMITH-26-OOWE,Who will win College Basketball Naismith Player of the Year?
+1806,0.002,0.97,157,1846,KXNCAAMBNAISMITH-26-RSAU,Who will win College Basketball Naismith Player of the Year?
+1807,0.001,0.98,109078,1510,KXEARNINGSMENTIONEA-25OCT28-APEX,What will Electronic Arts Inc. say during their next earnings call?
+1808,0.001,0.98,1064,1524,KXGOVFORMPL-26APR,Will a new government be formed in Poland before Apr 2026?
+1809,0.001,0.98,1032,1356,KXNEXTTEAMMLB-26KMAR-SEA,What will be Ketel Marte's next team?
+1810,0.001,0.98,440744,1511,KXGOVTCUTS-25-50,Will government spending decrease by 50 before 2025?
+1811,0.001,0.98,504997,1511,KXGOVTCUTS-25-100,Will government spending decrease by 100 before 2025?
+1812,0.001,0.98,37751,1356,KXNEXTTEAMMLB-26CBEL-NYM,What will be Cody Bellinger's next team?
+1813,0.001,0.98,372552,1510,KXEARNINGSMENTIONEA-25OCT28-LIVE,What will Electronic Arts Inc. say during their next earnings call?
+1814,0.001,0.98,352800,1510,KXEARNINGSMENTIONEA-25OCT28-ENGA,What will Electronic Arts Inc. say during their next earnings call?
+1815,0.001,0.98,8027,1318,KXT20WORLDCUP-26-NZ,Will New Zealand win the 2026 ICC Men's T20 World Cup?
+1816,0.001,0.98,10274,1318,KXT20WORLDCUP-26-SRI,Will Sri Lanka win the 2026 ICC Men's T20 World Cup?
+1817,0.001,0.98,2375,1318,KXT20WORLDCUP-26-WI,Will West Indies win the 2026 ICC Men's T20 World Cup?
+1818,0.001,0.98,1233,1510,KXALBUMTRACKSHARRY-26-15,"Will Kiss All The Time. Disco, Occasionally. by Harry Styles have At least 15 tracks?"
+1819,0.001,0.97,3589,1966,KXWMARMAD-26-VAN,Will Vanderbilt win the Women's College Basketball National Championship?
+1820,0.001,0.98,267,1356,KXNEXTTEAMSKUBAL-26-CHC,What will be Tarik Skubal's next team?
+1821,0.001,0.98,1225,1356,KXNEXTTEAMSKUBAL-26-SEA,What will be Tarik Skubal's next team?
+1822,0.001,0.98,201,1990,KXLEADERNBAREB-26-ADRU,Will Andre Drummond lead Pro Basketball in Rebounds Per Game for the 2025-26 Regular Season?
+1823,0.001,0.98,240,1524,KXSTRIPEIPO-26APR01,When will Stripe IPO?
+1824,0.001,0.98,1785,1318,KXT20WORLDCUP-26-AFG,Will Afghanistan win the 2026 ICC Men's T20 World Cup?
+1825,0.001,0.98,100,1990,KXLEADERNBASTL-26-OANU,Will OG Anunoby lead Pro Basketball in Steals Per Game for the 2025-26 Regular Season?
+1826,0.001,0.97,420,1990,KXLEADERNBAPTS-26-JBRO,Will Jaylen Brown lead Pro Basketball in Points Per Game for the 2025-26 Regular Season?
+1827,0.001,0.98,4964,1990,KXLEADERNBAPTS-26-TMAX,Will Tyrese Maxey lead Pro Basketball in Points Per Game for the 2025-26 Regular Season?
+1828,0.001,0.97,1467,1990,KXLEADERNBAPTS-26-SCUR,Will Stephen Curry lead Pro Basketball in Points Per Game for the 2025-26 Regular Season?
+1829,0.001,0.98,471418,1510,KXEARNINGSMENTIONEA-25OCT28-MOBL,What will Electronic Arts Inc. say during their next earnings call?
+1830,0.001,0.98,131519,1510,KXEARNINGSMENTIONEA-25OCT28-SAUD,What will Electronic Arts Inc. say during their next earnings call?
+1831,0.001,0.98,2166,1318,KXA10REG-26-DAY,Will Dayton be the Atlantic 10 Conference regular season champions?
+1832,0.001,0.98,13916,1524,KXIPOOPENAI-26APR01,When will OpenAI IPO?
+1833,0.001,0.98,1262,1990,KXLEADERNBAREB-26-KWAR,Will Kel'el Ware lead Pro Basketball in Rebounds Per Game for the 2025-26 Regular Season?
+1834,0.001,0.98,6490,1990,KXLEADERNBABLK-26-JHUF,Will Jay Huff lead Pro Basketball in Blocks Per Game for the 2025-26 Regular Season?
+1835,0.001,0.97,782,1990,KXLEADERNBASTL-26-MBRI,Will Mikal Bridges lead Pro Basketball in Steals Per Game for the 2025-26 Regular Season?
+1836,0.001,0.98,100,1990,KXLEADERNBABLK-26-SBAR,Will Scottie Barnes lead Pro Basketball in Blocks Per Game for the 2025-26 Regular Season?
+1837,0.001,0.98,3575,1990,KXLEADERNBA3PT-26-TMAX,Will Tyrese Maxey lead Pro Basketball in Three Pointers Made Per Game for the 2025-26 Regular Season?
+1838,0.001,0.97,102,1990,KXLEADERNBA3PT-26-LBAL,Will LaMelo Ball lead Pro Basketball in Three Pointers Made Per Game for the 2025-26 Regular Season?
+1839,0.001,0.97,3036,1990,KXLEADERNBAREB-26-IZUB,Will Ivica Zubac lead Pro Basketball in Rebounds Per Game for the 2025-26 Regular Season?
+1840,0.001,0.98,4114,1318,KXWCCREG-26-SMC,Will Saint Mary's be the West Coast Conference regular season champions?
+1841,0.001,0.98,25570,1846,KXNCAAMBNAISMITH-26-YLEN,Who will win College Basketball Naismith Player of the Year?
+1842,0.001,0.98,200,1318,KXAACREG-26-CHAR,Will Charlotte be the American Athletic Conference regular season champions?
+1843,0.001,0.98,112,1318,KXAACREG-26-ECU,Will East Carolina be the American Athletic Conference regular season champions?
+1844,0.001,0.98,136,1534,KXFEATUREHARRYSTYLES-26-LOR,"Will Lorde be featured on ""Kiss All The Time. Disco, Occasionally."" by Harry Styles?"
+1845,0.001,0.98,5884,1356,KXNEXTTEAMMLB-26FVALDEZ-NYM,What will be Framber Valdez's next team?
+1846,0.001,0.98,401,1294,KXOSCARCOUNT-26-HAM-3,How many awards will Hamnet win at the Oscars?
+1847,0.001,0.98,255,1294,KXOSCARCOUNT-26-FRA-5,How many awards will Frankenstein win at the Oscars?
+1848,0.001,0.97,165,1966,KXWMARMAD-26-UNC,Will North Carolina win the Women's College Basketball National Championship?
+1849,0.001,0.97,1625,1966,KXWMARMAD-26-ISU,Will Iowa St. win the Women's College Basketball National Championship?
+1850,0.001,0.97,406,1966,KXWMARMAD-26-NCST,Will North Carolina St. win the Women's College Basketball National Championship?
+1851,0.001,0.97,193,1966,KXWMARMAD-26-MISS,Will Ole Miss win the Women's College Basketball National Championship?
+1852,0.001,0.97,411,1966,KXWMARMAD-26-LOU,Will Louisville win the Women's College Basketball National Championship?
+1853,0.001,0.97,238,1966,KXWMARMAD-26-DUKE,Will Duke win the Women's College Basketball National Championship?
+1854,0.001,0.97,171,1966,KXWMARMAD-26-IOWA,Will Iowa win the Women's College Basketball National Championship?
+1855,0.001,0.98,442,1524,KXAMBMALAY-26JAN06-APR01,"Will Nick Adams be confirmed as Ambassador of Malaysia before Apr 1, 2026?"
+1856,0.001,0.97,259,1966,KXWMARMAD-26-BAY,Will Baylor win the Women's College Basketball National Championship?
+1857,0.001,0.98,454,1966,KXWMARMAD-26-ND,Will Notre Dame win the Women's College Basketball National Championship?
+1858,0.001,0.97,378,1966,KXWMARMAD-26-UK,Will Kentucky win the Women's College Basketball National Championship?
+1859,0.001,0.98,351,1966,KXWMARMAD-26-USC,Will USC win the Women's College Basketball National Championship?
+1860,0.001,0.98,2360,1318,KXMWREG-26-UNLV,Will UNLV be the Mountain West Conference regular season champions?
+1861,0.001,0.98,32566,1318,KXSECREG-26-UGA,Will Georgia be the SEC regular season champions?
+1862,0.001,0.98,17568,1318,KXBIG12REG-26-OKST,Will Oklahoma St. be the Big 12 regular season champions?
+1863,0.001,0.98,19843,1318,KXACCREG-26-NCST,Will North Carolina St. be the ACC regular season champions?
+1864,0.001,0.98,21758,1318,KXACCREG-26-LOU,Will Louisville be the ACC regular season champions?
+1865,0.001,0.98,10849,1836,KXWINSTREAKOKC-26-25,Will the Oklahoma City Pro Basketball win at least 25 games in a row this season?
+1866,0.001,0.98,120398,1510,KXEARNINGSMENTIONEA-25OCT28-SIMS,What will Electronic Arts Inc. say during their next earnings call?
+1867,0.001,0.98,186488,1510,KXEARNINGSMENTIONEA-25OCT28-SKAT,What will Electronic Arts Inc. say during their next earnings call?
+1868,0.001,0.98,245503,1510,KXEARNINGSMENTIONEA-25OCT28-SPFC,What will Electronic Arts Inc. say during their next earnings call?
+1869,0.001,0.98,233577,1510,KXEARNINGSMENTIONEA-25OCT28-ACQU,What will Electronic Arts Inc. say during their next earnings call?
+1870,0.001,0.98,138164,1510,KXEARNINGSMENTIONEA-25OCT28-COMP,What will Electronic Arts Inc. say during their next earnings call?
+1871,0.001,0.98,47229,1510,KXEARNINGSMENTIONEA-25OCT28-UNDP,What will Electronic Arts Inc. say during their next earnings call?
+1872,0.001,0.98,55166,1535,KXUSDEBT-130,Will US debt be more than 130% of GDP before 2026?
